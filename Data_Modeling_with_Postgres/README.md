@@ -63,7 +63,9 @@ start_time, hour, day, week, month, year, weekday
 
 ## Environment 
 Python 3.6 or above
+
 PostgresSQL 9.5 or above
+
 psycopg2 - PostgreSQL database adapter for Python
 
 

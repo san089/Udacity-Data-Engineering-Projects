@@ -9,63 +9,81 @@ time_table_drop = "DROP TABLE  IF EXISTS time"
 # CREATE TABLES
 
 songplay_table_create = ("""CREATE TABLE IF NOT EXISTS songplays(
-	songplay_id varchar,
-	start_time timestamp REFERENCES time (start_time),
-	user_id int REFERENCES users (user_id),
-	level varchar,
-	song_id varchar REFERENCES songs (song_id),
-	artist_id varchar REFERENCES artists (artist_id),
-	session_id int,
-	location varchar,
-	user_agent text
+	songplay_id SERIAL CONSTRAINT songplay_pk PRIMARY KEY,
+	start_time TIMESTAMP REFERENCES time (start_time),
+	user_id INT REFERENCES users (user_id),
+	level VARCHAR NOT NULL,
+	song_id VARCHAR REFERENCES songs (song_id),
+	artist_id VARCHAR REFERENCES artists (artist_id),
+	session_id INT NOT NULL, 
+	location VARCHAR,
+	user_agent TEXT
 )""")
 
 user_table_create = ("""CREATE TABLE IF NOT EXISTS  users(
-	user_id  int CONSTRAINT users_pk PRIMARY KEY,
-	first_name  varchar,
-	last_name  varchar,
-	gender  char(1),
-	level varchar
+	user_id  INT CONSTRAINT users_pk PRIMARY KEY,
+	first_name  VARCHAR,
+	last_name  VARCHAR,
+	gender  CHAR(1),
+	level VARCHAR NOT NULL
 )""")
 
 song_table_create = ("""CREATE TABLE  IF NOT EXISTS songs(
-	song_id varchar CONSTRAINT songs_pk PRIMARY KEY,
-	title  varchar,
-	artist_id  varchar REFERENCES artists (artist_id),
-	year  int,
-	duration  float
+	song_id VARCHAR CONSTRAINT songs_pk PRIMARY KEY,
+	title  VARCHAR,
+	artist_id  VARCHAR REFERENCES artists (artist_id),
+	year INT CHECK (year >= 0),
+	duration FLOAT
 )""")
 
 artist_table_create = ("""CREATE TABLE  IF NOT EXISTS artists(
-	artist_id  varchar CONSTRAINT artist_pk PRIMARY KEY,
-	name  varchar,
-	location  varchar,
-	latitude  decimal(9,6),
-	longitude  decimal(9,6)
+	artist_id VARCHAR CONSTRAINT artist_pk PRIMARY KEY,
+	name VARCHAR,
+	location VARCHAR,
+	latitude DECIMAL(9,6),
+	longitude DECIMAL(9,6)
 )""")
 
 time_table_create = ("""CREATE TABLE IF NOT EXISTS  time(
-	start_time  timestamp CONSTRAINT time_pk PRIMARY KEY,
-	hour  int,
-	day  int,
-	week   int,
-	month  int,
-	year   int,
-	weekday varchar
+	start_time  TIMESTAMP CONSTRAINT time_pk PRIMARY KEY,
+	hour INT NOT NULL CHECK (hour >= 0),
+	day INT NOT NULL CHECK (day >= 0),
+	week INT NOT NULL CHECK (week >= 0),
+	month INT NOT NULL CHECK (month >= 0),
+	year INT NOT NULL CHECK (year >= 0),
+	weekday VARCHAR NOT NULL
 )""")
 
 # INSERT RECORDS
 
-songplay_table_insert = ("""INSERT INTO songplays VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s )
+songplay_table_insert = ("""INSERT INTO songplays VALUES (DEFAULT, %s, %s, %s, %s, %s, %s, %s, %s )
 """)
 
-user_table_insert = ("""INSERT INTO users VALUES (%s, %s, %s, %s, %s) ON CONFLICT (user_id) DO NOTHING
+user_table_insert = ("""INSERT INTO users (user_id, first_name, last_name, gender, level) VALUES (%s, %s, %s, %s, %s) 
+                        ON CONFLICT (user_id) DO UPDATE SET 
+                        user_id = EXCLUDED.user_id, 
+                        first_name = EXCLUDED.first_name,
+                        last_name = EXCLUDED.last_name,
+                        gender = EXCLUDED.gender,
+                        level = EXCLUDED.level 
 """)
 
-song_table_insert = ("""INSERT INTO songs VALUES (%s, %s, %s, %s, %s) ON CONFLICT (song_id) DO NOTHING
+song_table_insert = ("""INSERT INTO songs (song_id, title, artist_id, year, duration) VALUES (%s, %s, %s, %s, %s) 
+                        ON CONFLICT (song_id) DO UPDATE SET
+                        song_id = EXCLUDED.song_id,
+                        title = EXCLUDED.title,
+                        artist_id = EXCLUDED.artist_id,
+                        year = EXCLUDED.year,
+                        duration = EXCLUDED.duration
 """)
 
-artist_table_insert = ("""INSERT INTO artists VALUES (%s, %s, %s, %s, %s) ON CONFLICT (artist_id) DO NOTHING
+artist_table_insert = ("""INSERT INTO artists (artist_id, name, location, latitude, longitude) VALUES (%s, %s, %s, %s, %s) 
+                          ON CONFLICT (artist_id) DO UPDATE SET
+                          artist_id = EXCLUDED.artist_id,
+                          name = EXCLUDED.name,
+                          location = EXCLUDED.location,
+                          latitude = EXCLUDED.latitude,
+                          longitude = EXCLUDED.longitude
 """)
 
 time_table_insert = ("""INSERT INTO time VALUES (%s, %s, %s, %s, %s, %s, %s) ON CONFLICT (start_time) DO NOTHING

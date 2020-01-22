@@ -39,7 +39,10 @@ def main():
     cur, conn = create_database()
     
     drop_tables(cur, conn)
+    print("Table dropped successfully!!")
+
     create_tables(cur, conn)
+    print("Table created successfully!!")
 
     conn.close()
 

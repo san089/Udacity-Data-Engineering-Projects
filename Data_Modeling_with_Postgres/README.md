@@ -74,6 +74,11 @@ Run the drive program ```main.py``` as below.
 python main.py
 ``` 
 
+The ```create_tables.py``` and ```etl.py``` file can also be run independently as below:
+```
+python create_tables.py 
+python etl.py 
+```
 
 
  #### Reference: 

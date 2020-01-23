@@ -1,0 +1,97 @@
+artist,auth,firstName,gender,itemInSession,lastName,length,level,location,method,page,registration,sessionId,song,status,ts,userId
+Hoobastank,Logged In,Cierra,F,0,Finley,241.3971,free,"Richmond, VA",PUT,NextSong,1.54101E+12,132,Say The Same,200,1.54181E+12,96
+Mark Knopfler,Logged In,Cierra,F,1,Finley,249.3122,free,"Richmond, VA",PUT,NextSong,1.54101E+12,132,Why Aye Man,200,1.54181E+12,96
+Mogwai,Logged In,Cierra,F,2,Finley,341.28934,free,"Richmond, VA",PUT,NextSong,1.54101E+12,132,We're No Here,200,1.54181E+12,96
+The Casualties,Logged In,Cierra,F,3,Finley,181.49832,free,"Richmond, VA",PUT,NextSong,1.54101E+12,132,Punx Unite,200,1.54181E+12,96
+,Logged In,Cecilia,F,0,Owens,,free,"Atlanta-Sandy Springs-Roswell, GA",GET,Home,1.54103E+12,424,,200,1.54181E+12,6
+The Living End,Logged In,Ryan,M,0,Smith,188.62975,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,433,Roll On (Album Version),200,1.54182E+12,26
+Aloe Blacc,Logged In,Rylan,M,0,George,244.1922,free,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,402,I Need A Dollar,200,1.54183E+12,16
+Faith No More,Logged In,Rylan,M,1,George,326.50404,free,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,402,Helpless,200,1.54183E+12,16
+Chris Cornell,Logged In,Aleena,F,0,Kirby,353.69751,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Sunshower (Great Expectations Soundtrack),200,1.54184E+12,44
+Weezer,Logged In,Aleena,F,1,Kirby,203.93751,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,My Name Is Jonas,200,1.54184E+12,44
+Stream of Passion feat. Ayreon,Logged In,Aleena,F,2,Kirby,257.56689,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Valley Of The Queens,200,1.54184E+12,44
+Lupe Fiasco,Logged In,Aleena,F,3,Kirby,273.94567,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Shining Down [feat. Matthew Santos] (Amended Album Version),200,1.54184E+12,44
+Tom Petty,Logged In,Aleena,F,4,Kirby,263.23546,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Runnin' Down A Dream,200,1.54184E+12,44
+The Killers,Logged In,Aleena,F,5,Kirby,220.89098,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,When You Were Young,200,1.54184E+12,44
+Afghan Whigs,Logged In,Aleena,F,6,Kirby,179.40853,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,I'm Her Slave (Album),200,1.54184E+12,44
+CSS,Logged In,Aleena,F,7,Kirby,213.75955,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Let's Make Love And Listen To Death From Above [Dan Carey Mix] (remastered album version),200,1.54184E+12,44
+Mos Def / Talib Kweli,Logged In,Aleena,F,8,Kirby,141.37424,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,History,200,1.54184E+12,44
+Ryan Leslie,Logged In,Aleena,F,9,Kirby,203.96363,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,How It Was Supposed To Be,200,1.54184E+12,44
+Mark Lowry,Logged In,Aleena,F,10,Kirby,168.28036,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Get Together With The Lord (The Best Of Mark Lowry - Volume 2 Version),200,1.54184E+12,44
+Beirut,Logged In,Aleena,F,11,Kirby,230.19057,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Nantes,200,1.54184E+12,44
+MODESELEKTOR FEAT. PUPPETMASTAZ,Logged In,Aleena,F,12,Kirby,52.79302,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,THE DARK SIDE OF THE FROG,200,1.54184E+12,44
+Kid Cudi / Kanye West / Common,Logged In,Aleena,F,13,Kirby,237.76608,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Make Her Say,200,1.54184E+12,44
+Julie Ruin,Logged In,Aleena,F,14,Kirby,142.47138,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Breakout A-Town,200,1.54184E+12,44
+Sons And Daughters,Logged In,Aleena,F,15,Kirby,165.90322,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,The Bell,200,1.54184E+12,44
+Children 18:3,Logged In,Aleena,F,16,Kirby,178.52036,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Mock The Music,200,1.54184E+12,44
+Chris Cagle,Logged In,Aleena,F,17,Kirby,232.85506,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Miss Me Baby,200,1.54184E+12,44
+John Waite,Logged In,Aleena,F,18,Kirby,269.76608,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Missing You,200,1.54184E+12,44
+Basshunter,Logged In,Aleena,F,19,Kirby,223.32036,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Walk On Water,200,1.54184E+12,44
+Jay-Z / Lil Wayne,Logged In,Aleena,F,20,Kirby,236.01587,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Hello Brooklyn 2.0,200,1.54184E+12,44
+Snow Patrol,Logged In,Aleena,F,21,Kirby,273.6322,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,It's Beginning To Get To Me,200,1.54184E+12,44
+Coldcut,Logged In,Aleena,F,22,Kirby,203.07546,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Autumn Leaves,200,1.54184E+12,44
+Magic Dirt,Logged In,Aleena,F,23,Kirby,251.79383,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Plastic Loveless Letter,200,1.54184E+12,44
+J. Karjalainen & Mustat Lasit,Logged In,Aleena,F,24,Kirby,336.74404,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Sinisten tÃÂ¤htien alla,200,1.54184E+12,44
+OneRepublic,Logged In,Aleena,F,25,Kirby,224.67873,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Secrets,200,1.54184E+12,44
+Nirvana,Logged In,Aleena,F,26,Kirby,219.08853,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Come As You Are,200,1.54184E+12,44
+,Logged In,Theodore,M,0,Smith,,free,"Houston-The Woodlands-Sugar Land, TX",GET,Home,1.54031E+12,359,,200,1.54184E+12,52
+Joyce Cooling,Logged In,Aleena,F,27,Kirby,248.11057,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,It's Time I Go (Jazz),200,1.54184E+12,44
+Beastie Boys,Logged In,Aleena,F,28,Kirby,211.722,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Unite (2009 Digital Remaster),200,1.54184E+12,44
+Usher Featuring Lil' Jon & Ludacris,Logged In,Aleena,F,29,Kirby,250.38322,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Yeah!,200,1.54184E+12,44
+Nelly / Paul Wall / Ali & Gipp,Logged In,Aleena,F,30,Kirby,272.50893,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Grillz,200,1.54184E+12,44
+The Audition,Logged In,Aleena,F,31,Kirby,207.20281,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,The Running Man,200,1.54184E+12,44
+Savage Garden,Logged In,Aleena,F,32,Kirby,277.26322,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Truly Madly Deeply,200,1.54184E+12,44
+Adam Green,Logged In,Aleena,F,33,Kirby,141.00853,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Festival Song,200,1.54184E+12,44
+Tom Petty,Logged In,Aleena,F,34,Kirby,204.82567,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Square One (Album Version),200,1.54184E+12,44
+Muse,Logged In,Aleena,F,35,Kirby,209.34485,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,350,Supermassive Black Hole (Album Version),200,1.54184E+12,44
+The Gerbils,Logged In,Jordan,F,0,Hicks,27.01016,free,"Salinas, CA",PUT,NextSong,1.54001E+12,304,(iii),200,1.54184E+12,37
+Robert Plant,Logged In,Jordan,F,1,Hicks,265.66485,free,"Salinas, CA",PUT,NextSong,1.54001E+12,304,Dancing In Heaven (2006 Remastered LP Version),200,1.54184E+12,37
+Metallica,Logged In,Jordan,F,2,Hicks,387.02975,free,"Salinas, CA",PUT,NextSong,1.54001E+12,304,Welcome Home (Sanitarium),200,1.54184E+12,37
+Infected Mushroom,Logged In,Jordan,F,3,Hicks,506.51383,free,"Salinas, CA",PUT,NextSong,1.54001E+12,304,Deeply Disturbed,200,1.54184E+12,37
+Eliza Doolittle,Logged In,Jordan,F,4,Hicks,184.60689,free,"Salinas, CA",PUT,NextSong,1.54001E+12,304,Rollerblades,200,1.54185E+12,37
+Alvin And The Chipmunks,Logged In,Jordan,F,5,Hicks,162.63791,free,"Salinas, CA",PUT,NextSong,1.54001E+12,304,Ain't No Party,200,1.54185E+12,37
+Chromeo,Logged In,Jordan,F,6,Hicks,348.65587,free,"Salinas, CA",PUT,NextSong,1.54001E+12,304,You're So Gangsta,200,1.54185E+12,37
+Keisha White,Logged In,Kevin,M,0,Arellano,251.42812,free,"Harrisburg-Carlisle, PA",PUT,NextSong,1.54001E+12,387,Brother,200,1.54185E+12,66
+Juanes,Logged In,Kevin,M,1,Arellano,247.37914,free,"Harrisburg-Carlisle, PA",PUT,NextSong,1.54001E+12,387,Damelo,200,1.54185E+12,66
+,Logged In,Walter,M,0,Frye,,free,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54092E+12,180,,200,1.54185E+12,39
+Karnivool,Logged In,Ryan,M,0,Smith,470.80444,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,445,Umbra,200,1.54186E+12,26
+WES,Logged In,Cecilia,F,0,Owens,221.57016,free,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54103E+12,444,Alane,200,1.54186E+12,6
+Asia 2001,Logged In,Cecilia,F,1,Owens,150.30812,free,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54103E+12,444,Epilogue,200,1.54186E+12,6
+Spike Milligan,Logged In,Samuel,M,0,Gonzalez,220.39465,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54049E+12,384,Nothing At All,200,1.54186E+12,61
+Laura Izibor,Logged In,Anabelle,F,0,Simpson,211.56526,free,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PUT,NextSong,1.54104E+12,378,Carousel (PSILY Album Version),200,1.54187E+12,69
+,Logged In,Lily,F,0,Burns,,free,"New York-Newark-Jersey City, NY-NJ-PA",GET,Home,1.54062E+12,426,,200,1.54187E+12,32
+Ryan Adams,Logged In,Braden,M,0,Parker,248.5024,free,"Youngstown-Warren-Boardman, OH-PA",PUT,NextSong,1.541E+12,246,Wonderwall,200,1.54187E+12,74
+,Logged In,Adelyn,F,0,Jordan,,free,"Chicago-Naperville-Elgin, IL-IN-WI",GET,Home,1.54013E+12,391,,200,1.54187E+12,7
+Method Man,Logged In,Adelyn,F,1,Jordan,204.64281,free,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54013E+12,391,The Motto,200,1.54187E+12,7
+The Stanley Brothers,Logged In,Adelyn,F,2,Jordan,179.69587,free,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54013E+12,391,I'm A Man Of Constant Sorrow,200,1.54187E+12,7
+Dexter Freebish,Logged In,Adelyn,F,3,Jordan,210.54649,free,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54013E+12,391,Deeper,200,1.54187E+12,7
+Jamiroquai,Logged In,Jacob,M,0,Rogers,362.05669,free,"San Diego-Carlsbad, CA",PUT,NextSong,1.54098E+12,432,Talullah,200,1.54187E+12,18
+Michael Cera & Ellen Page,Logged In,Matthew,M,0,Jones,116.71465,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Anyone Else But You,200,1.54188E+12,36
+The Cat Empire,Logged In,Matthew,M,1,Jones,218.22649,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,How To Explain,200,1.54188E+12,36
+Bryn Terfel / Berliner Philharmoniker / Claudio Abbado,Logged In,Matthew,M,2,Jones,967.36608,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Wotan's Farewell & Magic Fire Music,200,1.54188E+12,36
+The Fugees,Logged In,Matthew,M,3,Jones,281.20771,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Ready Or Not,200,1.54188E+12,36
+Hardline,Logged In,Matthew,M,4,Jones,234.73587,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Everything,200,1.54188E+12,36
+The Funky Lowlives,Logged In,Matthew,M,5,Jones,280.34567,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Sail Into the Sun,200,1.54188E+12,36
+DL Incognito,Logged In,Matthew,M,6,Jones,221.07383,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Proof,200,1.54188E+12,36
+,Logged In,Theodore,M,0,Smith,,free,"Houston-The Woodlands-Sugar Land, TX",GET,Home,1.54031E+12,447,,200,1.54188E+12,52
+Justice,Logged In,Matthew,M,7,Jones,243.40853,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,TTHHEE PPAARRTTYY,200,1.54188E+12,36
+Earth_ Wind & Fire,Logged In,Theodore,M,1,Smith,178.20689,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54031E+12,447,Night Dreamin',200,1.54188E+12,52
+Strawbs,Logged In,Matthew,M,8,Jones,255.81669,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Sheep,200,1.54188E+12,36
+Angus & Julia Stone,Logged In,Matthew,M,9,Jones,172.85179,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Wasted,200,1.54188E+12,36
+Sara Bareilles,Logged In,Matthew,M,10,Jones,260.8322,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Love Song,200,1.54188E+12,36
+Bruna Caram,Logged In,Matthew,M,11,Jones,198.63465,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Meus Sonhos,200,1.54188E+12,36
+Nando Reis,Logged In,Matthew,M,12,Jones,239.82975,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,O Segundo Sol,200,1.54188E+12,36
+The Black Keys,Logged In,Matthew,M,13,Jones,189.28281,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Same Old Thing,200,1.54188E+12,36
+Kreator,Logged In,Matthew,M,14,Jones,294.53016,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Riot Of Violence,200,1.54188E+12,36
+Audioslave,Logged In,Matthew,M,15,Jones,277.83791,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Show Me How To Live,200,1.54188E+12,36
+Red Hot Chili Peppers,Logged In,Matthew,M,16,Jones,269.34812,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Parallel Universe (Album Version),200,1.54188E+12,36
+Manu Chao,Logged In,Matthew,M,17,Jones,288.15628,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Me Quedo Contigo [Si Me Das A Elegir],200,1.54188E+12,36
+Barry Tuckwell/Academy of St Martin-in-the-Fields/Sir Neville Marriner,Logged In,Matthew,M,18,Jones,277.15873,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),200,1.54188E+12,36
+Ron Carter,Logged In,Matthew,M,19,Jones,497.13587,paid,"Janesville-Beloit, WI",PUT,NextSong,1.54106E+12,439,I CAN'T GET STARTED,200,1.54188E+12,36
+,Logged In,Theodore,M,0,Harris,,free,"Red Bluff, CA",GET,Home,1.5411E+12,440,,200,1.54188E+12,14
+,Logged In,Theodore,M,1,Harris,,free,"Red Bluff, CA",GET,Home,1.5411E+12,440,,200,1.54188E+12,14
+Lifehouse,Logged In,Theodore,M,2,Harris,195.47383,free,"Red Bluff, CA",PUT,NextSong,1.5411E+12,440,You And Me (Wedding Version),200,1.54188E+12,14
+Yann Tiersen,Logged In,Kaylee,F,0,Summers,158.71955,free,"Phoenix-Mesa-Scottsdale, AZ",PUT,NextSong,1.54034E+12,333,La Valse D'AmÃÂ©lie (Version Piano),200,1.54189E+12,8
+ISRAEL & NEW BREED,Logged In,Kaylee,F,1,Summers,176.48281,free,"Phoenix-Mesa-Scottsdale, AZ",PUT,NextSong,1.54034E+12,333,Awesome Medley,200,1.54189E+12,8
+,Logged In,Molly,F,0,Taylor,,free,"St. Louis, MO-IL",GET,Home,1.54099E+12,396,,200,1.54189E+12,35
+Stellar Kart,Logged In,Molly,F,1,Taylor,186.17424,free,"St. Louis, MO-IL",PUT,NextSong,1.54099E+12,396,Jesus Loves You (Album Version),200,1.54189E+12,35

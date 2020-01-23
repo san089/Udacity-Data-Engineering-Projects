@@ -1,0 +1,409 @@
+artist,auth,firstName,gender,itemInSession,lastName,length,level,location,method,page,registration,sessionId,song,status,ts,userId
+A Fine Frenzy,Logged In,Anabelle,F,0,Simpson,267.91138,free,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PUT,NextSong,1.54104E+12,256,Almost Lover (Album Version),200,1.54138E+12,69
+Nirvana,Logged In,Aleena,F,0,Kirby,214.77832,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Serve The Servants,200,1.54138E+12,44
+Television,Logged In,Aleena,F,1,Kirby,238.49751,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,See No Evil  (Remastered LP Version),200,1.54138E+12,44
+JOHN COLTRANE,Logged In,Aleena,F,2,Kirby,346.43546,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Blues To Bechet (LP Version),200,1.54138E+12,44
+NOFX,Logged In,Aleena,F,3,Kirby,80.79628,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,It's My Job To Keep Punk Rock Elite,200,1.54138E+12,44
+The Backyardigans,Logged In,Aleena,F,4,Kirby,158.85016,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Into The Thick Of It!,200,1.54138E+12,44
+Bruce Springsteen,Logged In,Aleena,F,5,Kirby,202.84036,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Radio Nowhere,200,1.54138E+12,44
+Maroon 5,Logged In,Aleena,F,6,Kirby,173.66159,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Harder To Breathe,200,1.54138E+12,44
+Two Door Cinema Club,Logged In,Aleena,F,7,Kirby,189.67465,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,What You Know,200,1.54138E+12,44
+Five Finger Death Punch,Logged In,Aleena,F,8,Kirby,262.81751,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Meet the Monster,200,1.54138E+12,44
+Josh Turner,Logged In,Aleena,F,9,Kirby,207.93424,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,What It Ain't,200,1.54138E+12,44
+At The Drive-In,Logged In,Aleena,F,10,Kirby,207.46404,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Sleepwalk Capsules,200,1.54138E+12,44
+Animal Collective,Logged In,Aleena,F,11,Kirby,269.81832,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Summertime Clothes,200,1.54138E+12,44
+Ron Carter,Logged In,Aleena,F,12,Kirby,497.13587,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,I CAN'T GET STARTED,200,1.54138E+12,44
+Old 97's,Logged In,Aleena,F,13,Kirby,231.28771,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Victoria (LP Version),200,1.54138E+12,44
+Cyndi Lauper,Logged In,Aleena,F,14,Kirby,226.32444,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,True Colors,200,1.54138E+12,44
+Damien Rice,Logged In,Aleena,F,15,Kirby,276.08771,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Amie,200,1.54138E+12,44
+Alicia Keys,Logged In,Aleena,F,16,Kirby,229.0673,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,If I Ain't Got You,200,1.54139E+12,44
+Lloyd Cole And The Commotions,Logged In,Aleena,F,17,Kirby,235.31057,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Charlotte Street,200,1.54139E+12,44
+John Mayer,Logged In,Aleena,F,18,Kirby,269.71383,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Heartbreak Warfare,200,1.54139E+12,44
+Joshua Radin,Logged In,Aleena,F,19,Kirby,161.69751,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,We Are Okay,200,1.54139E+12,44
+Kings Of Leon,Logged In,Aleena,F,20,Kirby,201.79546,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Revelry,200,1.54139E+12,44
+Incubus,Logged In,Aleena,F,21,Kirby,257.25342,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Dig,200,1.54139E+12,44
+Owl City,Logged In,Aleena,F,22,Kirby,190.17098,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,Tidal Wave,200,1.54139E+12,44
+Mediaeval Baebes,Logged In,Aleena,F,23,Kirby,219.29751,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,237,MÃÂ¤rk Hure VÃÂ¥r Skugga,200,1.54139E+12,44
+The Black Keys,Logged In,Theodore,M,0,Smith,300.30322,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54031E+12,226,The Only One,200,1.54139E+12,52
+Foo Fighters,Logged In,Theodore,M,1,Smith,262.73914,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54031E+12,226,All My Life,200,1.54139E+12,52
+Havok,Logged In,Noah,M,0,Chavez,227.68281,free,"Ogden-Clearfield, UT",PUT,NextSong,1.54097E+12,150,Ivory Tower,200,1.54139E+12,94
+John Mayer,Logged In,Noah,M,1,Chavez,250.38322,free,"Ogden-Clearfield, UT",PUT,NextSong,1.54097E+12,150,Half Of My Heart,200,1.54139E+12,94
+The Killers,Logged In,Lily,F,0,Burns,185.33832,free,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54062E+12,239,I Can't Stay,200,1.54139E+12,32
+Thrice,Logged In,Anabelle,F,0,Simpson,134.60853,free,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PUT,NextSong,1.54104E+12,259,The Red Death,200,1.54139E+12,69
+Alicia Keys,Logged In,Anabelle,F,1,Simpson,229.0673,free,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PUT,NextSong,1.54104E+12,259,If I Ain't Got You,200,1.54139E+12,69
+,Logged In,Anabelle,F,2,Simpson,,free,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",GET,Home,1.54104E+12,259,,200,1.54139E+12,69
+Euge Groove,Logged In,Jahiem,M,0,Miles,265.482,free,"San Antonio-New Braunfels, TX",PUT,NextSong,1.54082E+12,245,Tenderly,200,1.54139E+12,43
+Metallica / Marianne Faithfull,Logged In,Katherine,F,0,Gay,279.11791,free,"San Antonio-New Braunfels, TX",PUT,NextSong,1.54097E+12,56,The Memory Remains,200,1.5414E+12,57
+Nana Caymmi,Logged In,Katherine,F,1,Gay,174.41914,free,"San Antonio-New Braunfels, TX",PUT,NextSong,1.54097E+12,56,Fim De Caso,200,1.5414E+12,57
+Johnny Burnette,Logged In,Katherine,F,2,Gay,134.84363,free,"San Antonio-New Braunfels, TX",PUT,NextSong,1.54097E+12,56,I've Got A Lot Of Things To Do,200,1.5414E+12,57
+Arctic Monkeys,Logged In,Katherine,F,3,Gay,177.94567,free,"San Antonio-New Braunfels, TX",PUT,NextSong,1.54097E+12,56,Fake Tales Of San Francisco,200,1.5414E+12,57
+,Logged In,Chloe,F,0,Cuevas,,free,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54094E+12,224,,200,1.5414E+12,49
+DeGarmo & Key,Logged In,Chloe,F,1,Cuevas,236.48608,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,224,I'm Accepted (The Pledge Album Version),200,1.5414E+12,49
+,Logged In,Ryan,M,0,Smith,,free,"San Jose-Sunnyvale-Santa Clara, CA",GET,Home,1.54102E+12,232,,200,1.5414E+12,26
+Extrawelt,Logged In,Ryan,M,1,Smith,338.23302,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,232,Stammgast,200,1.5414E+12,26
+,Logged In,Aleena,F,0,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Home,1.54102E+12,260,,200,1.5414E+12,44
+,Logged In,Aleena,F,1,Kirby,,paid,"Waterloo-Cedar Falls, IA",PUT,Logout,1.54102E+12,260,,307,1.5414E+12,44
+,Logged Out,,,2,,,paid,,GET,Home,,260,,200,1.5414E+12,
+Powderfinger,Logged In,Harper,M,0,Barrett,276.68853,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,My Happiness,200,1.54141E+12,42
+Radiohead,Logged In,Harper,M,1,Barrett,247.06567,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Black Star,200,1.54141E+12,42
+Kid Cudi Vs Crookers,Logged In,Brantley,M,0,West,162.97751,free,"Portland-Vancouver-Hillsboro, OR-WA",PUT,NextSong,1.54106E+12,242,Day 'N' Nite,200,1.54141E+12,28
+Three Days Grace,Logged In,Harper,M,2,Barrett,186.90567,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Just Like You,200,1.54141E+12,42
+Monty Python,Logged In,Harper,M,3,Barrett,15.85587,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Comfy Chair (The Final Rip Off Remix),200,1.54141E+12,42
+Rise Against,Logged In,Harper,M,4,Barrett,241.55383,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Long Forgotten Sons,200,1.54141E+12,42
+Jimmy Eat World,Logged In,Harper,M,5,Barrett,166.00771,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,The Middle,200,1.54141E+12,42
+Rise Against,Logged In,Harper,M,6,Barrett,165.14567,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Under The Knife,200,1.54141E+12,42
+Chaka Khan,Logged In,Harper,M,7,Barrett,280.86812,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Ain't Nobody (Album Version),200,1.54141E+12,42
+Paper Lace,Logged In,Harper,M,8,Barrett,192.07791,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,The Night Chicago Died,200,1.54141E+12,42
+,Logged In,Chloe,F,0,Cuevas,,free,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54094E+12,267,,200,1.54141E+12,49
+Pixies,Logged In,Harper,M,9,Barrett,113.78893,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Break My Body,200,1.54141E+12,42
+Wolfgang Gartner,Logged In,Harper,M,10,Barrett,415.97342,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Fire Power,200,1.54141E+12,42
+No Doubt,Logged In,Devin,M,0,Larson,269.73995,free,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54105E+12,59,Sometimes,200,1.54141E+12,60
+The Lonely Island / Julian Casablancas,Logged In,Harper,M,11,Barrett,192.9922,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Boombox,200,1.54141E+12,42
+Eminem,Logged In,Harper,M,12,Barrett,284.18567,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,The Real Slim Shady,200,1.54141E+12,42
+Martin Gore,Logged In,Sara,F,0,Johnson,241.10975,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,By This River,200,1.54141E+12,95
+The Animals,Logged In,Harper,M,13,Barrett,242.05016,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,For Miss Caulker (1999 Digital Remaster),200,1.54141E+12,42
+Florence + The Machine,Logged In,Sara,F,1,Johnson,168.64608,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,You've Got The Love,200,1.54141E+12,95
+,Logged In,Sylvie,F,0,Cruz,,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",GET,Home,1.54027E+12,241,,200,1.54141E+12,10
+Hot Water Music,Logged In,Harper,M,14,Barrett,157.85751,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,The Sense,200,1.54141E+12,42
+Bill Withers,Logged In,Sara,F,2,Johnson,383.73832,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Make Love To Your Mind,200,1.54141E+12,95
+311,Logged In,Harper,M,15,Barrett,194.32444,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Eons,200,1.54141E+12,42
+Bloc Party,Logged In,Harper,M,16,Barrett,215.11791,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,The Pioneers,200,1.54141E+12,42
+Nino Bravo,Logged In,Sara,F,3,Johnson,218.48771,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Amanecer,200,1.54141E+12,95
+JosÃÂ© GonzÃÂ¡lez,Logged In,Harper,M,17,Barrett,143.93424,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,The Nest,200,1.54141E+12,42
+Taking Back Sunday,Logged In,Sara,F,4,Johnson,249.99138,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,This Photograph Is Proof {I Know You Know] (Album Version),200,1.54141E+12,95
+Jack Johnson,Logged In,Harper,M,18,Barrett,207.64689,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Better Together,200,1.54141E+12,42
+The Rolling Stones,Logged In,Sara,F,5,Johnson,274.1024,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Stop Breaking Down,200,1.54141E+12,95
+Euge Groove,Logged In,Harper,M,19,Barrett,265.482,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Tenderly,200,1.54141E+12,42
+School Of Seven Bells,Logged In,Tegan,F,0,Levine,262.37342,free,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,254,Chain,200,1.54141E+12,80
+P!nk,Logged In,Sara,F,6,Johnson,227.02975,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Glitter In The Air,200,1.54141E+12,95
+Nancy Wilson,Logged In,Harper,M,20,Barrett,122.77506,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,I Believe In You,200,1.54141E+12,42
+Enrique Iglesias,Logged In,Harper,M,21,Barrett,235.17995,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Ring My Bells,200,1.54141E+12,42
+Katie Melua,Logged In,Sara,F,7,Johnson,242.83383,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Scary Films,200,1.54141E+12,95
+Harmonia,Logged In,Harper,M,22,Barrett,655.77751,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Sehr kosmisch,200,1.54141E+12,42
+The RH Factor,Logged In,Sara,F,8,Johnson,233.35138,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Hold On,200,1.54141E+12,95
+Moose,Logged In,Chloe,F,1,Cuevas,490.21342,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,267,Do You Remember,200,1.54141E+12,49
+KATAKLYSM,Logged In,Sara,F,9,Johnson,162.92526,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,In Shadows And Dust,200,1.54141E+12,95
+Lily Allen,Logged In,Sara,F,10,Johnson,159.84281,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Everybody's Changing,200,1.54141E+12,95
+Florence + The Machine,Logged In,Sara,F,11,Johnson,258.55955,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Cosmic Love,200,1.54141E+12,95
+Placebo,Logged In,Harper,M,23,Barrett,254.45832,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Taste In Men,200,1.54141E+12,42
+DJ Dizzy,Logged In,Chloe,F,2,Cuevas,221.1522,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,267,Sexy Bitch,200,1.54141E+12,49
+Camera Obscura,Logged In,Sara,F,12,Johnson,188.02893,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Anti-Western,200,1.54141E+12,95
+Nick Cave & The Bad Seeds,Logged In,Harper,M,24,Barrett,265.27302,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Spell,200,1.54141E+12,42
+Queens Of The Stone Age,Logged In,Chloe,F,3,Cuevas,364.90404,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,267,God Is On The Radio,200,1.54141E+12,49
+Linkin Park,Logged In,Sara,F,13,Johnson,494.99383,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Bleed It Out [Live At Milton Keynes],200,1.54141E+12,95
+Dwight Yoakam,Logged In,Harper,M,25,Barrett,239.3073,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,You're The One,200,1.54141E+12,42
+,Logged In,Harper,M,26,Barrett,,paid,"New York-Newark-Jersey City, NY-NJ-PA",GET,Home,1.54069E+12,129,,200,1.54141E+12,42
+mewithoutYou,Logged In,Chloe,F,4,Cuevas,311.562,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,267,Bullet To Binary (Pt. Two),200,1.54141E+12,49
+The New Pornographers,Logged In,Harper,M,27,Barrett,189.02159,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,All The Things That Go To Make Heaven And Earth,200,1.54141E+12,42
+Edward Sharpe & The Magnetic Zeros,Logged In,Sara,F,14,Johnson,306.31138,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Home,200,1.54141E+12,95
+Diego Torres,Logged In,Harper,M,28,Barrett,227.18649,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,SueÃÂ±os,200,1.54141E+12,42
+Francisca Valenzuela,Logged In,Harper,M,29,Barrett,174.70649,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,MuÃÂ©rdete la lengua,200,1.54141E+12,42
+Pendulum,Logged In,Sara,F,15,Johnson,315.71546,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,The Other Side (album version),200,1.54141E+12,95
+Local Natives,Logged In,Harper,M,30,Barrett,330.89261,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Shape Shifter,200,1.54141E+12,42
+Daft Punk,Logged In,Sara,F,16,Johnson,416.522,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Emotion,200,1.54141E+12,95
+Soda Stereo,Logged In,Harper,M,31,Barrett,211.61751,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Danza Rota,200,1.54141E+12,42
+The Cardigans,Logged In,Harper,M,32,Barrett,198.21669,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Lovefool,200,1.54141E+12,42
+,Logged In,Harper,M,33,Barrett,,paid,"New York-Newark-Jersey City, NY-NJ-PA",GET,Home,1.54069E+12,129,,200,1.54141E+12,42
+ETERNAL FEATURING BEBE WINANS,Logged In,Sara,F,17,Johnson,218.40934,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,I Wanna Be The Only One,200,1.54141E+12,95
+Kings Of Leon,Logged In,Harper,M,34,Barrett,201.79546,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Revelry,200,1.54141E+12,42
+Julie Doiron,Logged In,Sara,F,18,Johnson,165.92934,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Me and My Friend,200,1.54141E+12,95
+,Logged Out,,,0,,,paid,,PUT,Login,,269,,307,1.54141E+12,
+,Logged In,Aleena,F,1,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Home,1.54102E+12,269,,200,1.54141E+12,44
+Kinky,Logged In,Aleena,F,2,Kirby,211.90485,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Cornman,200,1.54141E+12,44
+LU,Logged In,Harper,M,35,Barrett,321.54077,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Una Confusion,200,1.54141E+12,42
+Tub Ring,Logged In,Sara,F,19,Johnson,233.69098,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Invalid,200,1.54141E+12,95
+Nickel Creek,Logged In,Aleena,F,3,Kirby,301.40036,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,The Lighthouse's Tale,200,1.54142E+12,44
+Massive Attack,Logged In,Sara,F,20,Johnson,288.65261,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,One Love,200,1.54142E+12,95
+Cut Copy,Logged In,Harper,M,36,Barrett,283.76771,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Strangers In The Wind,200,1.54142E+12,42
+Straylight Run,Logged In,Aleena,F,4,Kirby,241.44934,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Existentialism On Prom Night (Album Version),200,1.54142E+12,44
+,Logged In,Aleena,F,5,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Home,1.54102E+12,269,,200,1.54142E+12,44
+,Logged In,Aleena,F,6,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Settings,1.54102E+12,269,,200,1.54142E+12,44
+Albert Hammond,Logged In,Sara,F,21,Johnson,177.78893,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Echame A Mi La Culpa,200,1.54142E+12,95
+Hercules And Love Affair,Logged In,Harper,M,37,Barrett,376.29342,paid,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54069E+12,129,Blind (Full Album Version),200,1.54142E+12,42
+,Logged In,Harper,M,38,Barrett,,paid,"New York-Newark-Jersey City, NY-NJ-PA",GET,Error,1.54069E+12,129,,404,1.54142E+12,42
+Left Lane Cruiser,Logged In,Aleena,F,7,Kirby,183.27465,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Amerika,200,1.54142E+12,44
+UB40,Logged In,Sara,F,22,Johnson,185.10322,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Come Back Darling,200,1.54142E+12,95
+Amon Amarth,Logged In,Aleena,F,8,Kirby,357.22404,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Fate Of Norns,200,1.54142E+12,44
+Queensryche,Logged In,Sara,F,23,Johnson,347.81995,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Silent Lucidity (2002 Digital Remaster),200,1.54142E+12,95
+Winds Of Plague,Logged In,Aleena,F,9,Kirby,148.08771,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Reloaded,200,1.54142E+12,44
+Jackson 5,Logged In,Sara,F,24,Johnson,174.10567,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Ben,200,1.54142E+12,95
+Feist,Logged In,Aleena,F,10,Kirby,184.94649,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,My Moon My Man,200,1.54142E+12,44
+JosÃÂ© Gonzalez,Logged In,Sara,F,25,Johnson,158.48444,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Heartbeats,200,1.54142E+12,95
+Flobots,Logged In,Aleena,F,11,Kirby,205.68771,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Handlebars (UK Radio Edit),200,1.54142E+12,44
+Teriyaki Boyz,Logged In,Sara,F,26,Johnson,253.77914,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Heartbreaker,200,1.54142E+12,95
+Dwight Yoakam,Logged In,Aleena,F,12,Kirby,239.3073,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,You're The One,200,1.54142E+12,44
+Young Money featuring Lloyd,Logged In,Sara,F,27,Johnson,196.33587,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,BedRock (Radio Edit) (feat.Lloyd),200,1.54142E+12,95
+The Pussycat Dolls,Logged In,Aleena,F,13,Kirby,245.18485,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,When I Grow Up,200,1.54142E+12,44
+Koopsta Knicca,Logged In,Sara,F,28,Johnson,206.78485,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Top Secret,200,1.54142E+12,95
+The Knack,Logged In,Sara,F,29,Johnson,141.58322,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Let Me Out,200,1.54142E+12,95
+The Prodigy,Logged In,Aleena,F,14,Kirby,215.77098,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Omen,200,1.54142E+12,44
+ZZ Top,Logged In,Sara,F,30,Johnson,187.8722,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Avalon Hideaway (LP Version),200,1.54142E+12,95
+Caifanes,Logged In,Aleena,F,15,Kirby,263.33995,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Cuentame Tu Vida,200,1.54142E+12,44
+,Logged In,Aleena,F,16,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Home,1.54102E+12,269,,200,1.54142E+12,44
+Britt Nicole,Logged In,Sara,F,31,Johnson,232.85506,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,222,Like A Star,200,1.54142E+12,95
+,Logged In,Sara,F,32,Johnson,,paid,"Winston-Salem, NC",PUT,Logout,1.54081E+12,222,,307,1.54142E+12,95
+,Logged In,Aleena,F,17,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Settings,1.54102E+12,269,,200,1.54142E+12,44
+,Logged In,Aleena,F,18,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Settings,1.54102E+12,269,,200,1.54142E+12,44
+,Logged Out,,,33,,,paid,,GET,Home,,222,,200,1.54142E+12,
+Jimmy Buffett,Logged In,Aleena,F,19,Kirby,209.00526,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,He Went To Paris,200,1.54142E+12,44
+Counting Crows,Logged In,Aleena,F,20,Kirby,272.79628,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Mr. Jones,200,1.54142E+12,44
+8Ball & MJG,Logged In,Aleena,F,21,Kirby,48.14322,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Intro (Explicit Album Version),200,1.54142E+12,44
+SinÃÂ©ad O'Connor,Logged In,Aleena,F,22,Kirby,282.51383,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,I Want Your (Hands On Me),200,1.54142E+12,44
+Vince Guaraldi Trio,Logged In,Aleena,F,23,Kirby,368.29995,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Christmastime Is Here,200,1.54142E+12,44
+B*Witched,Logged In,Aleena,F,24,Kirby,172.06812,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,C'est La Vie,200,1.54142E+12,44
+Gyptian,Logged In,Aleena,F,25,Kirby,211.04281,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Love Against the Wall,200,1.54142E+12,44
+The Ataris,Logged In,Aleena,F,26,Kirby,179.722,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,I Won't Spend Another Night Alone,200,1.54142E+12,44
+Adam Green,Logged In,Aleena,F,27,Kirby,143.49016,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,You Get So Lucky,200,1.54142E+12,44
+Marilyn Manson,Logged In,Aleena,F,28,Kirby,247.01342,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Personal Jesus,200,1.54142E+12,44
+Bobby Blue Bland,Logged In,Aleena,F,29,Kirby,141.13914,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,I Pity the Fool,200,1.54142E+12,44
+David Banner,Logged In,Aleena,F,30,Kirby,232.75057,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Play,200,1.54142E+12,44
+We The Kings featuring Demi Lovato,Logged In,Aleena,F,31,Kirby,231.78404,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,We'll Be A Dream (featuring Demi Lovato),200,1.54142E+12,44
+Emiliana Torrini,Logged In,Aleena,F,32,Kirby,383.50322,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Birds,200,1.54142E+12,44
+Garbage,Logged In,Shakira,F,0,Hunt,277.39383,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54064E+12,83,Temptation Waits,200,1.54142E+12,84
+Linkin Park,Logged In,Aleena,F,33,Kirby,268.61669,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,New Divide (Album Version),200,1.54142E+12,44
+Darius Rucker,Logged In,Shakira,F,1,Hunt,217.44281,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54064E+12,83,It Won't Be Like This For Long,200,1.54142E+12,84
+The Strokes,Logged In,Shakira,F,2,Hunt,230.1122,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54064E+12,83,Killing Lies,200,1.54142E+12,84
+Los Bunkers,Logged In,Aleena,F,34,Kirby,209.97179,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Te Vistes Y Te Vas,200,1.54142E+12,44
+,Logged In,Aleena,F,35,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Help,1.54102E+12,269,,200,1.54142E+12,44
+Ween,Logged In,Aleena,F,36,Kirby,242.59873,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,I'm Holding You (LP Version),200,1.54142E+12,44
+"Weird Al"" Yankovic",Logged In,Shakira,F,3,Hunt,170.21342,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54064E+12,83,"White & Nerdy (Parody of ""Ridin'"" by Chamillionaire featuring Krayzie Bone)",200,1.54142E+12,84
+The Moody Blues,Logged In,Shakira,F,4,Hunt,258.71628,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54064E+12,83,Tuesday Afternoon,200,1.54142E+12,84
+DESTRUCTION,Logged In,Aleena,F,37,Kirby,226.97751,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Dictators Of Cruelty,200,1.54142E+12,44
+Carla Bruni,Logged In,Aleena,F,38,Kirby,163.02975,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Quelqu'un M'a Dit (Album Version),200,1.54142E+12,44
+En Vogue,Logged In,Aleena,F,39,Kirby,289.01832,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Don't Let Go (Love),200,1.54142E+12,44
+Eminem,Logged In,Aleena,F,40,Kirby,250.8273,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Mockingbird,200,1.54142E+12,44
+,Logged In,Aleena,F,41,Kirby,,paid,"Waterloo-Cedar Falls, IA",PUT,Logout,1.54102E+12,269,,307,1.54142E+12,44
+,Logged Out,,,42,,,paid,,GET,Home,,269,,200,1.54142E+12,
+,Logged Out,,,43,,,paid,,PUT,Login,,269,,307,1.54142E+12,
+,Logged In,Aleena,F,44,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Home,1.54102E+12,269,,200,1.54142E+12,44
+Showbread,Logged In,Aleena,F,45,Kirby,287.29424,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,The Missing Wife,200,1.54142E+12,44
+Tracie Spencer,Logged In,Aleena,F,46,Kirby,272.45669,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,My First Broken Heart,200,1.54142E+12,44
+BeyoncÃÂ©,Logged In,Aleena,F,47,Kirby,261.74649,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Halo,200,1.54142E+12,44
+Jack Johnson,Logged In,Aleena,F,48,Kirby,207.64689,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Better Together,200,1.54142E+12,44
+Michael BublÃÂ©,Logged In,Aleena,F,49,Kirby,226.0371,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Smile (Live),200,1.54142E+12,44
+Epica,Logged In,Aleena,F,50,Kirby,303.20281,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Martyr of the Free Word,200,1.54142E+12,44
+A Silent Film,Logged In,Aleena,F,51,Kirby,222.45832,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,You Will Leave a Mark,200,1.54142E+12,44
+BjÃÂ¶rk,Logged In,Aleena,F,52,Kirby,348.57751,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Undo,200,1.54142E+12,44
+Vampire Weekend,Logged In,Aleena,F,53,Kirby,214.7522,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Cape Cod Kwassa Kwassa (Album),200,1.54142E+12,44
+Rammstein,Logged In,Aleena,F,54,Kirby,201.50812,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,BÃÂ¼ck Dich,200,1.54142E+12,44
+Junkie XL,Logged In,Aleena,F,55,Kirby,221.77914,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Broken (featuring Grant Nicholas) (Album Version),200,1.54142E+12,44
+Third Eye Blind,Logged In,Aleena,F,56,Kirby,232.77669,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Company,200,1.54143E+12,44
+Evanescence,Logged In,Aleena,F,57,Kirby,236.12036,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Bring Me To Life,200,1.54143E+12,44
+Jack Johnson,Logged In,Aleena,F,58,Kirby,65.802,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Cupid,200,1.54143E+12,44
+Fergie,Logged In,Aleena,F,59,Kirby,240.48281,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Clumsy,200,1.54143E+12,44
+,Logged In,Aleena,F,60,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Downgrade,1.54102E+12,269,,200,1.54143E+12,44
+Lily Allen,Logged In,Aleena,F,61,Kirby,189.98812,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,LDN,200,1.54143E+12,44
+The Black Seeds,Logged In,Aleena,F,62,Kirby,257.98485,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Dance Dance,200,1.54143E+12,44
+Cassie,Logged In,Aleena,F,63,Kirby,212.1922,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Call U Out (Album Version),200,1.54143E+12,44
+The Rolling Stones,Logged In,Aleena,F,64,Kirby,231.78404,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Too Tough (1994 Digital Remaster),200,1.54143E+12,44
+Eminem,Logged In,Aleena,F,65,Kirby,251.55873,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Without Me,200,1.54143E+12,44
+Creedence Clearwater Revival,Logged In,Aleena,F,66,Kirby,175.80363,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Sweet Hitch-Hiker,200,1.54143E+12,44
+Heltah Skeltah,Logged In,Aleena,F,67,Kirby,165.642,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Place To Be (Explicit),200,1.54143E+12,44
+Redman,Logged In,Aleena,F,68,Kirby,251.53261,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Pick It Up,200,1.54143E+12,44
+Camila,Logged In,Aleena,F,69,Kirby,258.53342,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Alejate De Mi,200,1.54143E+12,44
+,Logged In,Ryan,M,0,Smith,,free,"San Jose-Sunnyvale-Santa Clara, CA",GET,Home,1.54102E+12,268,,200,1.54143E+12,26
+Pearl Jam,Logged In,Ryan,M,1,Smith,67.44771,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,268,Encore Break,200,1.54143E+12,26
+Faith No More,Logged In,Ryan,M,2,Smith,249.86077,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,268,Last Cup Of Sorrow,200,1.54143E+12,26
+Liquid Tension Experiment,Logged In,Aleena,F,70,Kirby,535.35302,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Paradigm Shift,200,1.54143E+12,44
+,Logged In,Tegan,F,0,Levine,,free,"Portland-South Portland, ME",GET,Home,1.54079E+12,273,,200,1.54143E+12,80
+Fleetwood Mac,Logged In,Aleena,F,71,Kirby,265.92608,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,World Turning (LP Version),200,1.54143E+12,44
+,Logged In,Jayden,M,0,Bell,,free,"Dallas-Fort Worth-Arlington, TX",GET,Home,1.54099E+12,90,,200,1.54143E+12,91
+Creedence Clearwater Revival,Logged In,Jayden,M,1,Bell,253.90975,free,"Dallas-Fort Worth-Arlington, TX",PUT,NextSong,1.54099E+12,90,Midnight Special,200,1.54143E+12,91
+The Ruts,Logged In,Aleena,F,72,Kirby,338.96444,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,West One (Shine On Me),200,1.54143E+12,44
+Steve Miller Band,Logged In,Jayden,M,2,Bell,263.96689,free,"Dallas-Fort Worth-Arlington, TX",PUT,NextSong,1.54099E+12,90,The Joker,200,1.54143E+12,91
+The Kingstonians,Logged In,Lily,F,0,Burns,172.90404,free,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54062E+12,263,Winey Winey,200,1.54143E+12,32
+Staind,Logged In,Aleena,F,73,Kirby,239.5424,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Everything Changes (Album Version),200,1.54143E+12,44
+Bon Jovi,Logged In,Jayden,M,3,Bell,224.522,free,"Dallas-Fort Worth-Arlington, TX",PUT,NextSong,1.54099E+12,90,It's My Life,200,1.54143E+12,91
+Chris Brown featuring T-Pain,Logged In,Aleena,F,74,Kirby,250.67057,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Kiss Kiss,200,1.54143E+12,44
+Regina Spektor,Logged In,Layla,F,0,Griffin,191.08526,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,The Calculation (Album Version),200,1.54143E+12,24
+Lamb,Logged In,Aleena,F,75,Kirby,1031.75791,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Feela,200,1.54143E+12,44
+Octopus Project,Logged In,Layla,F,1,Griffin,250.95791,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,All Of The Champs That Ever Lived,200,1.54143E+12,24
+Tegan And Sara,Logged In,Layla,F,2,Griffin,180.06159,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,So Jealous,200,1.54143E+12,24
+Dragonette,Logged In,Layla,F,3,Griffin,153.39057,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Okay Dolores,200,1.54143E+12,24
+Lil Wayne / Eminem,Logged In,Layla,F,4,Griffin,229.58975,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Drop The World,200,1.54143E+12,24
+Soulja Boy Tell'em,Logged In,Layla,F,5,Griffin,201.11628,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Let Me Get Em,200,1.54143E+12,24
+Audio Adrenaline,Logged In,Kate,F,0,Harrell,202.52689,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Free Ride,200,1.54143E+12,97
+Bodo Wartke,Logged In,Layla,F,6,Griffin,645.27628,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Liebeslied (Sprachen: Deutsch_ Englisch_ FranzÃÂ¶sisch_ Italienisch_ Spanisch_ HollÃÂ¤ndisch_ Japanisch_ Russisch_ Griechisch_ Klingonisch_ Hessisch),200,1.54143E+12,24
+Prince & The New Power Generation [with Eric Leeds on Flute],Logged In,Aleena,F,76,Kirby,272.63955,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Gett Off,200,1.54143E+12,44
+The Format,Logged In,Kate,F,1,Harrell,208.24771,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Inches And Falling (I Love_ Love),200,1.54143E+12,97
+,Logged In,Jayden,M,0,Fox,,free,"New Orleans-Metairie, LA",GET,Home,1.54103E+12,219,,200,1.54143E+12,101
+Black Eyed Peas,Logged In,Jayden,M,1,Fox,214.93506,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,219,Pump It,200,1.54143E+12,101
+Wilco,Logged In,Kate,F,2,Harrell,188.83873,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Heavy metal drummer,200,1.54143E+12,97
+NOFX,Logged In,Aleena,F,77,Kirby,54.59546,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Monosyllabic Girl,200,1.54143E+12,44
+,Logged In,Chloe,F,0,Cuevas,,free,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54094E+12,274,,200,1.54143E+12,49
+Cabaret Voltaire,Logged In,Chloe,F,1,Cuevas,430.602,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,274,Playing For Time,200,1.54143E+12,49
+Air,Logged In,Aleena,F,78,Kirby,244.50567,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Venus,200,1.54143E+12,44
+Coldplay,Logged In,Kate,F,3,Harrell,249.75628,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Til Kingdom Come,200,1.54143E+12,97
+Rosana,Logged In,Aleena,F,79,Kirby,330.1873,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Llegaremos a tiempo,200,1.54143E+12,44
+Evanescence,Logged In,Layla,F,7,Griffin,237.11302,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Bring Me To Life,200,1.54143E+12,24
+,Logged In,Aleena,F,80,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Settings,1.54102E+12,269,,200,1.54143E+12,44
+,Logged In,Aleena,F,81,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Help,1.54102E+12,269,,200,1.54143E+12,44
+Frumpies,Logged In,Kate,F,4,Harrell,134.47791,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Fuck Kitty,200,1.54143E+12,97
+Plies,Logged In,Joseph,M,0,Gutierrez,278.22975,free,"Columbia, SC",PUT,NextSong,1.54081E+12,208,Somebody (Loves You) (Explicit Album Version),200,1.54143E+12,75
+TitÃÂ£s,Logged In,Kate,F,5,Harrell,131.00363,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,PolÃÂ­cia,200,1.54143E+12,97
+Van Halen,Logged In,Layla,F,8,Griffin,243.17342,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Good Enough,200,1.54143E+12,24
+Snow Patrol,Logged In,Aleena,F,82,Kirby,307.59138,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Engines,200,1.54143E+12,44
+,Logged In,Aleena,F,83,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Downgrade,1.54102E+12,269,,200,1.54143E+12,44
+,Logged In,Aleena,F,84,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Home,1.54102E+12,269,,200,1.54143E+12,44
+Kiss,Logged In,Kate,F,6,Harrell,268.30322,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,I Was Made For Lovin' You,200,1.54143E+12,97
+The Academy Is...,Logged In,Layla,F,9,Griffin,209.76281,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Paper Chase (Album Version),200,1.54143E+12,24
+The Prodigy,Logged In,Kate,F,7,Harrell,414.11873,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Weather Experience (Top Buzz Remix)(Remastered),200,1.54143E+12,97
+Bill Withers,Logged In,Aleena,F,85,Kirby,383.73832,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,269,Make Love To Your Mind,200,1.54143E+12,44
+Dwight Yoakam,Logged In,Layla,F,10,Griffin,239.3073,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,You're The One,200,1.54143E+12,24
+The Far East Movement featuring Wiz Khalifa and Bionik,Logged In,Layla,F,11,Griffin,265.50812,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Lowridin,200,1.54143E+12,24
+Deep Dish,Logged In,Kate,F,8,Harrell,439.92771,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Sacramento (Club Mix Edit),200,1.54143E+12,97
+Amon Amarth,Logged In,Layla,F,12,Griffin,238.52363,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,The Hero,200,1.54143E+12,24
+Jim White,Logged In,Kate,F,9,Harrell,396.22485,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Still Waters,200,1.54143E+12,97
+Modest Mouse,Logged In,Layla,F,13,Griffin,259.47383,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,The Good Times Are Killing Me,200,1.54143E+12,24
+Bad Company,Logged In,Layla,F,14,Griffin,246.96118,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Morning Sun,200,1.54143E+12,24
+,Logged In,Layla,F,15,Griffin,,paid,"Lake Havasu City-Kingman, AZ",GET,Settings,1.54106E+12,23,,200,1.54143E+12,24
+Five Iron Frenzy,Logged In,Kate,F,10,Harrell,236.09424,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Canada,200,1.54143E+12,97
+Bodyrox,Logged In,Layla,F,16,Griffin,490.78812,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Yeah Yeah,200,1.54143E+12,24
+Louise Attaque,Logged In,Kate,F,11,Harrell,177.76281,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Est-ce que tu m'aimes encore ?,200,1.54143E+12,97
+,Logged In,Sylvie,F,0,Cruz,,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",GET,Home,1.54027E+12,272,,200,1.54143E+12,10
+The Pussycat Dolls / Busta Rhymes,Logged In,Kate,F,12,Harrell,272.14322,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Don't Cha,200,1.54143E+12,97
+Thursday,Logged In,Jacob,M,0,Klein,250.17424,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Signals Over The Air,200,1.54143E+12,73
+Alberto Plaza,Logged In,Layla,F,17,Griffin,291.5522,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Yo Te Seguire (vivo),200,1.54143E+12,24
+Amy Winehouse,Logged In,Sylvie,F,1,Cruz,202.73587,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,272,You Know I'm No Good,200,1.54143E+12,10
+Musiq / DJ Aktive / Carol Riddick,Logged In,Kate,F,13,Harrell,162.7424,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Soulstar,200,1.54143E+12,97
+Eels,Logged In,Jacob,M,1,Klein,193.27955,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Guest List,200,1.54143E+12,73
+Dwight Yoakam,Logged In,Kate,F,14,Harrell,239.3073,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,You're The One,200,1.54143E+12,97
+matchbox twenty,Logged In,Layla,F,18,Griffin,225.95873,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,3AM (LP Version),200,1.54143E+12,24
+Coldplay,Logged In,Jacob,M,2,Klein,311.27465,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,The Scientist,200,1.54143E+12,73
+Scissor Sisters,Logged In,Kate,F,15,Harrell,271.85587,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Take Your Mama,200,1.54143E+12,97
+Rob Zombie,Logged In,Layla,F,19,Griffin,222.9024,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Dragula,200,1.54143E+12,24
+Rilo Kiley,Logged In,Jacob,M,3,Klein,279.06567,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,A Better Son/Daughter,200,1.54143E+12,73
+Klaus Doldinger's Passport,Logged In,Layla,F,20,Griffin,460.43383,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Fairy Tale,200,1.54143E+12,24
+Christian Anders,Logged In,Kate,F,16,Harrell,334.05342,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Nie Mehr Allein,200,1.54143E+12,97
+Ashanti,Logged In,Jacob,M,4,Klein,282.46159,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,VooDoo,200,1.54143E+12,73
+Placebo,Logged In,Lily,F,0,Burns,324.0224,free,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54062E+12,280,Passive Aggressive,200,1.54143E+12,32
+Barry Tuckwell/Academy of St Martin-in-the-Fields/Sir Neville Marriner,Logged In,Kate,F,17,Harrell,277.15873,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),200,1.54143E+12,97
+dEUS,Logged In,Jacob,M,5,Klein,299.83302,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Secret Hell,200,1.54143E+12,73
+Two Door Cinema Club,Logged In,Layla,F,21,Griffin,175.43791,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,I Can Talk,200,1.54143E+12,24
+J. Karjalainen & Mustat Lasit,Logged In,Kate,F,18,Harrell,336.74404,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Sinisten tÃÂ¤htien alla,200,1.54143E+12,97
+OneRepublic,Logged In,Layla,F,22,Griffin,224.67873,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Secrets,200,1.54143E+12,24
+The Grascals,Logged In,Jacob,M,6,Klein,224.13016,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Where Corn Don't Grow,200,1.54144E+12,73
+Enya,Logged In,Layla,F,23,Griffin,212.29669,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Boadicea,200,1.54144E+12,24
+Coldplay,Logged In,Kate,F,19,Harrell,311.27465,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,The Scientist,200,1.54144E+12,97
+Vienna Teng,Logged In,Jacob,M,7,Klein,204.25098,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,The Last Snowfall,200,1.54144E+12,73
+Beck,Logged In,Layla,F,24,Griffin,211.1473,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Girl,200,1.54144E+12,24
+Chuck Berry,Logged In,Jacob,M,8,Klein,147.06893,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Roll Over Beethoven,200,1.54144E+12,73
+Arkona,Logged In,Kate,F,20,Harrell,326.94812,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Vosstanie Roda,200,1.54144E+12,97
+Vampire Weekend,Logged In,Layla,F,25,Griffin,243.04281,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,The Kids Dont Stand A Chance (Album),200,1.54144E+12,24
+Creed,Logged In,Jacob,M,9,Klein,295.3922,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,My Sacrifice,200,1.54144E+12,73
+Bryan Adams,Logged In,Layla,F,26,Griffin,231.99302,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Fearless,200,1.54144E+12,24
+Deerhunter,Logged In,Kate,F,21,Harrell,325.17179,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Neither Of Us_ Uncertainly,200,1.54144E+12,97
+Angels and Airwaves,Logged In,Jacob,M,10,Klein,259.44771,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Sirens,200,1.54144E+12,73
+Incubus,Logged In,Layla,F,27,Griffin,168.6722,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,I Miss You,200,1.54144E+12,24
+Tab Benoit,Logged In,Jacob,M,11,Klein,221.09995,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Jambalaya,200,1.54144E+12,73
+Franz Ferdinand,Logged In,Kate,F,22,Harrell,206.28853,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Call Me,200,1.54144E+12,97
+Derek & The Dominos,Logged In,Layla,F,28,Griffin,382.37995,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Keep On Growing,200,1.54144E+12,24
+BjÃÂ¶rk,Logged In,Jacob,M,12,Klein,348.57751,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Undo,200,1.54144E+12,73
+Little Tony,Logged In,Kate,F,23,Harrell,183.84934,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Cuore Matto,200,1.54144E+12,97
+The Police,Logged In,Kate,F,24,Harrell,289.85424,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,So Lonely,200,1.54144E+12,97
+Mariza,Logged In,Layla,F,29,Griffin,208.77016,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Loucura,200,1.54144E+12,24
+Say Anything,Logged In,Jacob,M,13,Klein,208.77016,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Walk Through Hell (featuring Max Bemis Acoustic Exclusive),200,1.54144E+12,73
+Yung Berg,Logged In,Layla,F,30,Griffin,230.63465,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Do That There (featuring Dude 'N Nem),200,1.54144E+12,24
+,Logged In,Cecilia,F,0,Owens,,free,"Atlanta-Sandy Springs-Roswell, GA",GET,Home,1.54103E+12,236,,200,1.54144E+12,6
+Supertramp,Logged In,Kate,F,25,Harrell,273.18812,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Bloody Well Right,200,1.54144E+12,97
+Framing Hanley,Logged In,Jacob,M,14,Klein,230.08608,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Alone In This Bed (Capeside),200,1.54144E+12,73
+BjÃÂ¶rk,Logged In,Layla,F,31,Griffin,348.57751,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Undo,200,1.54144E+12,24
+Wilson Simonal,Logged In,Kate,F,26,Harrell,146.75546,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Tudo De VocÃÂª,200,1.54144E+12,97
+Pillar,Logged In,Jacob,M,15,Klein,190.9024,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Frontline,200,1.54144E+12,73
+Streetlight Manifesto,Logged In,Kate,F,27,Harrell,313.18159,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,A Moment Of Silence (Album Version),200,1.54144E+12,97
+Kanye West / T-Pain,Logged In,Jacob,M,16,Klein,207.04608,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Good Life,200,1.54144E+12,73
+George Michael,Logged In,Layla,F,32,Griffin,276.50567,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,I Want Your Sex,200,1.54144E+12,24
+Garbage,Logged In,Jacob,M,17,Klein,258.7424,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Stupid Girl,200,1.54144E+12,73
+Tom Petty And The Heartbreakers,Logged In,Kate,F,28,Harrell,180.94975,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,You're Gonna Get It (Album Version),200,1.54144E+12,97
+Max Richter,Logged In,Layla,F,33,Griffin,193.38404,paid,"Lake Havasu City-Kingman, AZ",PUT,NextSong,1.54106E+12,23,Organum,200,1.54144E+12,24
+,Logged In,Layla,F,34,Griffin,,paid,"Lake Havasu City-Kingman, AZ",GET,Error,1.54106E+12,23,,404,1.54144E+12,24
+The Winans,Logged In,Kate,F,29,Harrell,385.56689,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Prone To Wander (Album Version),200,1.54144E+12,97
+Calle 13,Logged In,Jacob,M,18,Klein,211.06893,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Pi-di-di-di,200,1.54144E+12,73
+The Decemberists,Logged In,Molly,F,0,Taylor,421.85098,free,"St. Louis, MO-IL",PUT,NextSong,1.54099E+12,171,I Was Meant For the Stage,200,1.54144E+12,35
+,Logged In,Molly,F,1,Taylor,,free,"St. Louis, MO-IL",PUT,Logout,1.54099E+12,171,,307,1.54144E+12,35
+,Logged Out,,,2,,,free,,GET,Home,,171,,200,1.54144E+12,
+,Logged Out,,,3,,,free,,PUT,Login,,171,,307,1.54144E+12,
+,Logged In,Molly,F,4,Taylor,,free,"St. Louis, MO-IL",GET,Home,1.54099E+12,171,,200,1.54144E+12,35
+Mae,Logged In,Jacob,M,19,Klein,230.13832,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,We're So Far Away,200,1.54144E+12,73
+Girl Talk,Logged In,Kate,F,30,Harrell,173.24363,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Give and Go,200,1.54144E+12,97
+Helloween,Logged In,Jacob,M,20,Klein,309.21098,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Where The Rain Grows,200,1.54144E+12,73
+ATB,Logged In,Molly,F,5,Taylor,248.21506,free,"St. Louis, MO-IL",PUT,NextSong,1.54099E+12,171,Killer,200,1.54144E+12,35
+The Tangent,Logged In,Kate,F,31,Harrell,270.31465,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,After Rubycon (live),200,1.54144E+12,97
+Turing Machine,Logged In,Molly,F,6,Taylor,522.762,free,"St. Louis, MO-IL",PUT,NextSong,1.54099E+12,171,Robotronic,200,1.54144E+12,35
+Justin Timberlake,Logged In,Jacob,M,21,Klein,294.86975,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,SeÃÂ±orita,200,1.54144E+12,73
+Panic At The Disco,Logged In,Kate,F,32,Harrell,259.29098,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Behind The Sea [Live In Chicago],200,1.54144E+12,97
+,Logged In,Kate,F,33,Harrell,,paid,"Lansing-East Lansing, MI",GET,Downgrade,1.54047E+12,147,,200,1.54144E+12,97
+Me First And The Gimme Gimmes,Logged In,Jacob,M,22,Klein,145.78893,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Good Bye Earl,200,1.54144E+12,73
+Will.I.Am,Logged In,Kate,F,34,Harrell,236.93016,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Invisible,200,1.54144E+12,97
+Usher,Logged In,Jacob,M,23,Klein,224.10404,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Hey Daddy (Daddy's Home),200,1.54144E+12,73
+Alicia Keys,Logged In,Molly,F,7,Taylor,229.0673,free,"St. Louis, MO-IL",PUT,NextSong,1.54099E+12,171,If I Ain't Got You,200,1.54144E+12,35
+The Red Jumpsuit Apparatus,Logged In,Kate,F,35,Harrell,191.84281,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Face Down (Album Version),200,1.54144E+12,97
+John Mayer,Logged In,Jacob,M,24,Klein,201.16853,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Waiting On The World To Change,200,1.54144E+12,73
+Florence + The Machine,Logged In,Kate,F,36,Harrell,131.3171,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Kiss With A Fist,200,1.54144E+12,97
+The Cute Lepers,Logged In,Jacob,M,25,Klein,195.52608,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Prove It,200,1.54144E+12,73
+Bruce Springsteen,Logged In,Kate,F,37,Harrell,304.43057,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Into The Fire,200,1.54144E+12,97
+Carla Bruni,Logged In,Sienna,F,0,Colon,163.02975,free,"Las Cruces, NM",PUT,NextSong,1.54001E+12,159,Quelqu'un M'a Dit (Album Version),200,1.54144E+12,81
+Nando Reis,Logged In,Jacob,M,26,Klein,245.96853,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,RelicÃÂ¡rio,200,1.54144E+12,73
+,Logged In,Jayden,M,0,Graves,,paid,"Marinette, WI-MI",GET,Home,1.54066E+12,231,,200,1.54144E+12,25
+Holly Brook,Logged In,Kate,F,38,Harrell,250.80118,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,All Will Be Forgotten (Album Version),200,1.54144E+12,97
+Sun Kil Moon,Logged In,Jayden,M,1,Graves,196.62322,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,Tiny Cities Made Of Ashes,200,1.54144E+12,25
+Kid Cudi / Ratatat,Logged In,Jacob,M,27,Klein,246.72608,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Alive (nightmare),200,1.54144E+12,73
+Panic! At The Disco,Logged In,Jayden,M,2,Graves,215.92771,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,The Only Difference Between Martyrdom and Suicide Is Press Coverage (Tommie Sunshine Brooklyn Fire Remix),200,1.54144E+12,25
+Eminem,Logged In,Kate,F,39,Harrell,251.55873,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Without Me,200,1.54144E+12,97
+Huey Lewis & The News,Logged In,Jacob,M,28,Klein,286.4322,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,I Want A New Drug,200,1.54144E+12,73
+Deana Carter,Logged In,Jayden,M,3,Graves,214.5171,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,She's Good For You,200,1.54144E+12,25
+Righteous Brothers,Logged In,Kate,F,40,Harrell,168.75057,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Ebb Tide,200,1.54144E+12,97
+12 Stones,Logged In,Jayden,M,4,Graves,200.9073,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,Adrenaline,200,1.54144E+12,25
+Randy Houser,Logged In,Jacob,M,29,Klein,171.88526,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Boots On,200,1.54144E+12,73
+The Smiths,Logged In,Kate,F,41,Harrell,123.01016,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Girlfriend In A Coma,200,1.54144E+12,97
+Eagle-Eye Cherry,Logged In,Kate,F,42,Harrell,242.78159,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Save Tonight,200,1.54144E+12,97
+Bo Hansson,Logged In,Jacob,M,30,Klein,240.63955,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Lothlorien (2002 Digital Remaster),200,1.54144E+12,73
+Edwyn Collins,Logged In,Jayden,M,5,Graves,235.91138,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,A Girl Like You,200,1.54144E+12,25
+Jesper Kyd,Logged In,Kate,F,43,Harrell,138.39628,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Ezio In Florence,200,1.54144E+12,97
+Karen Clark Sheard,Logged In,Jacob,M,31,Klein,220.81261,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Good,200,1.54144E+12,73
+Edison Glass,Logged In,Jayden,M,6,Graves,141.21751,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,Let Go,200,1.54144E+12,25
+Coldplay,Logged In,Kate,F,44,Harrell,244.68853,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Life In Technicolor ii,200,1.54144E+12,97
+Mayday Parade,Logged In,Jayden,M,7,Graves,241.10975,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,I Swear This Time I Mean It (Album Version),200,1.54144E+12,25
+Alejandro Sanz,Logged In,Jacob,M,32,Klein,266.84036,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Sin que se note,200,1.54144E+12,73
+,Logged In,Jacob,M,33,Klein,,paid,"Tampa-St. Petersburg-Clearwater, FL",GET,About,1.54056E+12,255,,200,1.54144E+12,73
+LMFAO / Lil Jon,Logged In,Kate,F,45,Harrell,222.17098,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Shots,200,1.54144E+12,97
+,Logged In,Jacob,M,34,Klein,,paid,"Tampa-St. Petersburg-Clearwater, FL",GET,Home,1.54056E+12,255,,200,1.54144E+12,73
+New Buffalo,Logged In,Jayden,M,8,Graves,233.58649,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,I've got you and you've got me - song of contentment,200,1.54144E+12,25
+The New Pornographers,Logged In,Jacob,M,35,Klein,272.71791,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Go Places,200,1.54144E+12,73
+Stavento,Logged In,Kate,F,46,Harrell,512.80934,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Outro,200,1.54144E+12,97
+XTC,Logged In,Jayden,M,9,Graves,152.89424,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,Into The Atom Age (2001 Digital Remaster),200,1.54144E+12,25
+Usher,Logged In,Jacob,M,36,Klein,224.10404,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Hey Daddy (Daddy's Home),200,1.54144E+12,73
+Sia,Logged In,Jayden,M,10,Graves,253.6224,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,Little Black Sandals,200,1.54144E+12,25
+Train,Logged In,Carlos,M,0,Carter,216.76363,free,"Miami-Fort Lauderdale-West Palm Beach, FL",PUT,NextSong,1.54089E+12,125,Hey_ Soul Sister,200,1.54144E+12,27
+Kid Cudi / MGMT / Ratatat,Logged In,Jacob,M,37,Klein,295.67955,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,Pursuit Of Happiness (nightmare),200,1.54144E+12,73
+Smokie Norful,Logged In,Jayden,M,11,Graves,170.52689,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,Chapter 6: Exercise That Muscle,200,1.54144E+12,25
+Radiohead,Logged In,Kate,F,47,Harrell,261.45914,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Karma Police,200,1.54144E+12,97
+,Logged In,Jayden,M,12,Graves,,paid,"Marinette, WI-MI",GET,Home,1.54066E+12,231,,200,1.54144E+12,25
+Old 97's,Logged In,Jayden,M,13,Graves,231.28771,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,Victoria (LP Version),200,1.54144E+12,25
+The Dust Brothers (featuring Tyler Durden),Logged In,Jacob,M,38,Klein,211.12118,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,This Is Your Life (featuring Tyler Durden) (Album Version),200,1.54144E+12,73
+Plastilina Mosh,Logged In,Kate,F,48,Harrell,261.45914,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,147,Mr. P-Mosh,200,1.54144E+12,97
+Tree63,Logged In,Jayden,M,14,Graves,183.84934,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,The Answer To The Question,200,1.54144E+12,25
+The Yardbirds,Logged In,Jacob,M,39,Klein,206.10567,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,255,The Train Kept A Rollin',200,1.54144E+12,73
+Justice,Logged In,Jayden,M,15,Graves,243.40853,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,TTHHEE PPAARRTTYY,200,1.54144E+12,25
+,Logged In,Jacqueline,F,0,Lynch,,free,"Atlanta-Sandy Springs-Roswell, GA",GET,Home,1.54022E+12,28,,200,1.54144E+12,29
+Matt Redman,Logged In,Jayden,M,16,Graves,298.73587,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,This Is How We Know,200,1.54144E+12,25
+,Logged In,Jayden,M,0,Fox,,free,"New Orleans-Metairie, LA",GET,Home,1.54103E+12,282,,200,1.54144E+12,101
+NEEDTOBREATHE,Logged In,Jayden,M,1,Fox,209.8673,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,282,Streets Of Gold (Album Version),200,1.54144E+12,101
+Maximilian Hecker,Logged In,Jacqueline,F,1,Lynch,295.60118,free,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,28,Let Me Out,200,1.54144E+12,29
+KALIMBA,Logged In,Jayden,M,2,Fox,279.87546,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,282,Tu CorazÃÂ³n lo sabe (Lat'n Party),200,1.54144E+12,101
+The All-American Rejects,Logged In,Jayden,M,17,Graves,262.24281,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,The Wind Blows,200,1.54144E+12,25
+John Prine,Logged In,Jayden,M,3,Fox,185.96526,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,282,Aimless Love,200,1.54144E+12,101
+Dead Prez,Logged In,Jayden,M,18,Graves,300.17261,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,Hip Hop,200,1.54144E+12,25
+Girl Talk,Logged In,Jayden,M,4,Fox,170.73587,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,282,Hold up,200,1.54144E+12,101
+Queens Of The Stone Age,Logged In,Jayden,M,19,Graves,339.90485,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,Misfit Love,200,1.54144E+12,25
+Miguel Calo,Logged In,Jayden,M,5,Fox,171.17995,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,282,El Cuatrero,200,1.54144E+12,101
+Foals,Logged In,Jayden,M,20,Graves,368.61342,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,After Glow,200,1.54144E+12,25
+Alison Krauss,Logged In,Jayden,M,21,Graves,267.57179,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,I Give You To His Heart,200,1.54144E+12,25
+,Logged In,Jayden,M,22,Graves,,paid,"Marinette, WI-MI",GET,Help,1.54066E+12,231,,200,1.54144E+12,25
+Linkin Park,Logged In,Jayden,M,23,Graves,289.90649,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,231,Shadow Of The Day (Album Version),200,1.54144E+12,25
+Vampire Weekend,Logged In,Jayden,M,0,Fox,137.82159,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,296,A-Punk (Album),200,1.54145E+12,101
+Crystal,Logged In,Jayden,M,1,Fox,251.97669,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,296,VÃÂNDORMADÃÂR,200,1.54145E+12,101
+Plain White T S,Logged In,Theodore,M,0,Smith,266.94485,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54031E+12,261,A Lonely September (Album),200,1.54145E+12,52
+Eddie Cochran,Logged In,Theodore,M,1,Smith,113.68444,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54031E+12,261,Mean When I'm Mad,200,1.54145E+12,52
+,Logged In,Austin,M,0,Rosales,,free,"New York-Newark-Jersey City, NY-NJ-PA",GET,Home,1.54106E+12,209,,200,1.54146E+12,12
+Justin Bieber,Logged In,Austin,M,1,Rosales,214.67383,free,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54106E+12,209,One Time,200,1.54146E+12,12

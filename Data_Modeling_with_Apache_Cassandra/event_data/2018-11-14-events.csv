@@ -1,0 +1,458 @@
+artist,auth,firstName,gender,itemInSession,lastName,length,level,location,method,page,registration,sessionId,song,status,ts,userId
+The Grass Roots,Logged In,Sara,F,72,Johnson,166.71302,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,411,Let's Live For Today,200,1.54215E+12,95
+Stars,Logged In,Sara,F,73,Johnson,298.94485,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,411,Time Can Never Kill The True Heart,200,1.54215E+12,95
+Eddie Palmieri,Logged In,Sara,F,74,Johnson,391.83628,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,411,Nada De Ti,200,1.54215E+12,95
+The Bravery,Logged In,Sara,F,75,Johnson,168.14975,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,411,Give In,200,1.54215E+12,95
+K.U.K.L,Logged In,Sara,F,76,Johnson,181.28934,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,411,Anna,200,1.54215E+12,95
+The Fray,Logged In,Sara,F,77,Johnson,209.97179,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,411,Syndicate,200,1.54216E+12,95
+Chuck Berry,Logged In,Sara,F,78,Johnson,147.06893,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,411,Roll Over Beethoven,200,1.54216E+12,95
+Dimmu Borgir,Logged In,Sara,F,79,Johnson,468.47955,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,411,Kings Of The Carnival Creation,200,1.54216E+12,95
+Jimmy Nail,Logged In,Sara,F,80,Johnson,245.65506,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,411,Ain't No Doubt,200,1.54216E+12,95
+Weezer,Logged In,Sara,F,81,Johnson,189.43955,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,411,Pork And Beans,200,1.54216E+12,95
+,Logged In,Wyatt,M,0,Scott,,free,"Eureka-Arcata-Fortuna, CA",GET,Home,1.54087E+12,551,,200,1.54216E+12,9
+Madcon,Logged In,Wyatt,M,1,Scott,215.92771,free,"Eureka-Arcata-Fortuna, CA",PUT,NextSong,1.54087E+12,551,Beggin',200,1.54216E+12,9
+Joe Williams / Count Basie,Logged In,Sara,F,82,Johnson,184.94649,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,411,Teach Me Tonight,200,1.54216E+12,95
+Emil Gilels/Orchestre de la SociÃÂ©tÃÂ© des Concerts du Conservatoire/AndrÃÂ© Cluytens,Logged In,Sara,F,83,Johnson,375.19628,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,411,Piano Concerto No. 2 in G minor Op. 22 (2006 Digital Remaster): III.  Presto,200,1.54216E+12,95
+Modwheelmood,Logged In,Sara,F,84,Johnson,209.71057,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,411,Sunday Morning,200,1.54216E+12,95
+,Logged In,Sara,F,85,Johnson,,paid,"Winston-Salem, NC",GET,Home,1.54081E+12,411,,200,1.54216E+12,95
+,Logged In,Sara,F,86,Johnson,,paid,"Winston-Salem, NC",GET,About,1.54081E+12,411,,200,1.54216E+12,95
+,Logged In,Sara,F,87,Johnson,,paid,"Winston-Salem, NC",GET,Home,1.54081E+12,411,,200,1.54216E+12,95
+,Logged In,Mohammad,M,0,Rodriguez,,free,"Sacramento--Roseville--Arden-Arcade, CA",GET,Home,1.54051E+12,539,,200,1.54216E+12,88
+John Mayer,Logged In,Tegan,F,0,Levine,201.16853,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Waiting On The World To Change,200,1.54216E+12,80
+Ten Years After,Logged In,Tegan,F,1,Levine,122.3571,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Two Time Mama (2004 Digital Remaster),200,1.54216E+12,80
+Mudcrutch,Logged In,Tegan,F,2,Levine,208.03873,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Six Days On The Road (Album Version),200,1.54216E+12,80
+Alaska Y Dinarama,Logged In,Tegan,F,3,Levine,180.37506,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Ni TÃÂº Ni Nadie (VersiÃÂ³n Demo),200,1.54216E+12,80
+Kicking K8,Logged In,Tegan,F,4,Levine,176.48281,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Liar,200,1.54216E+12,80
+Badly Drawn Boy,Logged In,Tegan,F,5,Levine,318.51057,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,The Shining,200,1.54217E+12,80
+,Logged In,Tegan,F,6,Levine,,paid,"Portland-South Portland, ME",GET,Home,1.54079E+12,548,,200,1.54217E+12,80
+Disturbed,Logged In,Tegan,F,7,Levine,247.09179,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Pain Redefined (Album Version),200,1.54217E+12,80
+Phoenix,Logged In,Tegan,F,8,Levine,278.80444,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Armistice,200,1.54217E+12,80
+Margaret Becker,Logged In,Tegan,F,9,Levine,251.84608,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,The Hunger Stays,200,1.54217E+12,80
+Lady GaGa,Logged In,Tegan,F,10,Levine,220.65587,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Teeth,200,1.54217E+12,80
+Corinne Bailey Rae,Logged In,Tegan,F,11,Levine,206.18404,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Trouble Sleeping,200,1.54217E+12,80
+Royksopp,Logged In,Tegan,F,12,Levine,303.62077,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Miss It So Much,200,1.54217E+12,80
+Apocalyptica,Logged In,Tegan,F,13,Levine,221.07383,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Enter Sandman,200,1.54217E+12,80
+Usher featuring will.i.am,Logged In,Tegan,F,14,Levine,395.72853,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,OMG,200,1.54217E+12,80
+,Logged In,Alivia,F,0,Terrell,,free,"Parkersburg-Vienna, WV",GET,Home,1.54051E+12,3,,200,1.54217E+12,4
+The Killers,Logged In,Alivia,F,1,Terrell,246.80444,free,"Parkersburg-Vienna, WV",PUT,NextSong,1.54051E+12,3,Read My Mind,200,1.54217E+12,4
+Barry Tuckwell/Academy of St Martin-in-the-Fields/Sir Neville Marriner,Logged In,Tegan,F,15,Levine,277.15873,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),200,1.54217E+12,80
+Interpol,Logged In,Tegan,F,16,Levine,487.67955,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Public Pervert,200,1.54217E+12,80
+Clay Walker,Logged In,Tegan,F,17,Levine,167.99302,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,What's It To You (Album Version),200,1.54217E+12,80
+DMX,Logged In,Tegan,F,18,Levine,259.65669,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,One More Road To Cross,200,1.54217E+12,80
+Dakota Oak,Logged In,Tegan,F,19,Levine,45.63546,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Baker's Blue Jay Yarn,200,1.54217E+12,80
+Coldplay,Logged In,Tegan,F,20,Levine,268.30322,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Yellow,200,1.54217E+12,80
+Deadmau5,Logged In,Tegan,F,21,Levine,521.19465,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Faxing Berlin,200,1.54217E+12,80
+Shaggy / Ricardo Ducent,Logged In,Tegan,F,22,Levine,226.76853,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,It Wasn't Me,200,1.54217E+12,80
+R.E.M.,Logged In,Tegan,F,23,Levine,202.4224,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Talk About The Passion,200,1.54217E+12,80
+Michelle Shocked,Logged In,Tegan,F,24,Levine,217.83465,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Quality Of Mercy,200,1.54217E+12,80
+Cradle Of Filth,Logged In,Tegan,F,25,Levine,371.66975,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Better To Reign In Hell,200,1.54217E+12,80
+Bond,Logged In,Tegan,F,26,Levine,210.9122,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Scorchio,200,1.54217E+12,80
+,Logged In,Sylvie,F,0,Cruz,,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",GET,Home,1.54027E+12,484,,200,1.54217E+12,10
+Vieja Trova Santiaguera,Logged In,Tegan,F,27,Levine,222.58893,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Cuida Eso,200,1.54217E+12,80
+Jonas Brothers,Logged In,Tegan,F,28,Levine,153.46893,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,S.O.S.,200,1.54217E+12,80
+KC And The Sunshine Band,Logged In,Sylvie,F,1,Cruz,301.03465,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,484,Get Down Tonight (Miami Mix),200,1.54217E+12,10
+Alejandro Sanz,Logged In,Tegan,F,29,Levine,277.44608,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Te lo agradezco_ pero no,200,1.54217E+12,80
+Bleeding Through,Logged In,Tegan,F,30,Levine,171.67628,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,The Truth (Sick Of It All Cover Version),200,1.54217E+12,80
+Eminem,Logged In,Sylvie,F,2,Cruz,323.49995,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,484,Criminal,200,1.54217E+12,10
+MoZella,Logged In,Tegan,F,31,Levine,203.41506,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,You Wanted It (Album Version),200,1.54217E+12,80
+,Logged In,Tegan,F,32,Levine,,paid,"Portland-South Portland, ME",GET,Downgrade,1.54079E+12,548,,200,1.54217E+12,80
+Laurel & Hardy,Logged In,Sylvie,F,3,Cruz,123.71546,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,484,At the Ball_ That's All,200,1.54217E+12,10
+Jack's Mannequin,Logged In,Tegan,F,33,Levine,194.89914,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,The Mixed Tape (Album Version),200,1.54217E+12,80
+Percubaba,Logged In,Sylvie,F,4,Cruz,124.78649,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,484,Intro,200,1.54217E+12,10
+Eagles,Logged In,Tegan,F,34,Levine,241.78893,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Take The Devil (LP Version),200,1.54217E+12,80
+Rilo Kiley,Logged In,Sylvie,F,5,Cruz,322.42893,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,484,A Man/Me/Then Jim (Album Version),200,1.54217E+12,10
+Rise Against,Logged In,Tegan,F,35,Levine,245.96853,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Audience Of One,200,1.54217E+12,80
+Watain,Logged In,Sylvie,F,6,Cruz,303.25506,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,484,Sworn To The Dark,200,1.54217E+12,10
+Nickel Creek,Logged In,Tegan,F,36,Levine,187.55873,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Scotch & Chocolate,200,1.54217E+12,80
+Ricardo Arjona,Logged In,Sylvie,F,7,Cruz,210.25914,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,484,Como Duele (Album),200,1.54217E+12,10
+Sherwood,Logged In,Tegan,F,37,Levine,122.77506,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,The last to know,200,1.54217E+12,80
+,Logged In,Tegan,F,38,Levine,,paid,"Portland-South Portland, ME",GET,Help,1.54079E+12,548,,200,1.54217E+12,80
+,Logged In,Tegan,F,39,Levine,,paid,"Portland-South Portland, ME",GET,Help,1.54079E+12,548,,200,1.54217E+12,80
+Gordon Lightfoot,Logged In,Tegan,F,40,Levine,172.61669,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Steel Rail Blues,200,1.54217E+12,80
+The Temper Trap,Logged In,Tegan,F,41,Levine,192.67873,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Fader,200,1.54217E+12,80
+Moby,Logged In,Tegan,F,42,Levine,228.25751,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,South Side,200,1.54217E+12,80
+Toby Keith,Logged In,Tegan,F,43,Levine,207.46404,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,How Do You Like Me Now?!,200,1.54217E+12,80
+Joe Vasconcellos,Logged In,Tegan,F,44,Levine,255.92118,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Me Demoro (vivo),200,1.54217E+12,80
+Mike Jones,Logged In,Tegan,F,45,Levine,222.58893,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Next To You   (Explicit Album Version),200,1.54217E+12,80
+MercyME,Logged In,Tegan,F,46,Levine,257.51465,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,In You,200,1.54217E+12,80
+,Logged In,Lily,F,0,Cooper,,free,"Columbia, SC",GET,Home,1.54106E+12,58,,200,1.54217E+12,59
+,Logged In,Lily,F,1,Cooper,,free,"Columbia, SC",PUT,Logout,1.54106E+12,58,,307,1.54217E+12,59
+,Logged Out,,,2,,,free,,GET,Home,,58,,200,1.54217E+12,
+,Logged Out,,,3,,,free,,GET,Home,,58,,200,1.54217E+12,
+,Logged Out,,,4,,,free,,PUT,Login,,58,,307,1.54217E+12,
+Disturbed,Logged In,Chloe,F,0,Cuevas,223.45098,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,553,Just Stop (Album Version),200,1.54217E+12,49
+,Logged In,Lily,F,5,Cooper,,free,"Columbia, SC",GET,Home,1.54106E+12,58,,200,1.54218E+12,59
+Armand Van Helden & A-TRAK Present Duck Sauce,Logged In,Tegan,F,47,Levine,325.0673,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,aNYway,200,1.54218E+12,80
+Jack Johnson,Logged In,Lily,F,6,Cooper,185.99138,free,"Columbia, SC",PUT,NextSong,1.54106E+12,58,Crying Shame,200,1.54218E+12,59
+Alliance Ethnik,Logged In,Chloe,F,1,Cuevas,265.76934,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,553,Creil City,200,1.54218E+12,49
+blessthefall,Logged In,Lily,F,7,Cooper,166.45179,free,"Columbia, SC",PUT,NextSong,1.54106E+12,58,Higinia (Album Version),200,1.54218E+12,59
+The Spades,Logged In,Tegan,F,48,Levine,84.84526,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Gotta Get Some,200,1.54218E+12,80
+Subhumans,Logged In,Tegan,F,49,Levine,209.37098,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Rain,200,1.54218E+12,80
+Killswitch Engage,Logged In,Tegan,F,50,Levine,257.20118,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,This Is Goodbye (Album Version),200,1.54218E+12,80
+Wishbone Ash,Logged In,Tegan,F,51,Levine,221.54404,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Persephone,200,1.54218E+12,80
+Cartola,Logged In,Tegan,F,52,Levine,127.242,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Tive Sim,200,1.54218E+12,80
+Joa~o Gilberto,Logged In,Tegan,F,53,Levine,98.14159,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Samba De Una Nota SoÃÂ´,200,1.54218E+12,80
+Blufeld,Logged In,Tegan,F,54,Levine,396.93016,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,On A Deeper Level,200,1.54218E+12,80
+,Logged In,Braden,M,0,Parker,,free,"Youngstown-Warren-Boardman, OH-PA",GET,Home,1.541E+12,457,,200,1.54218E+12,74
+Carpenters,Logged In,Tegan,F,55,Levine,276.06159,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,(They Long To Be) Close To You,200,1.54218E+12,80
+Komeda,Logged In,Tegan,F,56,Levine,261.72036,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Brother,200,1.54218E+12,80
+Bond,Logged In,Rylan,M,0,George,181.68118,free,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Fuego,200,1.54218E+12,16
+,Logged In,Rylan,M,1,George,,free,"Birmingham-Hoover, AL",GET,Upgrade,1.54102E+12,479,,200,1.54218E+12,16
+The Hooters,Logged In,Tegan,F,57,Levine,240.43057,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Johnny B.,200,1.54218E+12,80
+,Logged In,Rylan,M,2,George,,free,"Birmingham-Hoover, AL",PUT,Submit Upgrade,1.54102E+12,479,,307,1.54218E+12,16
+BeyoncÃÂ©,Logged In,Ryan,M,0,Smith,261.74649,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,529,Halo,200,1.54218E+12,26
+,Logged In,Rylan,M,3,George,,paid,"Birmingham-Hoover, AL",GET,Home,1.54102E+12,479,,200,1.54218E+12,16
+Dido,Logged In,Rylan,M,4,George,217.83465,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Thank You,200,1.54218E+12,16
+John Michael Montgomery,Logged In,Rylan,M,5,George,217.0771,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Beer And Bones,200,1.54218E+12,16
+Sarah Connor / Naturally 7,Logged In,Rylan,M,6,George,277.10649,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Music Is The Key,200,1.54218E+12,16
+,Logged In,Tegan,F,58,Levine,,paid,"Portland-South Portland, ME",GET,Downgrade,1.54079E+12,548,,200,1.54218E+12,80
+Macaco,Logged In,Rylan,M,7,George,202.4224,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Con La Mano LevantÃÂ¡,200,1.54218E+12,16
+Franz Ferdinand,Logged In,Rylan,M,8,George,254.69342,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,This Fire,200,1.54218E+12,16
+Green Day,Logged In,Tegan,F,59,Levine,185.12934,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,American Idiot [feat. Green Day & The Cast Of American Idiot] (Album Version),200,1.54218E+12,80
+OneRepublic,Logged In,Rylan,M,9,George,218.95791,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Everybody Loves Me,200,1.54218E+12,16
+Aqua,Logged In,Tegan,F,60,Levine,201.92608,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Doctor Jones,200,1.54218E+12,80
+Craig Chaquico,Logged In,Rylan,M,10,George,279.64036,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Kyle's World,200,1.54218E+12,16
+Joshua Radin,Logged In,Tegan,F,61,Levine,169.32526,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,I'd Rather Be With You,200,1.54218E+12,80
+Memphis Jug Band,Logged In,Rylan,M,11,George,150.80444,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,K.C. Moan,200,1.54218E+12,16
+Underoath,Logged In,Tegan,F,62,Levine,268.042,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,A Boy Brushed Red Living In Black And White,200,1.54218E+12,80
+Roses Are Red,Logged In,Rylan,M,12,George,258.82077,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Time Signals Progress,200,1.54218E+12,16
+Jay-Z,Logged In,Tegan,F,63,Levine,212.27057,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,D'Evils,200,1.54218E+12,80
+Marilyn Manson,Logged In,Rylan,M,13,George,218.8273,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,The Beautiful People,200,1.54218E+12,16
+Taylor Swift,Logged In,Tegan,F,64,Levine,232.09751,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Tim McGraw,200,1.54218E+12,80
+Erasure,Logged In,Rylan,M,14,George,584.25424,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Fingers And Thumbs (Cold Summer's Day) (Sound Factory Remix),200,1.54218E+12,16
+Casiotone For The Painfully Alone,Logged In,Tegan,F,65,Levine,210.12853,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Hot Boyz (w/ Dear Nora),200,1.54218E+12,80
+The Corrs,Logged In,Tegan,F,66,Levine,205.94893,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Breathless,200,1.54218E+12,80
+Black Stone Cherry,Logged In,Tegan,F,67,Levine,261.79873,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Big City Lights (Album Version),200,1.54218E+12,80
+The Kooks,Logged In,Rylan,M,15,George,203.96363,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Naive,200,1.54218E+12,16
+Band Of Horses,Logged In,Rylan,M,16,George,203.25832,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Marry Song (Album),200,1.54218E+12,16
+BeyoncÃÂ©,Logged In,Tegan,F,68,Levine,163.70893,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Gift From Virgo,200,1.54218E+12,80
+Metric,Logged In,Tegan,F,69,Levine,245.52444,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Gold Guns Girls,200,1.54218E+12,80
+Miley Cyrus,Logged In,Rylan,M,17,George,180.84526,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Hoedown Throwdown,200,1.54218E+12,16
+,Logged In,Rylan,M,18,George,,paid,"Birmingham-Hoover, AL",GET,Home,1.54102E+12,479,,200,1.54218E+12,16
+Stars,Logged In,Rylan,M,19,George,225.82812,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Violent,200,1.54218E+12,16
+K'Naan,Logged In,Tegan,F,70,Levine,220.49914,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Wavin'  Flag,200,1.54218E+12,80
+The Corrs,Logged In,Rylan,M,20,George,238.44526,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,When The Stars Go Blue (Featuring Bono) (Disclab Remix),200,1.54218E+12,16
+Binary Star,Logged In,Tegan,F,71,Levine,362.84036,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Evolution Of Man,200,1.54218E+12,80
+Florence + The Machine,Logged In,Rylan,M,21,George,219.66322,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Dog Days Are Over (Radio Edit),200,1.54218E+12,16
+Reverend And The Makers,Logged In,Tegan,F,72,Levine,209.81506,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Heavyweight Champion Of The World,200,1.54218E+12,80
+Les Humphries Singers,Logged In,Rylan,M,22,George,222.79791,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Mama Loo,200,1.54218E+12,16
+John Waite,Logged In,Tegan,F,73,Levine,269.76608,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Missing You,200,1.54218E+12,80
+CKY,Logged In,Rylan,M,23,George,240.27383,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Familiar Realm,200,1.54218E+12,16
+R.I.O.,Logged In,Tegan,F,74,Levine,217.12934,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,When The Sun Comes Down,200,1.54218E+12,80
+BeyoncÃÂ©,Logged In,Rylan,M,24,George,261.74649,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Halo,200,1.54218E+12,16
+Calle 13,Logged In,Tegan,F,75,Levine,196.98893,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Electro Movimiento,200,1.54218E+12,80
+Chris Bathgate,Logged In,Rylan,M,25,George,324.98893,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Coda,200,1.54218E+12,16
+Discovery,Logged In,Tegan,F,76,Levine,192.522,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,So Insane,200,1.54218E+12,80
+,Logged In,Alivia,F,0,Terrell,,free,"Parkersburg-Vienna, WV",GET,Home,1.54051E+12,566,,200,1.54218E+12,4
+Griffin House,Logged In,Tegan,F,77,Levine,226.42893,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Better Than Love,200,1.54218E+12,80
+Beastie Boys,Logged In,Rylan,M,26,George,172.22485,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,The Maestro,200,1.54218E+12,16
+,Logged In,Ann,F,0,Banks,,free,"Salt Lake City, UT",GET,Home,1.5409E+12,421,,200,1.54218E+12,99
+Raphael Saadiq featuring Stevie Wonder and CJ,Logged In,Ann,F,1,Banks,252.94322,free,"Salt Lake City, UT",PUT,NextSong,1.5409E+12,421,Never Give You Up,200,1.54218E+12,99
+Dead Meadow,Logged In,Rylan,M,27,George,181.41995,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Keep On Walking,200,1.54218E+12,16
+59 Times the Pain,Logged In,Tegan,F,78,Levine,144.95302,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Found Home,200,1.54218E+12,80
+,Logged In,Emily,F,0,Benson,,paid,"Augusta-Richmond County, GA-SC",GET,Home,1.54091E+12,522,,200,1.54218E+12,58
+Third World,Logged In,Tegan,F,79,Levine,268.79955,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,1865 (96ÃÂº In The Shade),200,1.54218E+12,80
+Nine Inch Nails,Logged In,Emily,F,1,Benson,293.69424,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Dead Souls (LP Version),200,1.54218E+12,58
+Bon Jovi,Logged In,Rylan,M,28,George,250.69669,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Livin' On A Prayer,200,1.54218E+12,16
+Kid Cudi / MGMT / Ratatat,Logged In,Rylan,M,29,George,295.67955,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Pursuit Of Happiness (nightmare),200,1.54218E+12,16
+Maria BethÃÂ¢nia,Logged In,Tegan,F,80,Levine,212.34893,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,Onde Estara O Meu Amor,200,1.54218E+12,80
+David Cook,Logged In,Emily,F,2,Benson,248.00608,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Come Back to Me,200,1.54218E+12,58
+Green Day,Logged In,Tegan,F,81,Levine,185.12934,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,548,American Idiot [feat. Green Day & The Cast Of American Idiot] (Album Version),200,1.54218E+12,80
+Feist,Logged In,Emily,F,3,Benson,183.58812,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,1234,200,1.54218E+12,58
+The Cat Empire,Logged In,Rylan,M,30,George,200.35873,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,The Lost Song,200,1.54218E+12,16
+Angels and Airwaves,Logged In,Chloe,F,0,Cuevas,302.05342,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,568,The Gift,200,1.54218E+12,49
+Brisa RochÃÂ©,Logged In,Emily,F,4,Benson,48.19546,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Intermission 1,200,1.54218E+12,58
+Saving Abel,Logged In,Rylan,M,31,George,258.42893,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Sailed Away,200,1.54218E+12,16
+Mystery Jets,Logged In,Emily,F,5,Benson,245.02812,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Hand Me Down,200,1.54218E+12,58
+,Logged In,Chloe,F,1,Cuevas,,free,"San Francisco-Oakland-Hayward, CA",GET,Upgrade,1.54094E+12,568,,200,1.54218E+12,49
+Eminem,Logged In,Rylan,M,32,George,284.18567,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,The Real Slim Shady,200,1.54218E+12,16
+Anna Ternheim,Logged In,Emily,F,6,Benson,166.86975,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,To Be Gone,200,1.54218E+12,58
+Color Me Badd,Logged In,Emily,F,7,Benson,259.63057,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Close To Heaven (Album Version),200,1.54218E+12,58
+,Logged In,Chloe,F,2,Cuevas,,free,"San Francisco-Oakland-Hayward, CA",GET,Upgrade,1.54094E+12,568,,200,1.54218E+12,49
+,Logged In,Chloe,F,3,Cuevas,,free,"San Francisco-Oakland-Hayward, CA",PUT,Submit Upgrade,1.54094E+12,568,,307,1.54218E+12,49
+Jimmy Eat World,Logged In,Rylan,M,33,George,166.00771,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,The Middle,200,1.54218E+12,16
+,Logged In,Chloe,F,4,Cuevas,,paid,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54094E+12,568,,200,1.54218E+12,49
+Reel Big Fish,Logged In,Emily,F,8,Benson,289.61914,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,We Care,200,1.54218E+12,58
+The Upsetters,Logged In,Rylan,M,34,George,231.44444,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Dub So,200,1.54218E+12,16
+Insane Clown Posse,Logged In,Rylan,M,35,George,262.89587,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Piggy Pie (Old School),200,1.54218E+12,16
+The Strokes,Logged In,Emily,F,9,Benson,218.56608,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Reptilia,200,1.54218E+12,58
+Yazoo,Logged In,Rylan,M,36,George,269.16526,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Good Times,200,1.54218E+12,16
+Thrice,Logged In,Emily,F,10,Benson,291.76118,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Of Dust And Nations,200,1.54218E+12,58
+Jacky Terrasson,Logged In,Chloe,F,5,Cuevas,342.7522,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,568,Le Jardin d'Hiver,200,1.54219E+12,49
+Armin van Buuren,Logged In,Rylan,M,37,George,452.23138,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Never Say Never,200,1.54219E+12,16
+Relient K,Logged In,Emily,F,11,Benson,138.81424,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Silent Night/Away In A Manger (Album Version),200,1.54219E+12,58
+Nick Cave & The Bad Seeds,Logged In,Emily,F,12,Benson,265.27302,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Spell,200,1.54219E+12,58
+Akcent,Logged In,Chloe,F,6,Cuevas,235.44118,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,568,9 Mai,200,1.54219E+12,49
+Riverboat Gamblers,Logged In,Emily,F,13,Benson,122.04363,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Hey! Hey! Hey!,200,1.54219E+12,58
+Ikonika,Logged In,Rylan,M,38,George,157.25669,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Continue?,200,1.54219E+12,16
+The Tallest Man On Earth,Logged In,Emily,F,14,Benson,175.43791,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Thousand Ways,200,1.54219E+12,58
+Drowning Pool,Logged In,Chloe,F,7,Cuevas,201.63873,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,568,Bodies,200,1.54219E+12,49
+,Logged In,Rylan,M,39,George,,paid,"Birmingham-Hoover, AL",GET,Home,1.54102E+12,479,,200,1.54219E+12,16
+Justin Timberlake,Logged In,Rylan,M,40,George,313.0771,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,What Goes Around...Comes Around,200,1.54219E+12,16
+The Pussycat Dolls,Logged In,Emily,F,15,Benson,221.3873,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Magic,200,1.54219E+12,58
+KC And The Sunshine Band,Logged In,Chloe,F,8,Cuevas,262.1122,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,568,It's The Same Old Song,200,1.54219E+12,49
+Gary Allan,Logged In,Rylan,M,41,George,237.53098,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Today,200,1.54219E+12,16
+Rebelution,Logged In,Emily,F,16,Benson,244.55791,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Suffering,200,1.54219E+12,58
+Jaci Velasquez,Logged In,Chloe,F,9,Cuevas,200.95955,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,568,Something (Album Version),200,1.54219E+12,49
+Nate Dogg feat.  Warren G,Logged In,Rylan,M,42,George,271.59465,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Nobody Does It Better,200,1.54219E+12,16
+Soulja Boy Tell'em,Logged In,Emily,F,17,Benson,224.91383,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Crank That (Soulja Boy),200,1.54219E+12,58
+Chuck Berry,Logged In,Chloe,F,10,Cuevas,147.06893,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,568,Roll Over Beethoven,200,1.54219E+12,49
+Band Of Horses,Logged In,Chloe,F,11,Cuevas,50.59873,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,568,Lamb on the Lam (In the City) (Album),200,1.54219E+12,49
+Dwight Yoakam,Logged In,Emily,F,18,Benson,239.3073,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,You're The One,200,1.54219E+12,58
+The Format,Logged In,Rylan,M,43,George,225.802,paid,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,479,Inches And Falling (I Love_ Love) (Live),200,1.54219E+12,16
+,Logged In,Chloe,F,12,Cuevas,,paid,"San Francisco-Oakland-Hayward, CA",GET,Help,1.54094E+12,568,,200,1.54219E+12,49
+K-OS,Logged In,Chloe,F,13,Cuevas,189.64853,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,568,I Wish I Knew Natalie Portman,200,1.54219E+12,49
+Amy Winehouse,Logged In,Emily,F,19,Benson,151.562,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Me & Mr Jones,200,1.54219E+12,58
+Harmonia,Logged In,Chloe,F,14,Cuevas,655.77751,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,568,Sehr kosmisch,200,1.54219E+12,49
+Steely Dan,Logged In,Emily,F,20,Benson,138.84036,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,With A Gun,200,1.54219E+12,58
+Katrina & The Waves,Logged In,Emily,F,21,Benson,199.73179,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,The Game Of Love,200,1.54219E+12,58
+The Pussycat Dolls,Logged In,Emily,F,22,Benson,200.9073,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Love The Way You Love Me,200,1.54219E+12,58
+Decyfer Down,Logged In,Emily,F,23,Benson,214.17751,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,I'll Breathe For You,200,1.54219E+12,58
+Bow Wow & Omarion,Logged In,Chloe,F,15,Cuevas,284.83873,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,568,Girlfriend,200,1.54219E+12,49
+,Logged In,Sylvie,F,0,Cruz,,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",GET,Home,1.54027E+12,567,,200,1.54219E+12,10
+The Velvet Underground / Nico,Logged In,Emily,F,24,Benson,360.09751,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,All Tomorrow's Parties,200,1.54219E+12,58
+,Logged In,Ava,F,0,Robinson,,free,"New Haven-Milford, CT",GET,Error,1.54093E+12,538,,404,1.54219E+12,50
+The Killers,Logged In,Ava,F,1,Robinson,225.12281,free,"New Haven-Milford, CT",PUT,NextSong,1.54093E+12,538,A Dustland Fairytale,200,1.54219E+12,50
+Kassav',Logged In,Emily,F,25,Benson,446.74567,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Medley Jacob,200,1.54219E+12,58
+,Logged In,Jacqueline,F,0,Lynch,,paid,"Atlanta-Sandy Springs-Roswell, GA",GET,Home,1.54022E+12,559,,200,1.54219E+12,29
+The Tragically Hip,Logged In,Emily,F,26,Benson,226.16771,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Coffee Girl,200,1.54219E+12,58
+Ryan Adams,Logged In,Jacqueline,F,1,Lynch,145.08363,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Everybody Knows,200,1.54219E+12,29
+El Cuarteto De Nos,Logged In,Emily,F,27,Benson,280.2673,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Hoy Estoy Raro,200,1.54219E+12,58
+Foo Fighters,Logged In,Jacqueline,F,2,Lynch,316.18567,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Over And Out,200,1.54219E+12,29
+Phil Keaggy,Logged In,Emily,F,28,Benson,376.0322,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Paintin' The Town (Album Version),200,1.54219E+12,58
+Local H,Logged In,Jacqueline,F,3,Lynch,223.00689,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Bound For The Floor,200,1.54219E+12,29
+David Benoit,Logged In,Jacqueline,F,4,Lynch,288.96608,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Jump Start,200,1.54219E+12,29
+Gang Of Four,Logged In,Emily,F,29,Benson,207.25506,paid,"Augusta-Richmond County, GA-SC",PUT,NextSong,1.54091E+12,522,Damaged Goods,200,1.54219E+12,58
+,Logged In,Emily,F,30,Benson,,paid,"Augusta-Richmond County, GA-SC",GET,About,1.54091E+12,522,,200,1.54219E+12,58
+Darius Rucker,Logged In,Jacqueline,F,5,Lynch,230.39955,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Alright,200,1.54219E+12,29
+Chris Bathgate,Logged In,Jacqueline,F,6,Lynch,324.98893,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Coda,200,1.54219E+12,29
+The Offspring,Logged In,Jacqueline,F,7,Lynch,163.3171,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,It'll Be a Long Time (Album Version),200,1.54219E+12,29
+Kings Of Leon,Logged In,Jacqueline,F,8,Lynch,189.1522,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,McFearless,200,1.54219E+12,29
+Caribou,Logged In,Jacqueline,F,9,Lynch,282.33098,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Kaili,200,1.54219E+12,29
+Nine Inch Nails,Logged In,Jacqueline,F,10,Lynch,373.2371,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Closer,200,1.54219E+12,29
+ATB,Logged In,Jacqueline,F,11,Lynch,191.7122,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Rising Moon,200,1.54219E+12,29
+Coldplay,Logged In,Jacqueline,F,12,Lynch,268.38159,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Yellow,200,1.54219E+12,29
+Cage The Elephant,Logged In,Jacqueline,F,13,Lynch,175.12444,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Ain't No Rest For The Wicked (Original Version),200,1.54219E+12,29
+Jack Johnson,Logged In,Jacqueline,F,14,Lynch,236.93016,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Bubble Toes,200,1.54219E+12,29
+Klaxons,Logged In,Jacqueline,F,15,Lynch,166.79138,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Golden Skans,200,1.54219E+12,29
+Three 6 Mafia vs. TiÃÂ«sto with Sean Kingston and Flo Rida,Logged In,Jacqueline,F,16,Lynch,241.05751,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Feel It,200,1.54219E+12,29
+Kid Cudi,Logged In,Jacqueline,F,17,Lynch,259.00363,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Cudi Zone,200,1.54219E+12,29
+Rihanna,Logged In,Jacqueline,F,18,Lynch,269.37424,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Don't Stop The Music,200,1.54219E+12,29
+,Logged In,Lily,F,0,Koch,,paid,"Chicago-Naperville-Elgin, IL-IN-WI",GET,Home,1.54105E+12,557,,200,1.54219E+12,15
+Brooks & Dunn,Logged In,Lily,F,1,Koch,191.79057,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,He's Got You,200,1.54219E+12,15
+ILS,Logged In,Jacqueline,F,19,Lynch,350.61506,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,No Soul (High Contrast Remix),200,1.54219E+12,29
+Reel Big Fish,Logged In,Lily,F,2,Koch,190.69342,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,Ban The Tube Top,200,1.54219E+12,15
+Pearl Jam,Logged In,Jacqueline,F,20,Lynch,161.48853,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Oceans,200,1.54219E+12,29
+Lucero,Logged In,Lily,F,3,Koch,231.94077,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,I'll Just Fall,200,1.54219E+12,15
+Armin van Buuren,Logged In,Jacqueline,F,21,Lynch,452.23138,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Never Say Never,200,1.54219E+12,29
+Usher Featuring Lil' Jon & Ludacris,Logged In,Lily,F,4,Koch,250.38322,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,Yeah!,200,1.54219E+12,15
+,Logged In,Aiden,M,0,Hess,,free,"La Crosse-Onalaska, WI-MN",GET,Home,1.54083E+12,498,,200,1.54219E+12,86
+Ice Cube,Logged In,Aiden,M,1,Hess,252.02893,free,"La Crosse-Onalaska, WI-MN",PUT,NextSong,1.54083E+12,498,It Was A Good Day,200,1.54219E+12,86
+The New Pornographers,Logged In,Lily,F,5,Koch,206.81098,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,Use It,200,1.54219E+12,15
+Righteous Brothers,Logged In,Jacqueline,F,22,Lynch,215.90159,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Unchained Melody,200,1.54219E+12,29
+Toto La Momposina,Logged In,Aiden,M,2,Hess,299.02322,free,"La Crosse-Onalaska, WI-MN",PUT,NextSong,1.54083E+12,498,Curura,200,1.54219E+12,86
+Motion City Soundtrack,Logged In,Lily,F,6,Koch,206.34077,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,Everything Is Alright (Album Version),200,1.54219E+12,15
+,Logged In,Lily,F,7,Koch,,paid,"Chicago-Naperville-Elgin, IL-IN-WI",GET,Help,1.54105E+12,557,,200,1.54219E+12,15
+Misfits,Logged In,Jacqueline,F,23,Lynch,45.47873,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Kong Unleashed (Album Version),200,1.54219E+12,29
+Kid Cudi / MGMT / Ratatat,Logged In,Jacqueline,F,24,Lynch,295.67955,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Pursuit Of Happiness (nightmare),200,1.54219E+12,29
+Drowning Pool,Logged In,Lily,F,8,Koch,201.63873,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,Bodies,200,1.54219E+12,15
+Cocteau Twins,Logged In,Lily,F,9,Koch,110.602,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,Strange Fruit,200,1.54219E+12,15
+Owl City,Logged In,Jacqueline,F,25,Lynch,267.65016,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,The Technicolor Phase,200,1.54219E+12,29
+Billy Currington,Logged In,Lily,F,10,Koch,215.82322,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,Good Directions,200,1.54219E+12,15
+Soul II Soul,Logged In,Lily,F,11,Koch,239.67302,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,How Long,200,1.54219E+12,15
+David Gray,Logged In,Jacqueline,F,26,Lynch,304.77016,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Disappearing World (Album Version),200,1.54219E+12,29
+Bill Engvall,Logged In,Lily,F,12,Koch,148.84526,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,Here's Your Sign Christmas (Album Version),200,1.5422E+12,15
+Tub Ring,Logged In,Jacqueline,F,27,Lynch,233.69098,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Invalid,200,1.5422E+12,29
+Eels,Logged In,Lily,F,13,Koch,199.65342,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,Efils' God,200,1.5422E+12,15
+Frightened Rabbit,Logged In,Jacqueline,F,28,Lynch,278.72608,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Yes_ I Would,200,1.5422E+12,29
+Hit-O-Matic,Logged In,Lily,F,14,Koch,229.27628,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,Melody Of Life,200,1.5422E+12,15
+zebrahead,Logged In,Lily,F,15,Koch,187.34975,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,With Legs Like That,200,1.5422E+12,15
+Creedence Clearwater Revival,Logged In,Jacqueline,F,29,Lynch,315.42812,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Born On The Bayou,200,1.5422E+12,29
+Foo Fighters,Logged In,Lily,F,16,Koch,250.14812,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,Everlong,200,1.5422E+12,15
+Atheist,Logged In,Jacqueline,F,30,Lynch,241.05751,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,On They Slay,200,1.5422E+12,29
+The Killers,Logged In,Lily,F,17,Koch,327.91465,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,Romeo And Juliet,200,1.5422E+12,15
+T.I.,Logged In,Jacqueline,F,31,Lynch,214.77832,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Why You Wanna (Amended Album Version),200,1.5422E+12,29
+Tori Amos Featuring Damien Rice,Logged In,Lily,F,18,Koch,215.82322,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,The Power of Orange Knickers,200,1.5422E+12,15
+Peggy Zina,Logged In,Jacqueline,F,32,Lynch,287.00689,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Ftes,200,1.5422E+12,29
+Anna Tatangelo,Logged In,Jordan,F,0,Hicks,218.93179,free,"Salinas, CA",PUT,NextSong,1.54001E+12,552,Il Mio Amico,200,1.5422E+12,37
+Dave Grusin,Logged In,Lily,F,19,Koch,255.50322,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,557,St. Elsewhere,200,1.5422E+12,15
+Tim Christensen,Logged In,Kate,F,0,Harrell,204.17261,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,558,Jump The Gun,200,1.5422E+12,97
+,Logged In,Lily,F,20,Koch,,paid,"Chicago-Naperville-Elgin, IL-IN-WI",GET,Downgrade,1.54105E+12,557,,200,1.5422E+12,15
+Bon Iver,Logged In,Jacqueline,F,33,Lynch,329.24689,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Blindsided,200,1.5422E+12,29
+The Exies,Logged In,Kate,F,1,Harrell,217.88689,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,558,Baptize Me,200,1.5422E+12,97
+The Whitest Boy Alive,Logged In,Jacqueline,F,34,Lynch,191.29424,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Fireworks (bonus track),200,1.5422E+12,29
+Kanye West,Logged In,Kate,F,2,Harrell,238.52363,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,558,Flashing Lights,200,1.5422E+12,97
+Bright Eyes,Logged In,Jacqueline,F,35,Lynch,279.87546,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Poison Oak (Album Version),200,1.5422E+12,29
+Felt,Logged In,Kate,F,3,Harrell,171.57179,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,558,Sunlight Bathed the Golden Glow,200,1.5422E+12,97
+,Logged In,Kate,F,4,Harrell,,paid,"Lansing-East Lansing, MI",PUT,Logout,1.54047E+12,558,,307,1.5422E+12,97
+,Logged Out,,,5,,,paid,,GET,Home,,558,,200,1.5422E+12,
+,Logged Out,,,6,,,paid,,PUT,Login,,558,,307,1.5422E+12,
+,Logged In,Kate,F,7,Harrell,,paid,"Lansing-East Lansing, MI",GET,Home,1.54047E+12,558,,200,1.5422E+12,97
+Alice Deejay,Logged In,Kate,F,8,Harrell,216.5024,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,558,Better Off Alone,200,1.5422E+12,97
+Murder By Death,Logged In,Jacqueline,F,36,Lynch,182.25587,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Ball & Chain,200,1.5422E+12,29
+Smash Mouth,Logged In,Jacqueline,F,37,Lynch,206.36689,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Walkin' On The Sun,200,1.5422E+12,29
+Nine Inch Nails,Logged In,Kate,F,9,Harrell,229.82485,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,558,Just Like You Imagined,200,1.5422E+12,97
+Lauryn Hill,Logged In,Jacqueline,F,38,Lynch,280.81587,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Tell Him,200,1.5422E+12,29
+Justin Bieber,Logged In,Kate,F,10,Harrell,220.89098,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,558,Somebody To Love,200,1.5422E+12,97
+,Logged In,Ryan,M,0,Smith,,free,"San Jose-Sunnyvale-Santa Clara, CA",GET,Home,1.54102E+12,571,,200,1.5422E+12,26
+Junior Kimbrough And The Soul Blues Boys,Logged In,Ryan,M,1,Smith,350.58893,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,571,All Night Long,200,1.5422E+12,26
+Holy Fuck,Logged In,Kate,F,11,Harrell,428.72118,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,558,Tonebank Computer,200,1.5422E+12,97
+Jes,Logged In,Jacqueline,F,39,Lynch,233.87383,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Closer,200,1.5422E+12,29
+The Killers,Logged In,Jacqueline,F,40,Lynch,220.89098,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,When You Were Young,200,1.5422E+12,29
+Anberlin,Logged In,Jacqueline,F,41,Lynch,178.23302,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Stationary Stationery,200,1.5422E+12,29
+Travie McCoy,Logged In,Jacqueline,F,42,Lynch,211.12118,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Billionaire [feat. Bruno Mars]  (Explicit Album Version),200,1.5422E+12,29
+Marc Almond,Logged In,Jacqueline,F,43,Lynch,387.65669,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Only The Moment (All The Time In The World Mix),200,1.5422E+12,29
+Guildo Horn,Logged In,Jacqueline,F,44,Lynch,240.37832,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Aber Dich Gibt's Nur Einmal FÃÂ¼r Mich,200,1.5422E+12,29
+DJ Paul,Logged In,Jacqueline,F,45,Lynch,208.45669,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,You Scared,200,1.5422E+12,29
+Elliott Smith,Logged In,Jacqueline,F,46,Lynch,141.42649,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Between The Bars,200,1.5422E+12,29
+Angus & Julia Stone,Logged In,Jacqueline,F,47,Lynch,295.81016,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Silver Coin,200,1.5422E+12,29
+Umberto Tozzi,Logged In,Evelin,F,0,Ayala,369.13587,free,"Milwaukee-Waukesha-West Allis, WI",PUT,NextSong,1.54101E+12,495,Gabbie,200,1.5422E+12,34
+Lonnie Gordon,Logged In,Connar,M,0,Moreno,181.21098,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54082E+12,476,Catch You Baby (Steve Pitron & Max Sanna Radio Edit),200,1.5422E+12,62
+50 Cent,Logged In,Jacqueline,F,48,Lynch,249.52118,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,P.I.M.P.,200,1.5422E+12,29
+Olivia Newton-John,Logged In,Connar,M,1,Moreno,132.23138,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54082E+12,476,Hochmah (Interlude),200,1.5422E+12,62
+snoop Dogg Featuring The Dramatics_ Lil' Half Dead,Logged In,Evelin,F,1,Ayala,319.99955,free,"Milwaukee-Waukesha-West Allis, WI",PUT,NextSong,1.54101E+12,495,Ballin' (Explicit) (Feat. The Dramatics_ Lil' Half Dead),200,1.5422E+12,34
+Daft Punk,Logged In,Jacqueline,F,49,Lynch,396.82567,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Da Funk / Dadftendirekt,200,1.5422E+12,29
+Radiohead,Logged In,Evelin,F,2,Ayala,255.42485,free,"Milwaukee-Waukesha-West Allis, WI",PUT,NextSong,1.54101E+12,495,Talk Show Host,200,1.5422E+12,34
+Phil Collins,Logged In,Alivia,F,0,Terrell,291.00363,free,"Parkersburg-Vienna, WV",PUT,NextSong,1.54051E+12,572,Something Happened On The Way To Heaven,200,1.5422E+12,4
+The Black Keys,Logged In,Jacqueline,F,50,Lynch,196.91057,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,All Hands Against His Own,200,1.5422E+12,29
+Lupe Fiasco,Logged In,Evelin,F,3,Ayala,273.94567,free,"Milwaukee-Waukesha-West Allis, WI",PUT,NextSong,1.54101E+12,495,Shining Down [feat. Matthew Santos] (Amended Album Version),200,1.5422E+12,34
+Franz Ferdinand,Logged In,Jacqueline,F,51,Lynch,247.24853,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Take Me Out,200,1.5422E+12,29
+The Spill Canvas,Logged In,Alivia,F,1,Terrell,204.90404,free,"Parkersburg-Vienna, WV",PUT,NextSong,1.54051E+12,572,Bracelets (LP Version),200,1.5422E+12,4
+Kings Of Leon,Logged In,Jacqueline,F,52,Lynch,231.81016,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Use Somebody,200,1.5422E+12,29
+,Logged In,Ayla,F,0,Johnson,,free,"Santa Rosa, CA",GET,Home,1.54088E+12,544,,200,1.5422E+12,63
+James Blunt,Logged In,Ayla,F,1,Johnson,257.95873,free,"Santa Rosa, CA",PUT,NextSong,1.54088E+12,544,Goodbye My Lover,200,1.5422E+12,63
+The Hush Sound,Logged In,Jacqueline,F,53,Lynch,196.28363,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,We Intertwined (Album Version),200,1.5422E+12,29
+The All-American Rejects,Logged In,Jacqueline,F,54,Lynch,238.86322,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Move Along,200,1.5422E+12,29
+Joseph Arthur,Logged In,Jacqueline,F,55,Lynch,167.75791,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Enough To Get Away With,200,1.5422E+12,29
+Nek,Logged In,Jacqueline,F,56,Lynch,211.12118,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Parliamo al singolare,200,1.5422E+12,29
+Joe Satriani,Logged In,Jacqueline,F,57,Lynch,201.63873,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Always With Me_ Always With You,200,1.5422E+12,29
+Iron & Wine,Logged In,Jacqueline,F,58,Lynch,205.89669,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Each Coming Night,200,1.5422E+12,29
+Scritti Politti,Logged In,Jacqueline,F,59,Lynch,286.9024,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54022E+12,559,Wood Beez,200,1.5422E+12,29
+,Logged In,Jacqueline,F,60,Lynch,,paid,"Atlanta-Sandy Springs-Roswell, GA",PUT,Logout,1.54022E+12,559,,307,1.5422E+12,29
+,Logged Out,,,61,,,paid,,GET,Home,,559,,200,1.5422E+12,
+,Logged In,Connar,M,0,Moreno,,free,"Houston-The Woodlands-Sugar Land, TX",GET,Home,1.54082E+12,585,,200,1.54221E+12,62
+The Bats,Logged In,Connar,M,1,Moreno,367.12444,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54082E+12,585,Crow Song,200,1.54221E+12,62
+Wolfmother,Logged In,Tegan,F,0,Levine,280.86812,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Joker And The Thief,200,1.54221E+12,80
+Starting Rock Feat. Diva Avari,Logged In,Jayden,M,0,Graves,367.62077,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,534,Don't Go,200,1.54221E+12,25
+,Logged In,Mohammad,M,0,Rodriguez,,free,"Sacramento--Roseville--Arden-Arcade, CA",GET,Home,1.54051E+12,565,,200,1.54221E+12,88
+Jason Mraz,Logged In,Connar,M,2,Moreno,187.50649,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54082E+12,585,Wordplay (Album Version),200,1.54221E+12,62
+Klaxons,Logged In,Tegan,F,1,Levine,161.07057,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Totem On The Timeline,200,1.54221E+12,80
+Caifanes,Logged In,Connar,M,3,Moreno,273.99791,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54082E+12,585,Nubes,200,1.54221E+12,62
+Information Society,Logged In,Mohammad,M,1,Rodriguez,281.80853,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,565,The Seeds of Pain,200,1.54221E+12,88
+Nirvana,Logged In,Tegan,F,2,Levine,218.06975,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,You Know You're Right,200,1.54221E+12,80
+Erykah Badu,Logged In,Jayden,M,1,Graves,336.45669,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,534,Me,200,1.54221E+12,25
+Kid Cudi,Logged In,Tegan,F,3,Levine,227.34322,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Up Up & Away,200,1.54221E+12,80
+That Petrol Emotion,Logged In,Mohammad,M,2,Rodriguez,265.1424,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,565,Sooner Or Later,200,1.54221E+12,88
+K-Ci & JoJo,Logged In,Jayden,M,2,Graves,331.31057,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,534,All My Life,200,1.54221E+12,25
+,Logged Out,,,0,,,free,,PUT,Login,,216,,307,1.54221E+12,
+Neil Young,Logged In,Tegan,F,4,Levine,557.13914,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Love And Only Love (1991 Live LP Version),200,1.54221E+12,80
+,Logged In,Zachary,M,1,Thomas,,free,"New York-Newark-Jersey City, NY-NJ-PA",GET,Home,1.54064E+12,216,,200,1.54221E+12,19
+The Smiths,Logged In,Jayden,M,3,Graves,159.08526,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,534,Cemetery Gates,200,1.54221E+12,25
+Enrique Iglesias,Logged In,Jayden,M,4,Graves,217.99138,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,534,DÃÂ­melo,200,1.54221E+12,25
+You Me At Six,Logged In,Tegan,F,5,Levine,366.41914,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Always Attract,200,1.54221E+12,80
+Kanye West,Logged In,Jayden,M,5,Graves,242.93832,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,534,We Don't Care,200,1.54221E+12,25
+Mariah Carey / Twista,Logged In,Jayden,M,6,Graves,194.7424,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,534,One And Only,200,1.54221E+12,25
+Screamin' Jay Hawkins,Logged In,Tegan,F,6,Levine,265.50812,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Heart Attack and Vine,200,1.54221E+12,80
+Justin Timberlake,Logged In,Jayden,M,7,Graves,283.84608,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,534,Like I Love You,200,1.54221E+12,25
+,Logged In,Jayden,M,8,Graves,,paid,"Marinette, WI-MI",GET,Home,1.54066E+12,534,,200,1.54221E+12,25
+Marc Et Claude,Logged In,Kevin,M,0,Arellano,220.86485,free,"Harrisburg-Carlisle, PA",PUT,NextSong,1.54001E+12,549,I Need Your Lovin' (Like The Sunshine) (Radio Edit),200,1.54221E+12,66
+Sparklehorse,Logged In,Tegan,F,7,Levine,220.3424,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Marigold,200,1.54221E+12,80
+,Logged In,Kevin,M,1,Arellano,,free,"Harrisburg-Carlisle, PA",PUT,Logout,1.54001E+12,549,,307,1.54221E+12,66
+,Logged Out,,,2,,,free,,GET,Home,,549,,200,1.54221E+12,
+,Logged Out,,,3,,,free,,GET,About,,549,,200,1.54221E+12,
+Hollywood Undead,Logged In,Jayden,M,9,Graves,185.20771,paid,"Marinette, WI-MI",PUT,NextSong,1.54066E+12,534,No. 5,200,1.54221E+12,25
+Violet Indiana,Logged In,Tegan,F,8,Levine,226.87302,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Hiding,200,1.54221E+12,80
+Coldplay,Logged In,Adler,M,0,Barrera,318.6673,free,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54084E+12,493,Politik,200,1.54221E+12,100
+Linkin Park,Logged In,Adler,M,1,Barrera,268.61669,free,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54084E+12,493,New Divide (Album Version),200,1.54221E+12,100
+,Logged In,Tegan,F,9,Levine,,paid,"Portland-South Portland, ME",GET,Home,1.54079E+12,574,,200,1.54221E+12,80
+Eliza Doolittle,Logged In,Tegan,F,10,Levine,200.30649,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Police Car,200,1.54221E+12,80
+Great Lake Swimmers,Logged In,Tegan,F,11,Levine,228.54485,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Bodies and Minds,200,1.54221E+12,80
+,Logged In,Aiden,M,0,Hess,,free,"La Crosse-Onalaska, WI-MN",GET,Home,1.54083E+12,580,,200,1.54221E+12,86
+Jackson Conti,Logged In,Tegan,F,12,Levine,158.64118,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Tijuca Man,200,1.54221E+12,80
+Parov Stelar,Logged In,Tegan,F,13,Levine,281.5473,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,KissKiss,200,1.54221E+12,80
+Skalpel,Logged In,Samuel,M,0,Gonzalez,163.49995,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54049E+12,504,Test Drive,200,1.54221E+12,61
+Tiga & Zyntherius,Logged In,Tegan,F,14,Levine,502.85669,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Sunglasses At Night,200,1.54221E+12,80
+Master P,Logged In,Samuel,M,1,Gonzalez,205.42649,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54049E+12,504,Light It Up (LP Version),200,1.54221E+12,61
+Jimmy Eat World,Logged In,Samuel,M,2,Gonzalez,385.802,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54049E+12,504,Drugs Or Me,200,1.54221E+12,61
+Justin Timberlake,Logged In,Tegan,F,15,Levine,277.9424,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,LoveStoned/I Think She Knows,200,1.54221E+12,80
+FM Static,Logged In,Tegan,F,16,Levine,170.81424,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Definitely Maybe,200,1.54221E+12,80
+,Logged In,Ava,F,0,Robinson,,free,"New Haven-Milford, CT",GET,Home,1.54093E+12,578,,200,1.54221E+12,50
+Bill Conti,Logged In,Tegan,F,17,Levine,169.97832,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,"Gonna Fly Now (Theme From ""Rocky"")",200,1.54221E+12,80
+Arctic Monkeys,Logged In,Ava,F,1,Robinson,224.83546,free,"New Haven-Milford, CT",PUT,NextSong,1.54093E+12,578,Crying Lightning,200,1.54221E+12,50
+Eagles,Logged In,Tegan,F,18,Levine,372.29669,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Hotel California,200,1.54221E+12,80
+The Postal Service,Logged In,Tegan,F,19,Levine,266.47465,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Such Great Heights,200,1.54221E+12,80
+Scott Matthews,Logged In,Tegan,F,20,Levine,299.72853,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,City Headache,200,1.54221E+12,80
+Mazzy Star,Logged In,Tegan,F,21,Levine,222.1971,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Unreflected,200,1.54221E+12,80
+Pendulum,Logged In,Tegan,F,22,Levine,312.97261,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Blood sugar,200,1.54222E+12,80
+Avril Lavigne,Logged In,Tegan,F,23,Levine,244.50567,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Complicated,200,1.54222E+12,80
+El Koala,Logged In,Tegan,F,24,Levine,213.62893,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Lola,200,1.54222E+12,80
+Musiq,Logged In,Tegan,F,25,Levine,304.69179,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Love,200,1.54222E+12,80
+Los Pericos,Logged In,Tegan,F,26,Levine,263.44444,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Nada Que Perder (Live),200,1.54222E+12,80
+Holy Fuck,Logged In,Colm,M,0,Santana,209.76281,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",PUT,NextSong,1.54086E+12,540,Milkshake,200,1.54222E+12,67
+,Logged In,Tegan,F,27,Levine,,paid,"Portland-South Portland, ME",GET,Home,1.54079E+12,574,,200,1.54222E+12,80
+Cash Cash,Logged In,Colm,M,1,Santana,212.16608,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",PUT,NextSong,1.54086E+12,540,Electric Hearts,200,1.54222E+12,67
+OutKast,Logged In,Colm,M,2,Santana,140.17261,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",PUT,NextSong,1.54086E+12,540,God,200,1.54222E+12,67
+Tab Benoit,Logged In,Colm,M,3,Santana,221.09995,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",PUT,NextSong,1.54086E+12,540,Jambalaya,200,1.54222E+12,67
+Atomic Kitten,Logged In,Tegan,F,28,Levine,197.32853,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Eternal Flame (Single Version),200,1.54222E+12,80
+August Burns Red,Logged In,Colm,M,4,Santana,252.21179,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",PUT,NextSong,1.54086E+12,540,Composure,200,1.54222E+12,67
+Nickelback,Logged In,Tegan,F,29,Levine,248.05832,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,If Today Was Your Last Day (Album Version),200,1.54222E+12,80
+Dropkick Murphys,Logged In,Tegan,F,30,Levine,205.66159,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,The Wild Rover (Album Version),200,1.54222E+12,80
+Nocturnal Rites,Logged In,Tegan,F,31,Levine,260.62322,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,The Vision,200,1.54222E+12,80
+Tony Bennett & k.d. lang,Logged In,Kynnedi,F,0,Sanchez,188.26404,free,"Cedar Rapids, IA",PUT,NextSong,1.54108E+12,334,That's My Home,200,1.54222E+12,89
+Wyclef Jean featuring Akon_ Lil Wayne_ and introducing Niia,Logged In,Tegan,F,32,Levine,239.43791,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Sweetest Girl (Dollar Bill),200,1.54222E+12,80
+ZÃÂ©lia Duncan,Logged In,Tegan,F,33,Levine,170.78812,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Catedral ( Catedral Song),200,1.54222E+12,80
+BjÃÂ¶rk,Logged In,Tegan,F,34,Levine,348.57751,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Undo,200,1.54222E+12,80
+Massive Attack,Logged In,Tegan,F,35,Levine,251.24526,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Exchange,200,1.54222E+12,80
+Miley Cyrus,Logged In,Tegan,F,36,Levine,182.9873,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Someday,200,1.54222E+12,80
+Aztec Camera,Logged In,Tegan,F,37,Levine,204.72118,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Walk Out To Winter,200,1.54222E+12,80
+Spinetta Jade,Logged In,Tegan,F,38,Levine,270.31465,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,El Hombre Dirigente,200,1.54222E+12,80
+Planet X,Logged In,Tegan,F,39,Levine,299.38893,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Snuff,200,1.54222E+12,80
+OneRepublic,Logged In,Tegan,F,40,Levine,224.67873,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Secrets,200,1.54222E+12,80
+Justin Timberlake,Logged In,Tegan,F,41,Levine,355.99628,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,LoveStoned/I Think She Knows,200,1.54222E+12,80
+The Specials,Logged In,Tegan,F,42,Levine,174.10567,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,A Message To You Rudy,200,1.54222E+12,80
+Pearl Jam,Logged In,Tegan,F,43,Levine,268.7473,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Better Man,200,1.54222E+12,80
+Big & Rich,Logged In,Tegan,F,44,Levine,212.74077,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Lost In This Moment,200,1.54222E+12,80
+Survivor,Logged In,Tegan,F,45,Levine,245.36771,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Eye Of The Tiger,200,1.54222E+12,80
+,Logged In,Theodore,M,0,Smith,,free,"Houston-The Woodlands-Sugar Land, TX",GET,Home,1.54031E+12,460,,200,1.54222E+12,52
+Sam Sparro,Logged In,Tegan,F,46,Levine,247.17016,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Sick,200,1.54222E+12,80
+Breaking Benjamin,Logged In,Tegan,F,47,Levine,216.31955,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Forget It,200,1.54222E+12,80
+Toro Y Moi,Logged In,Tegan,F,48,Levine,224.33914,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Thanks Vision,200,1.54222E+12,80
+3OH!3,Logged In,Tegan,F,49,Levine,196.28363,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,DONTTRUSTME [BENNYBLANCOREMIX] FEATURINGKIDCUDI (Explicit Bonus Version),200,1.54222E+12,80
+Polly Paulusma,Logged In,Tegan,F,50,Levine,222.9024,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Give It Back,200,1.54222E+12,80
+China Crisis,Logged In,Tegan,F,51,Levine,219.32363,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Black Man Ray,200,1.54222E+12,80
+Me'Shell Ndegeocello,Logged In,Tegan,F,52,Levine,334.86322,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Elliptical,200,1.54222E+12,80
+Laurent Voulzy,Logged In,Tegan,F,53,Levine,240.92689,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Belle-Ile-En-Mer,200,1.54222E+12,80
+JoÃÂ£o Gilberto,Logged In,Tegan,F,54,Levine,258.37669,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,574,Ave Maria No Morro,200,1.54222E+12,80
+,Logged In,Tegan,F,55,Levine,,paid,"Portland-South Portland, ME",PUT,Logout,1.54079E+12,574,,307,1.54222E+12,80
+,Logged Out,,,56,,,paid,,GET,Home,,574,,200,1.54222E+12,
+,Logged Out,,,57,,,paid,,GET,Home,,574,,200,1.54222E+12,
+,Logged Out,,,58,,,paid,,GET,About,,574,,200,1.54222E+12,
+Keith Sweat,Logged In,Jayden,M,0,Fox,312.99873,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,419,In Your Eyes (LP Version),200,1.54223E+12,101
+Phoenix,Logged In,Jayden,M,0,Fox,195.91791,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,603,Rally,200,1.54223E+12,101
+MC 900 Ft. Jesus,Logged In,Jayden,M,1,Fox,331.31057,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,603,The City Sleeps,200,1.54223E+12,101
+Gwen Stefani,Logged In,Jayden,M,2,Fox,216.76363,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,603,Danger Zone,200,1.54223E+12,101
+VHS Or Beta,Logged In,Jayden,M,3,Fox,216.94649,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,603,You Got Me,200,1.54223E+12,101
+BjÃÂ¶rk,Logged In,Jayden,M,4,Fox,348.57751,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,603,Undo,200,1.54223E+12,101
+Lily Allen,Logged In,Jayden,M,5,Fox,194.66404,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,603,Not Big,200,1.54223E+12,101
+Radiohead,Logged In,Jayden,M,6,Fox,231.91465,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,603,(Nice Dream),200,1.54223E+12,101
+Dwight Yoakam,Logged In,Jayden,M,7,Fox,239.3073,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,603,You're The One,200,1.54223E+12,101
+,Logged In,Kate,F,0,Harrell,,paid,"Lansing-East Lansing, MI",GET,Home,1.54047E+12,584,,200,1.54223E+12,97
+,Logged In,Kate,F,1,Harrell,,paid,"Lansing-East Lansing, MI",GET,Downgrade,1.54047E+12,584,,200,1.54223E+12,97
+Grandmaster Flash & The Furious Five,Logged In,Kate,F,2,Harrell,429.63546,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,584,The Message,200,1.54223E+12,97
+MichÃÂ¨le Arnaud,Logged In,Kate,F,3,Harrell,105.50812,paid,"Lansing-East Lansing, MI",PUT,NextSong,1.54047E+12,584,Chanson Sur Une Seule Note Samba De Uma Nota So,200,1.54223E+12,97
+Prodigy,Logged In,Chloe,F,0,Cuevas,335.90812,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,Breathe,200,1.54223E+12,49
+Danny Gokey,Logged In,Chloe,F,1,Cuevas,187.08853,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,My Best Days Are Ahead Of Me,200,1.54223E+12,49
+Queen,Logged In,Chloe,F,2,Cuevas,134.71302,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,Is This The World We Created? (1994 Digital Remaster),200,1.54224E+12,49
+The Fratellis,Logged In,Chloe,F,3,Cuevas,196.25751,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,Ole Black 'n' Blue Eyes,200,1.54224E+12,49
+Linkin Park,Logged In,Chloe,F,4,Cuevas,208.92689,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,What I've Done (Album Version),200,1.54224E+12,49
+Silvio Rodriguez,Logged In,Chloe,F,5,Cuevas,381.3873,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,SueÃÂ±o de Una Noche de Verano,200,1.54224E+12,49
+Avantasia,Logged In,Chloe,F,6,Cuevas,582.73914,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,The Tower,200,1.54224E+12,49
+Fleet Foxes,Logged In,Chloe,F,7,Cuevas,147.04281,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,White Winter Hymnal,200,1.54224E+12,49
+Asking Alexandria,Logged In,Chloe,F,8,Cuevas,278.83057,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,Not The American Average (feat. NO),200,1.54224E+12,49
+Kanye West,Logged In,Chloe,F,9,Cuevas,242.93832,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,We Don't Care,200,1.54224E+12,49
+Jack Johnson,Logged In,Chloe,F,10,Cuevas,264.82893,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,Monsoon,200,1.54224E+12,49
+Haddaway,Logged In,Chloe,F,11,Cuevas,223.97342,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,What Is Love,200,1.54224E+12,49
+The Black Crowes,Logged In,Chloe,F,12,Cuevas,279.7971,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,Sting Me,200,1.54224E+12,49
+Biz Markie,Logged In,Chloe,F,13,Cuevas,314.14812,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,This Is Something for the Radio,200,1.54224E+12,49
+Animal Collective,Logged In,Chloe,F,14,Cuevas,359.02649,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,Brother Sport,200,1.54224E+12,49
+Linkin Park,Logged In,Chloe,F,15,Cuevas,189.28281,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,576,Given Up (Album Version),200,1.54224E+12,49

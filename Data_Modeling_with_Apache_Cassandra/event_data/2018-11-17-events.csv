@@ -1,0 +1,147 @@
+artist,auth,firstName,gender,itemInSession,lastName,length,level,location,method,page,registration,sessionId,song,status,ts,userId
+Kenny G,Logged In,Chloe,F,53,Cuevas,256.57424,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Everlasting,200,1.54241E+12,49
+Randy Crawford,Logged In,Chloe,F,54,Cuevas,251.402,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Rio De Janeiro Blue (Album Version),200,1.54241E+12,49
+Placebo,Logged In,Chloe,F,55,Cuevas,224.02567,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Breathe Underwater,200,1.54241E+12,49
+Poison The Well,Logged In,Chloe,F,56,Cuevas,184.60689,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Riverside,200,1.54241E+12,49
+Justin Bieber,Logged In,Chloe,F,57,Cuevas,196.88444,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,U Smile,200,1.54241E+12,49
+Type O Negative,Logged In,Chloe,F,58,Cuevas,366.23628,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Can't Lose You (Album Version),200,1.54241E+12,49
+The All-American Rejects,Logged In,Chloe,F,59,Cuevas,260.15302,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Happy Endings,200,1.54241E+12,49
+Eminem,Logged In,Mohammad,M,0,Rodriguez,252.73424,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,659,Still Don't Give A Fuck,200,1.54241E+12,88
+Silversun Pickups,Logged In,Chloe,F,60,Cuevas,353.61914,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Growing Old Is Getting Old (Album Version),200,1.54241E+12,49
+Kid Rock,Logged In,Chloe,F,61,Cuevas,396.72118,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,New Orleans (Album Version),200,1.54242E+12,49
+Clifford Brown,Logged In,Chloe,F,62,Cuevas,662.83057,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Night In Tunisia,200,1.54242E+12,49
+New Found Glory,Logged In,Chloe,F,63,Cuevas,222.45832,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,My Friends Over You,200,1.54242E+12,49
+Elton John,Logged In,Chloe,F,64,Cuevas,417.01832,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Song For Guy,200,1.54242E+12,49
+Hot Chip,Logged In,Chloe,F,65,Cuevas,198.76526,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Tchaparian,200,1.54242E+12,49
+Ratatat,Logged In,Chloe,F,66,Cuevas,226.53342,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Loud Pipes,200,1.54242E+12,49
+Tech N9ne,Logged In,Chloe,F,67,Cuevas,345.5473,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Going Bad,200,1.54242E+12,49
+Judy Cheeks,Logged In,Chloe,F,68,Cuevas,333.08689,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,So In Love (The Real Deal) (Frankie Foncett Vocal Mix),200,1.54242E+12,49
+The Offspring,Logged In,Chloe,F,69,Cuevas,167.65342,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Cool To Hate (Album version),200,1.54242E+12,49
+Arctic Monkeys,Logged In,Chloe,F,70,Cuevas,177.84118,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Fake Tales Of San Francisco (Explicit),200,1.54242E+12,49
+Pinback,Logged In,Chloe,F,71,Cuevas,286.56281,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Penelope,200,1.54242E+12,49
+Edwyn Collins,Logged In,Chloe,F,72,Cuevas,235.91138,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,A Girl Like You,200,1.54242E+12,49
+Air,Logged In,Chloe,F,73,Cuevas,244.50567,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Venus,200,1.54242E+12,49
+Los Lobos,Logged In,Chloe,F,74,Cuevas,247.74485,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,648,Good Morning Aztlan,200,1.54242E+12,49
+Samael,Logged In,Sylvie,F,0,Cruz,247.09179,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,677,God's Snake,200,1.54242E+12,10
+Infected Mushroom,Logged In,Kaleb,M,0,Cook,423.6273,free,"Yuba City, CA",PUT,NextSong,1.54068E+12,616,Saeed,200,1.54243E+12,54
+Shaft,Logged In,Kaleb,M,1,Cook,207.46404,free,"Yuba City, CA",PUT,NextSong,1.54068E+12,616,(Mucho Mambo) Sway,200,1.54243E+12,54
+Coldplay,Logged In,Kaleb,M,2,Cook,307.51302,free,"Yuba City, CA",PUT,NextSong,1.54068E+12,616,Clocks,200,1.54243E+12,54
+The Kills,Logged In,Kaleb,M,3,Cook,287.97342,free,"Yuba City, CA",PUT,NextSong,1.54068E+12,616,Wait,200,1.54243E+12,54
+Cut Copy,Logged In,Kaleb,M,4,Cook,61.962,free,"Yuba City, CA",PUT,NextSong,1.54068E+12,616,We Fight For Diamonds,200,1.54243E+12,54
+Telepath,Logged In,Kaleb,M,5,Cook,304.19546,free,"Yuba City, CA",PUT,NextSong,1.54068E+12,616,Globalized,200,1.54243E+12,54
+Daddy Yankee,Logged In,Kaleb,M,6,Cook,214.77832,free,"Yuba City, CA",PUT,NextSong,1.54068E+12,616,Somos De Calle,200,1.54243E+12,54
+Ennio Morricone,Logged In,Kaleb,M,7,Cook,215.01342,free,"Yuba City, CA",PUT,NextSong,1.54068E+12,616,Chi Mai (El Profesional),200,1.54243E+12,54
+Moby,Logged In,Bronson,M,0,Harris,240.74404,free,"Eugene, OR",PUT,NextSong,1.54091E+12,516,In This World,200,1.54243E+12,33
+Plain White T's,Logged In,Kaleb,M,8,Cook,232.202,free,"Yuba City, CA",PUT,NextSong,1.54068E+12,616,Hey There Delilah,200,1.54243E+12,54
+The Hush Sound,Logged In,Jordan,F,0,Hicks,192.46975,free,"Salinas, CA",PUT,NextSong,1.54001E+12,581,A Dark Congregation (Album Version),200,1.54244E+12,37
+OneRepublic,Logged In,Jordan,F,1,Hicks,212.32281,free,"Salinas, CA",PUT,NextSong,1.54001E+12,581,Goodbye_ Apathy,200,1.54244E+12,37
+,Logged In,Jizelle,F,0,Benjamin,,free,"Plymouth, IN",GET,Home,1.53991E+12,354,,200,1.54245E+12,2
+Linkin Park,Logged In,Jizelle,F,1,Benjamin,183.97995,free,"Plymouth, IN",PUT,NextSong,1.53991E+12,354,Runaway (Album Version),200,1.54245E+12,2
+Inverse,Logged In,Jizelle,F,2,Benjamin,225.69751,free,"Plymouth, IN",PUT,NextSong,1.53991E+12,354,Spark My Soul (feat. Substantial),200,1.54245E+12,2
+The Ramones,Logged In,Jizelle,F,3,Benjamin,210.18077,free,"Plymouth, IN",PUT,NextSong,1.53991E+12,354,Pet Semetary,200,1.54245E+12,2
+iio,Logged In,Ryan,M,0,Smith,270.36689,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,670,Smooth,200,1.54246E+12,26
+,Logged In,Aiden,M,0,Hess,,free,"La Crosse-Onalaska, WI-MN",GET,Home,1.54083E+12,664,,200,1.54246E+12,86
+Britt Nicole,Logged In,Jacob,M,0,Klein,247.48363,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Say It,200,1.54246E+12,73
+K's Choice,Logged In,Jacob,M,1,Klein,206.78485,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Another Year,200,1.54246E+12,73
+Sound 5,Logged In,Jacob,M,2,Klein,451.21261,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Latin Static,200,1.54246E+12,73
+10cc,Logged In,Jacob,M,3,Klein,300.40771,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Hotel,200,1.54246E+12,73
+Underworld,Logged In,Jacob,M,4,Klein,700.81261,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Born Slippy,200,1.54246E+12,73
+Plastilina Mosh,Logged In,Jacob,M,5,Klein,222.95465,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,NiÃÂ±o Bomba,200,1.54246E+12,73
+Billy Idol,Logged In,Jacob,M,6,Klein,254.01424,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Yellin' At The Xmas Tree,200,1.54246E+12,73
+Coko featuring Kirk Franklin,Logged In,Jacob,M,7,Klein,249.3122,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,I Get Joy,200,1.54246E+12,73
+Tech N9ne,Logged In,Jacob,M,8,Klein,301.76608,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Thugged-Out,200,1.54246E+12,73
+Kudai,Logged In,Jacob,M,9,Klein,225.82812,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Ya Nada Queda,200,1.54246E+12,73
+Slightly Stoopid,Logged In,Jacob,M,10,Klein,158.71955,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Till It Gets Wet,200,1.54247E+12,73
+The Killers,Logged In,Jacob,M,11,Klein,254.85016,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Daddy's Eyes,200,1.54247E+12,73
+Final Fantasy,Logged In,Jacob,M,12,Klein,152.97261,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,None Of You Will Ever See A Penny,200,1.54247E+12,73
+Snow Patrol,Logged In,Jacob,M,13,Klein,200.93342,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Crack The Shutters,200,1.54247E+12,73
+,Logged In,Jacob,M,14,Klein,,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,Logout,1.54056E+12,518,,307,1.54247E+12,73
+,Logged Out,,,15,,,paid,,GET,Home,,518,,200,1.54247E+12,
+,Logged Out,,,16,,,paid,,PUT,Login,,518,,307,1.54247E+12,
+,Logged In,Jacob,M,17,Klein,,paid,"Tampa-St. Petersburg-Clearwater, FL",GET,Home,1.54056E+12,518,,200,1.54247E+12,73
+Jorge Drexler,Logged In,Jacob,M,18,Klein,224.57424,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Ganas De Ti (Album Version),200,1.54247E+12,73
+Emmy The Great,Logged In,Jacob,M,19,Klein,204.79955,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Mia,200,1.54247E+12,73
+Big Tymers / Gotti / TQ / Mikkey,Logged In,Jacob,M,20,Klein,222.40608,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Sunny Day,200,1.54247E+12,73
+Molotov,Logged In,Jacob,M,21,Klein,210.07628,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Frijolero,200,1.54247E+12,73
+Tub Ring,Logged In,Lily,F,0,Burns,233.69098,free,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54062E+12,646,Invalid,200,1.54247E+12,32
+Gin Blossoms,Logged In,Mohammad,M,0,Rodriguez,233.482,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,679,Day Job,200,1.54247E+12,88
+Che Sudaka,Logged In,Jacob,M,22,Klein,160.49587,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Bihotza,200,1.54247E+12,73
+Audioslave,Logged In,Lily,F,1,Burns,273.65832,free,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54062E+12,646,Yesterday To Tomorrow,200,1.54247E+12,32
+Erin Bode,Logged In,Jacob,M,23,Klein,252.05506,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Here_ There And Everywhere,200,1.54247E+12,73
+Calle 13,Logged In,Mohammad,M,1,Rodriguez,239.3073,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,679,AtrÃÂ©vete te te,200,1.54247E+12,88
+Selena Gomez & The Scene,Logged In,Lily,F,2,Burns,184.65914,free,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54062E+12,646,Falling Down,200,1.54247E+12,32
+Barry Tuckwell/Academy of St Martin-in-the-Fields/Sir Neville Marriner,Logged In,Jacob,M,24,Klein,277.15873,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Horn Concerto No. 4 in E flat K495: II. Romance (Andante cantabile),200,1.54247E+12,73
+Colbie Caillat,Logged In,Jacob,M,25,Klein,233.16853,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,I Never Told You,200,1.54247E+12,73
+The Black Crowes,Logged In,Jacob,M,26,Klein,223.65995,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Mellow Down Easy,200,1.54247E+12,73
+Aloe Blacc,Logged In,Jacob,M,27,Klein,244.1922,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,I Need A Dollar,200,1.54247E+12,73
+Datarock,Logged In,Jacob,M,28,Klein,169.50812,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,True Stories,200,1.54247E+12,73
+Benjy Ferree,Logged In,Jacob,M,29,Klein,169.89995,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Fear,200,1.54247E+12,73
+Lighter Shade of Brown,Logged In,Jacob,M,30,Klein,211.85261,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Homies,200,1.54247E+12,73
+Kinky,Logged In,Jacob,M,31,Klein,190.92853,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Soun Tha Mi Primer Amor,200,1.54247E+12,73
+Pepper,Logged In,Jacob,M,32,Klein,139.98975,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Blackout,200,1.54247E+12,73
+Lionel Richie,Logged In,Jacob,M,33,Klein,249.62567,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Hello,200,1.54247E+12,73
+Fat Freddys Drop,Logged In,Jacob,M,34,Klein,431.28118,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,The Raft,200,1.54247E+12,73
+Aqua,Logged In,Jacob,M,35,Klein,201.92608,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Doctor Jones,200,1.54247E+12,73
+Arctic Monkeys,Logged In,Jacob,M,36,Klein,193.43628,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,From The Ritz To The Rubble,200,1.54247E+12,73
+,Logged Out,,,0,,,paid,,GET,Home,,629,,200,1.54247E+12,
+,Logged Out,,,1,,,paid,,PUT,Login,,629,,307,1.54247E+12,
+,Logged In,Avery,F,2,Watkins,,paid,"San Jose-Sunnyvale-Santa Clara, CA",GET,Home,1.54087E+12,629,,200,1.54247E+12,30
+The Crests,Logged In,Avery,F,3,Watkins,182.88281,paid,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54087E+12,629,16 Candles,200,1.54247E+12,30
+Onra,Logged In,Jacob,M,37,Klein,120.94649,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,TAKE A RIDE,200,1.54247E+12,73
+Jets To Brazil,Logged In,Jacob,M,38,Klein,305.73669,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Cat Heaven,200,1.54247E+12,73
+Extreme,Logged In,Avery,F,4,Watkins,238.99383,paid,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54087E+12,629,More Than Words,200,1.54247E+12,30
+John Mayer,Logged In,Avery,F,5,Watkins,269.71383,paid,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54087E+12,629,Heartbreak Warfare,200,1.54247E+12,30
+The Knife,Logged In,Jacob,M,39,Klein,292.54485,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Silent Shout,200,1.54247E+12,73
+,Logged In,Samuel,M,0,Gonzalez,,free,"Houston-The Woodlands-Sugar Land, TX",GET,Home,1.54049E+12,654,,200,1.54247E+12,61
+Nelson Ned,Logged In,Avery,F,6,Watkins,187.24526,paid,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54087E+12,629,Eu Gosto Tanto De Voce,200,1.54247E+12,30
+The Mars Volta,Logged In,Jacob,M,40,Klein,472.39791,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,With Twilight as My Guide,200,1.54247E+12,73
+Cyan Velvet Project,Logged In,Avery,F,7,Watkins,205.16526,paid,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54087E+12,629,Dead Skin (edit),200,1.54247E+12,30
+Tub Ring,Logged In,Avery,F,8,Watkins,233.69098,paid,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54087E+12,629,Invalid,200,1.54247E+12,30
+Thee Silver Mountain Reveries,Logged In,Jacob,M,41,Klein,587.38893,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Microphones in the Trees,200,1.54247E+12,73
+Red Hot Chili Peppers,Logged In,Avery,F,9,Watkins,334.65424,paid,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54087E+12,629,Snow [Hey Oh] (Album Version),200,1.54247E+12,30
+,Logged In,Avery,F,10,Watkins,,paid,"San Jose-Sunnyvale-Santa Clara, CA",GET,About,1.54087E+12,629,,200,1.54247E+12,30
+,Logged In,Avery,F,11,Watkins,,paid,"San Jose-Sunnyvale-Santa Clara, CA",GET,About,1.54087E+12,629,,200,1.54247E+12,30
+Metallica,Logged In,Jacob,M,42,Klein,515.21261,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Master Of Puppets,200,1.54247E+12,73
+Bikini Kill,Logged In,Jacob,M,43,Klein,149.81179,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Reject All American,200,1.54247E+12,73
+The Black Keys,Logged In,Jacob,M,44,Klein,204.59057,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Every Lasting Light,200,1.54247E+12,73
+Jake Hess,Logged In,Jacob,M,45,Klein,199.26159,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,You And Me Jesus,200,1.54247E+12,73
+B.o.B,Logged In,Jacob,M,46,Klein,269.63546,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Nothin' On You [feat. Bruno Mars] (Album Version),200,1.54247E+12,73
+Collective Soul,Logged In,Jacob,M,47,Klein,155.29751,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Reunion (LP Version),200,1.54247E+12,73
+Three Drives,Logged In,Jacob,M,48,Klein,411.6371,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Greece 2000,200,1.54247E+12,73
+Vanity Fare,Logged In,Jacob,M,49,Klein,152.86812,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Early In The Morning,200,1.54247E+12,73
+Drake / Kanye West / Lil Wayne / Eminem,Logged In,Jacob,M,50,Klein,357.66812,paid,"Tampa-St. Petersburg-Clearwater, FL",PUT,NextSong,1.54056E+12,518,Forever,200,1.54247E+12,73
+,Logged In,Stefany,F,0,White,,free,"Lubbock, TX",GET,Home,1.54071E+12,649,,200,1.54248E+12,83
+Aleks Syntek,Logged In,Stefany,F,1,White,300.14649,free,"Lubbock, TX",PUT,NextSong,1.54071E+12,649,Tu Necesitas (2008 Digital Remaster),200,1.54248E+12,83
+The Grapes Of Wrath,Logged In,Stefany,F,2,White,138.05669,free,"Lubbock, TX",PUT,NextSong,1.54071E+12,649,All The Things I Wasn't,200,1.54248E+12,83
+Rilo Kiley,Logged In,Stefany,F,3,White,215.64036,free,"Lubbock, TX",PUT,NextSong,1.54071E+12,649,Silver Lining (Album Version),200,1.54248E+12,83
+Lonnie Gordon,Logged In,Stefany,F,4,White,181.21098,free,"Lubbock, TX",PUT,NextSong,1.54071E+12,649,Catch You Baby (Steve Pitron & Max Sanna Radio Edit),200,1.54248E+12,83
+Matt Costa,Logged In,Ava,F,0,Robinson,246.02077,free,"New Haven-Milford, CT",PUT,NextSong,1.54093E+12,669,Unfamiliar Faces,200,1.54249E+12,50
+,Logged In,Ava,F,1,Robinson,,free,"New Haven-Milford, CT",PUT,Logout,1.54093E+12,669,,307,1.54249E+12,50
+,Logged Out,,,2,,,free,,GET,Home,,669,,200,1.54249E+12,
+,Logged Out,,,3,,,free,,PUT,Login,,669,,307,1.54249E+12,
+,Logged In,Ava,F,4,Robinson,,free,"New Haven-Milford, CT",GET,Home,1.54093E+12,669,,200,1.54249E+12,50
+Capital Inicial,Logged In,Jaleah,F,0,Hayes,228.67546,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,FÃÂ¡tima,200,1.54249E+12,70
+,Logged In,Jaleah,F,1,Hayes,,paid,"San Antonio-New Braunfels, TX",GET,Help,1.541E+12,113,,200,1.54249E+12,70
+A Day To Remember,Logged In,Jaleah,F,2,Hayes,243.22567,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,If It Means A Lot To You,200,1.54249E+12,70
+Jack Johnson,Logged In,Jaleah,F,3,Hayes,236.93016,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,Bubble Toes,200,1.5425E+12,70
+Gorillaz,Logged In,Jaleah,F,4,Hayes,246.17751,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,DARE,200,1.5425E+12,70
+Jason Mraz,Logged In,Jaleah,F,5,Hayes,220.18567,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,You And I Both (LP Version),200,1.5425E+12,70
+Ligabue,Logged In,Jaleah,F,6,Hayes,246.20363,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,I duri hanno due cuori,200,1.5425E+12,70
+Steve Miller Band,Logged In,Jaleah,F,7,Hayes,306.23302,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,Abracadabra,200,1.5425E+12,70
+38 Special,Logged In,Jaleah,F,8,Hayes,280.76363,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,Caught Up In You,200,1.5425E+12,70
+Wonderwall,Logged In,Jaleah,F,9,Hayes,281.02485,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,Just More (Album Version),200,1.5425E+12,70
+Pepper,Logged In,Jaleah,F,10,Hayes,166.32118,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,Slave,200,1.5425E+12,70
+Buckcherry,Logged In,Jaleah,F,11,Hayes,208.66567,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,Next 2 You (Album Version),200,1.5425E+12,70
+Travie McCoy,Logged In,Jaleah,F,12,Hayes,211.12118,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,Billionaire [feat. Bruno Mars]  (Explicit Album Version),200,1.5425E+12,70
+OneRepublic,Logged In,Jaleah,F,13,Hayes,224.67873,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,Secrets,200,1.5425E+12,70
+Hawk Nelson,Logged In,Chloe,F,0,Cuevas,174.81098,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,680,California,200,1.5425E+12,49
+Pearl Jam,Logged In,Jaleah,F,14,Hayes,258.48118,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,Faithful,200,1.5425E+12,70
+JOSEF LOCKE & ORCHESTRA,Logged In,Chloe,F,1,Cuevas,166.26893,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,680,How Can You Buy Killarney (1992 Digital Remaster),200,1.5425E+12,49
+Project 86,Logged In,Chloe,F,2,Cuevas,777.58649,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,680,Twenty Three (LP Version),200,1.5425E+12,49
+Daft Punk,Logged In,Jaleah,F,15,Hayes,536.13669,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,Revolution 909 (Roger Sanchez Remix),200,1.5425E+12,70
+,Logged In,Chloe,F,3,Cuevas,,paid,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54094E+12,680,,200,1.5425E+12,49
+38 Special,Logged In,Jaleah,F,16,Hayes,280.76363,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,Caught Up In You,200,1.5425E+12,70
+Creedence Clearwater Revival,Logged In,Chloe,F,4,Cuevas,186.51383,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,680,Proud Mary,200,1.5425E+12,49
+Ill Nino,Logged In,Jaleah,F,17,Hayes,175.22893,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,My Resurrection (Album Version),200,1.5425E+12,70
+The Police,Logged In,Chloe,F,5,Cuevas,289.85424,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,680,So Lonely,200,1.5425E+12,49
+Bitter:Sweet,Logged In,Jaleah,F,18,Hayes,160.78322,paid,"San Antonio-New Braunfels, TX",PUT,NextSong,1.541E+12,113,Take 2 Blue,200,1.5425E+12,70

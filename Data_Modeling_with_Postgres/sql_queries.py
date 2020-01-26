@@ -59,28 +59,21 @@ time_table_create = ("""CREATE TABLE IF NOT EXISTS  time(
 songplay_table_insert = ("""INSERT INTO songplays VALUES (DEFAULT, %s, %s, %s, %s, %s, %s, %s, %s )
 """)
 
+
+# Updating the user level on conflict
 user_table_insert = ("""INSERT INTO users (user_id, first_name, last_name, gender, level) VALUES (%s, %s, %s, %s, %s) 
                         ON CONFLICT (user_id) DO UPDATE SET 
-                        user_id = EXCLUDED.user_id, 
-                        first_name = EXCLUDED.first_name,
-                        last_name = EXCLUDED.last_name,
-                        gender = EXCLUDED.gender,
                         level = EXCLUDED.level 
 """)
 
 song_table_insert = ("""INSERT INTO songs (song_id, title, artist_id, year, duration) VALUES (%s, %s, %s, %s, %s) 
-                        ON CONFLICT (song_id) DO UPDATE SET
-                        song_id = EXCLUDED.song_id,
-                        title = EXCLUDED.title,
-                        artist_id = EXCLUDED.artist_id,
-                        year = EXCLUDED.year,
-                        duration = EXCLUDED.duration
+                        ON CONFLICT (song_id) DO NOTHING                        
 """)
 
+
+# Artist location, latitude and longitude might change and need to be updated.
 artist_table_insert = ("""INSERT INTO artists (artist_id, name, location, latitude, longitude) VALUES (%s, %s, %s, %s, %s) 
                           ON CONFLICT (artist_id) DO UPDATE SET
-                          artist_id = EXCLUDED.artist_id,
-                          name = EXCLUDED.name,
                           location = EXCLUDED.location,
                           latitude = EXCLUDED.latitude,
                           longitude = EXCLUDED.longitude
@@ -103,3 +96,4 @@ song_select = ("""
 
 create_table_queries = [user_table_create, artist_table_create, song_table_create, time_table_create, songplay_table_create]
 drop_table_queries = [songplay_table_drop, user_table_drop, song_table_drop, artist_table_drop, time_table_drop]
+

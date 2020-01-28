@@ -5,6 +5,7 @@ import json
 import logging
 import logging.config
 from pathlib import Path
+import argparse
 
 # Setting up logger, Logger properties are defined in logging.ini file
 logging.config.fileConfig(f"{Path(__file__).parents[0]}/logging.ini")
@@ -48,6 +49,7 @@ def create_IAM_role(iam_client):
                     Description=role_description,
                     AssumeRolePolicyDocument = role_policy_document
         )
+        logger.info(f"Role create response code : {create_response['ResponseMetadata']['HTTPStatusCode']}")
     except Exception as e:
         logger.error(f"Error occured while creating role : {e}")
         return False
@@ -59,6 +61,7 @@ def create_IAM_role(iam_client):
             RoleName=role_name,
             PolicyArn=role_policy_arn
         )
+        logger.info(f"Attach policy response code : {policy_response['ResponseMetadata']['HTTPStatusCode']}")
     except Exception as e:
         logger.error(f"Error occured while applying policy : {e}")
         return False
@@ -77,7 +80,9 @@ def delete_IAM_role(iam_client):
 
     try:
         detach_response = iam_client.detach_role_policy(RoleName=config.get('IAM_ROLE', 'NAME'), PolicyArn=config.get('IAM_ROLE','POLICY_ARN'))
+        logger.info(f"Detach policy response code : {detach_response['ResponseMetadata']['HTTPStatusCode']}")
         delete_response = iam_client.delete_role(RoleName=config.get('IAM_ROLE', 'NAME'))
+        logger.info(f"Delete role response code : {delete_response['ResponseMetadata']['HTTPStatusCode']}")
     except Exception as e:
         logger.error(f"Exception occured while deleting role : {e}")
 
@@ -85,7 +90,7 @@ def delete_IAM_role(iam_client):
 
 
 
-def create_cluster(redshift_client, iam_role_arn):
+def create_cluster(redshift_client, iam_role_arn, vpc_security_group_id):
 
     # Cluster Hardware config
     cluster_type = config.get('DWH','DWH_CLUSTER_TYPE')
@@ -102,34 +107,73 @@ def create_cluster(redshift_client, iam_role_arn):
     # Cluster adding IAM role
     iam_role = None
 
+    # Security settings
+    security_group = config.get('SECURITY_GROUP', 'NAME')
+
     # Documentation - https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/redshift.html?highlight=create_cluster#Redshift.Client.create_cluster
-    response = redshift_client.create_cluster(
-        DBName=db_name,
-        ClusterIdentifier=cluster_identifier,
-        ClusterType=cluster_type,
-        NodeType=node_type,
-        MasterUsername=master_username,
-        MasterUserPassword=master_user_password,
+    try:
+        response = redshift_client.create_cluster(
+            DBName=db_name,
+            ClusterIdentifier=cluster_identifier,
+            ClusterType=cluster_type,
+            NodeType=node_type,
+            NumberOfNodes=num_nodes,
+            MasterUsername=master_username,
+            MasterUserPassword=master_user_password,
+            VpcSecurityGroupIds=vpc_security_group_id
+        )
+        logger.info(f"Response for creating cluster : {response}")
+    except Exception as e:
+        logger.error(f"Exception occured while creating cluster : {e}")
 
 
-    )
+def delete_cluster(redshift_client):
 
+    try:
+        response = \
+            redshift_client.delete_cluster(ClusterIdentifier=config.get('DWH','DWH_CLUSTER_IDENTIFIER'), SkipFinalClusterSnapshot=True)
+        logger.info(f"Cluster deleted response code : {response['ResponseMetadata']['HTTPStatusCode']}")
+    except Exception as e:
+        logger.info(f"Exception occured while deleting cluster : {e}")
+
+    return response['ResponseMetadata']['HTTPStatusCode']
+
+def get_group(ec2_client, group_name):
+    groups = \
+    ec2_client.describe_security_groups(Filters=[{'Name': 'group-name', 'Values': [group_name]}])[
+        'SecurityGroups']
+    return None if(len(groups) == 0) else groups[0]
 
 
 def create_ec2_security_group(ec2_client):
 
+    if(get_group(ec2_client, config.get('SECURITY_GROUP','NAME')) is not None):
+        logger.info("Group already exists!!")
+        return True
 
     # Fetch VPC ID
     vpc_id = ec2_client.describe_security_groups()['SecurityGroups'][0]['VpcId']
 
-    response = ec2.create_security_group(
+    response = ec2_client.create_security_group(
         Description=config.get('SECURITY_GROUP','DESCRIPTION'),
         GroupName=config.get('SECURITY_GROUP','NAME'),
         VpcId=vpc_id,
         DryRun=False # Checks whether you have the required permissions for the action, without actually making the request, and provides an error response
     )
-
     logger.info(f"Group created!! Response code {response['ResponseMetadata']['HTTPStatusCode']}")
+
+
+    logger.info("Authorizing security group ingress")
+    ec2_client.authorize_security_group_ingress(
+                GroupId=response['GroupId'],
+                GroupName=config.get('SECURITY_GROUP','NAME'),
+                FromPort=int(config.get('INBOUND_RULE','PORT_RANGE')),
+                ToPort=int(config.get('INBOUND_RULE', 'PORT_RANGE')),
+                CidrIp=config.get('INBOUND_RULE','CIDRIP'),
+                IpProtocol=config.get('INBOUND_RULE','PROTOCOL'),
+                DryRun=False
+    )
+
     return (response['ResponseMetadata']['HTTPStatusCode'] == 200)
 
 
@@ -141,21 +185,22 @@ def delete_ec2_security_group(ec2_client):
     """
 
     group_name = config.get('SECURITY_GROUP','NAME')
-    groups = ec2.describe_security_groups(Filters=[{ 'Name' : 'group-name', 'Values' : [config.get('SECURITY_GROUP','NAME')] }])['SecurityGroups']
+    group = get_group(ec2_client, group_name)
 
-    if(len(groups) == 0):
+    if(group is None):
         logger.info("Group does not exist")
         return True
 
-    group_id = groups[0]['GroupId']
     response = ec2_client.delete_security_group(
-        GroupId=group_id,
+        GroupId=group['GroupId'],
         GroupName=group_name,
         DryRun=False
     )
 
     logger.info(f"Delete response {response['ResponseMetadata']['HTTPStatusCode']}")
     return (response['ResponseMetadata']['HTTPStatusCode'] == 200)
+
+
 
 if __name__ == "__main__":
 
@@ -171,16 +216,20 @@ if __name__ == "__main__":
 
     redshift = boto3.client(service_name = 'redshift', region_name = 'us-east-1', aws_access_key_id=config.get('AWS', 'Key'), aws_secret_access_key=config.get('AWS', 'SECRET'))
 
-    '''
+
+    # Setting up IAM Role, security group and cluster
     if(create_IAM_role(iam)):
-        logger.info("Role created and policy applied !!")
+        if(create_ec2_security_group(ec2)):
+            role_arn = iam.get_role(RoleName = config.get('IAM_ROLE', 'NAME'))['Role']['Arn']
+            vpc_security_group_id = get_group(ec2, config.get('SECURITY_GROUP', 'NAME'))['GroupId']
+            create_cluster(redshift, role_arn, [vpc_security_group_id])
+        else:
+            logger.info("Failed to create security group")
+    else:
+        logger.info("Failed to create IAM role")
 
-    role_arn = iam.get_role(RoleName = config.get('IAM_ROLE', 'NAME'))['Role']['Arn']
 
-    if(delete_IAM_role(iam)):
-        logger.info("Deleted IAM role !!")
-    '''
-
-    create_ec2_security_group(ec2)
+    # cleanup
+    delete_cluster(redshift)
     delete_ec2_security_group(ec2)
-
+    delete_IAM_role(iam)

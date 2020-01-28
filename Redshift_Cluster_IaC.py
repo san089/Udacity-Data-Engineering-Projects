@@ -27,6 +27,8 @@ def create_IAM_role(iam_client):
     role_description = config.get('IAM_ROLE', 'DESCRIPTION')
     role_policy_arn = config.get('IAM_ROLE','POLICY_ARN')
 
+    logging.info(f"Creating IAM role with name : {role_name}, description : {role_description} and policy : {role_arn}")
+
     # Creating Role.
     # Policy Documentation reference - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-iam-role.html#aws-resource-iam-role--examples
     role_policy_document = json.dumps(
@@ -49,7 +51,8 @@ def create_IAM_role(iam_client):
                     Description=role_description,
                     AssumeRolePolicyDocument = role_policy_document
         )
-        logger.info(f"Role create response code : {create_response['ResponseMetadata']['HTTPStatusCode']}")
+        logger.info(f"Got response from IAM client for creating role : {create_response}")
+        logger.debug(f"Role create response code : {create_response['ResponseMetadata']['HTTPStatusCode']}")
     except Exception as e:
         logger.error(f"Error occured while creating role : {e}")
         return False
@@ -61,7 +64,8 @@ def create_IAM_role(iam_client):
             RoleName=role_name,
             PolicyArn=role_policy_arn
         )
-        logger.info(f"Attach policy response code : {policy_response['ResponseMetadata']['HTTPStatusCode']}")
+        logger.info(f"Got response from IAM client for applying policy to role : {policy_response}")
+        logger.debug(f"Attach policy response code : {policy_response['ResponseMetadata']['HTTPStatusCode']}")
     except Exception as e:
         logger.error(f"Error occured while applying policy : {e}")
         return False
@@ -78,11 +82,15 @@ def delete_IAM_role(iam_client):
     :return: True if role deleted successfully.
     """
 
+    role_name = config.get('IAM_ROLE', 'NAME')
+    logger.info(f"Processing deleting IAM role : {role_name}")
     try:
-        detach_response = iam_client.detach_role_policy(RoleName=config.get('IAM_ROLE', 'NAME'), PolicyArn=config.get('IAM_ROLE','POLICY_ARN'))
-        logger.info(f"Detach policy response code : {detach_response['ResponseMetadata']['HTTPStatusCode']}")
-        delete_response = iam_client.delete_role(RoleName=config.get('IAM_ROLE', 'NAME'))
-        logger.info(f"Delete role response code : {delete_response['ResponseMetadata']['HTTPStatusCode']}")
+        detach_response = iam_client.detach_role_policy(RoleName=role_name, PolicyArn=config.get('IAM_ROLE','POLICY_ARN'))
+        logger.info(f"Response for policy detach from IAM role : {detach_response}")
+        logger.debug(f"Detach policy response code : {detach_response['ResponseMetadata']['HTTPStatusCode']}")
+        delete_response = iam_client.delete_role(RoleName=role_name)
+        logger.info(f"Response for deleting IAM role : {delete_response}")
+        logger.debug(f"Delete role response code : {delete_response['ResponseMetadata']['HTTPStatusCode']}")
     except Exception as e:
         logger.error(f"Exception occured while deleting role : {e}")
 
@@ -120,7 +128,8 @@ def create_cluster(redshift_client, iam_role_arn, vpc_security_group_id):
             NumberOfNodes=num_nodes,
             MasterUsername=master_username,
             MasterUserPassword=master_user_password,
-            VpcSecurityGroupIds=vpc_security_group_id
+            VpcSecurityGroupIds=vpc_security_group_id,
+            IamRoles = [iam_role_arn]
         )
         logger.info(f"Response for creating cluster : {response}")
     except Exception as e:
@@ -204,8 +213,19 @@ def delete_ec2_security_group(ec2_client):
 
 if __name__ == "__main__":
 
-    # print(boto3._get_default_session().get_available_services() ) # Getting aws services list
+    # Parsing arguments
+    parser = argparse.ArgumentParser(description="A Redshift cluster IaC (Infrastructure as Code). It creates IAM role for the Redshift, creates security group and sets up ingress parameters."
+                                                 " Finally spin-up a redshift cluster.")
+    parser.add_argument("-c", "--cleanup", type=bool, metavar='', required=True, help="cleanup the roles, securitygroup and cluster.")
+    parser.add_argument("-v", "--verbosity", type=bool, required=False, default=False, help="increase output verbosity")
+    args = parser.parse_args()
 
+    if(args.verbosity):
+        logger.setLevel(logging.INFO)
+    else:
+        logging.setLoggerClass(logging.DEBUG)
+
+    # print(boto3._get_default_session().get_available_services() ) # Getting aws services list
     # Creating low-level service clients
 
     ec2 = boto3.client(service_name = 'ec2', region_name = 'us-east-1', aws_access_key_id=config.get('AWS', 'Key'), aws_secret_access_key=config.get('AWS', 'SECRET'))
@@ -216,6 +236,7 @@ if __name__ == "__main__":
 
     redshift = boto3.client(service_name = 'redshift', region_name = 'us-east-1', aws_access_key_id=config.get('AWS', 'Key'), aws_secret_access_key=config.get('AWS', 'SECRET'))
 
+    logger.info("Clients setup for all services.")
 
     # Setting up IAM Role, security group and cluster
     if(create_IAM_role(iam)):
@@ -224,12 +245,13 @@ if __name__ == "__main__":
             vpc_security_group_id = get_group(ec2, config.get('SECURITY_GROUP', 'NAME'))['GroupId']
             create_cluster(redshift, role_arn, [vpc_security_group_id])
         else:
-            logger.info("Failed to create security group")
+            logger.error("Failed to create security group")
     else:
-        logger.info("Failed to create IAM role")
+        logger.error("Failed to create IAM role")
 
 
     # cleanup
-    delete_cluster(redshift)
-    delete_ec2_security_group(ec2)
-    delete_IAM_role(iam)
+    if(args.cleanup):
+        delete_cluster(redshift)
+        delete_ec2_security_group(ec2)
+        delete_IAM_role(iam)

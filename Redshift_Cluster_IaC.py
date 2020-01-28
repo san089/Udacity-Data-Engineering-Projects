@@ -84,6 +84,79 @@ def delete_IAM_role(iam_client):
     return True if( (detach_response['ResponseMetadata']['HTTPStatusCode'] == 200) and  (delete_response['ResponseMetadata']['HTTPStatusCode'] == 200) ) else False
 
 
+
+def create_cluster(redshift_client, iam_role_arn):
+
+    # Cluster Hardware config
+    cluster_type = config.get('DWH','DWH_CLUSTER_TYPE')
+    node_type =  config.get('DWH', 'DWH_NODE_TYPE')
+    num_nodes = int(config.get('DWH', 'DWH_NUM_NODES'))
+
+    # Cluster identifiers and credentials
+    cluster_identifier = config.get('DWH','DWH_CLUSTER_IDENTIFIER')
+    db_name = config.get('DWH', 'DWH_DB')
+    database_port=int(config.get('DWH','DWH_PORT'))
+    master_username = config.get('DWH', 'DWH_DB_USER')
+    master_user_password = config.get('DWH', 'DWH_DB_PASSWORD')
+
+    # Cluster adding IAM role
+    iam_role = None
+
+    # Documentation - https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/redshift.html?highlight=create_cluster#Redshift.Client.create_cluster
+    response = redshift_client.create_cluster(
+        DBName=db_name,
+        ClusterIdentifier=cluster_identifier,
+        ClusterType=cluster_type,
+        NodeType=node_type,
+        MasterUsername=master_username,
+        MasterUserPassword=master_user_password,
+
+
+    )
+
+
+
+def create_ec2_security_group(ec2_client):
+
+
+    # Fetch VPC ID
+    vpc_id = ec2_client.describe_security_groups()['SecurityGroups'][0]['VpcId']
+
+    response = ec2.create_security_group(
+        Description=config.get('SECURITY_GROUP','DESCRIPTION'),
+        GroupName=config.get('SECURITY_GROUP','NAME'),
+        VpcId=vpc_id,
+        DryRun=False # Checks whether you have the required permissions for the action, without actually making the request, and provides an error response
+    )
+
+    logger.info(f"Group created!! Response code {response['ResponseMetadata']['HTTPStatusCode']}")
+    return (response['ResponseMetadata']['HTTPStatusCode'] == 200)
+
+
+def delete_ec2_security_group(ec2_client):
+    """
+    Delete a security group
+    :param ec2_client: ec2 client instance
+    :return: True if security group deleted successfully
+    """
+
+    group_name = config.get('SECURITY_GROUP','NAME')
+    groups = ec2.describe_security_groups(Filters=[{ 'Name' : 'group-name', 'Values' : [config.get('SECURITY_GROUP','NAME')] }])['SecurityGroups']
+
+    if(len(groups) == 0):
+        logger.info("Group does not exist")
+        return True
+
+    group_id = groups[0]['GroupId']
+    response = ec2_client.delete_security_group(
+        GroupId=group_id,
+        GroupName=group_name,
+        DryRun=False
+    )
+
+    logger.info(f"Delete response {response['ResponseMetadata']['HTTPStatusCode']}")
+    return (response['ResponseMetadata']['HTTPStatusCode'] == 200)
+
 if __name__ == "__main__":
 
     # print(boto3._get_default_session().get_available_services() ) # Getting aws services list
@@ -98,9 +171,16 @@ if __name__ == "__main__":
 
     redshift = boto3.client(service_name = 'redshift', region_name = 'us-east-1', aws_access_key_id=config.get('AWS', 'Key'), aws_secret_access_key=config.get('AWS', 'SECRET'))
 
+    '''
     if(create_IAM_role(iam)):
         logger.info("Role created and policy applied !!")
 
+    role_arn = iam.get_role(RoleName = config.get('IAM_ROLE', 'NAME'))['Role']['Arn']
+
     if(delete_IAM_role(iam)):
         logger.info("Deleted IAM role !!")
+    '''
+
+    create_ec2_security_group(ec2)
+    delete_ec2_security_group(ec2)
 

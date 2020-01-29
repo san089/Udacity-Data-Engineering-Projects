@@ -315,7 +315,7 @@ if __name__ == "__main__":
         logger.info("Skipping Creation.")
 
     # cleanup
-    if(args.cleanup):
+    if(args.delete):
         delete_cluster(redshift)
         delete_ec2_security_group(ec2)
         delete_IAM_role(iam)

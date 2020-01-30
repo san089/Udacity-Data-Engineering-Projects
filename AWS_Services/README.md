@@ -18,3 +18,7 @@
     ]' \ 
     --scale-down-behavior TERMINATE_AT_TASK_COMPLETION \ 
     --region us-east-1
+
+
+# AWS s3 CLI Cheat Sheet
+![s3 cli cheat sheet](https://github.com/san089/Data_Engineering_Projects/blob/master/AWS_Services/aws-s3-cheat-sheet.png)

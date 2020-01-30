@@ -55,7 +55,7 @@ def process_log_data(spark, input_data, output_data):
     users_table = df.select("userId","firstName","lastName","gender","level")
 
     # write users table to parquet files
-    users_table.write.parquet(os.path.join(output_data, "artists/") , mode="overwrite")
+    users_table.write.parquet(os.path.join(output_data, "users/") , mode="overwrite")
 
     # create timestamp column from original timestamp column
     get_timestamp = udf(lambda x : datetime.utcfromtimestamp(int(x)/1000), TimestampType())

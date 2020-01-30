@@ -22,6 +22,15 @@ def create_spark_session():
 
 
 def process_song_data(spark, input_data, output_data):
+    """
+    Description:
+        Process the songs data files and create extract songs table and artist table data from it.
+
+    :param spark: a spark session instance
+    :param input_data: input file path
+    :param output_data: output file path
+    """
+
     # get filepath to song data file
     song_data = input_data + "song_data/*/*/*/*"
 
@@ -42,6 +51,15 @@ def process_song_data(spark, input_data, output_data):
 
 
 def process_log_data(spark, input_data, output_data):
+    """
+    Description:
+            Process the event log file and extract data for table time, users and songplays from it.
+
+    :param spark: a spark session instance
+    :param input_data: input file path
+    :param output_data: output file path
+    """
+
     # get filepath to log data file
     log_data = os.path.join(input_data, "log-data/")
 

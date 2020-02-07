@@ -61,4 +61,8 @@ To see the Airflow webserver, open any browser and type in the
     <EC2-public-dns-name>:<your-port-number>
 
 
-REFERENCES: [Build-a-concurrent-data-orchestration-pipeline-using-amazon-emr-and-apache-livy](https://aws.amazon.com/blogs/big-data/build-a-concurrent-data-orchestration-pipeline-using-amazon-emr-and-apache-livy/)
+REFERENCES: 
+
+[Build-a-concurrent-data-orchestration-pipeline-using-amazon-emr-and-apache-livy](https://aws.amazon.com/blogs/big-data/build-a-concurrent-data-orchestration-pipeline-using-amazon-emr-and-apache-livy/)
+
+[Airflow Installation Steps](https://limitlessdatascience.wordpress.com/2019/10/01/apache-airflow-installation-steps/)

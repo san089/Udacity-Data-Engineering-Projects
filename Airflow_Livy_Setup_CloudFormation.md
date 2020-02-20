@@ -1,4 +1,4 @@
-# # Data Orchestration Pipeline Using Amazon EMR and Apache Livy
+## Data Orchestration Pipeline Using Amazon EMR and Apache Livy
 ## Setting up Airflow using AWS CloudFormation script
 
 ![Airflow_Livy_Architecture](https://github.com/san089/Data_Engineering_Projects/blob/master/airflow_livy.png)

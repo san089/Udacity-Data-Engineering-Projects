@@ -21,6 +21,7 @@ Link : [Data_Modeling_with_Apache_Cassandra](https://github.com/san089/Udacity-D
 In this project, we apply the Data Warehouse architectures we learnt and build a Data Warehouse on AWS cloud. We build an ETL pipeline to extract and transform data stored in json format in s3 buckets and move the data to Warehouse hosted on Amazon Redshift. 
 
 Use Redshift IaC script - [Redshift_IaC_README](https://github.com/san089/Udacity-Data-Engineering-Projects/blob/master/Redshift_IaC_README.md)
+
 Link  - [Data_Warehouse](https://github.com/san089/Udacity-Data-Engineering-Projects/tree/master/Data_Warehouse)
 
 ## Project 4: Data Lake
@@ -30,9 +31,11 @@ Link: [Data_Lake](https://github.com/san089/Udacity-Data-Engineering-Projects/tr
 
 ## Project 5: Data Pipelines with Airflow
 In this project, we will orchestrate our Data Pipeline workflow using an open-source Apache project called Apache Airflow. We will schedule our ETL jobs in Airflow, create project related custom plugins and operators and automate the pipeline execution. 
+
 Link:  [Airflow_Data_Pipelines](https://github.com/san089/Udacity-Data-Engineering-Projects/tree/master/Airflow_Data_Pipelines)
 
 ## CAPSTONE PROJECT
 Udacity provides their own crafted Capstone project with dataset that include data on immigration to the United States, and supplementary datasets that include data on airport codes, U.S. city demographics, and temperature data.
   
-I worked on my own open-ended project. Here is the link - [goodreads_etl_pipeline](https://github.com/san089/goodreads_etl_pipeline)
+I worked on my own open-ended project. <br />
+Here is the link - [goodreads_etl_pipeline](https://github.com/san089/goodreads_etl_pipeline)

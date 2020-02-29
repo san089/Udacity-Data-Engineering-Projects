@@ -13,7 +13,7 @@ def process_song_file(cur, filepath):
     """
 
     # open song file
-    df = pd.DataFrame([pd.read_json(filepath, typ='series')])
+    df = pd.DataFrame([pd.read_json(filepath, typ='series', convert_dates=False)])
 
     for value in df.values:
         num_songs, artist_id, artist_latitude, artist_longitude, artist_location, artist_name, song_id, title, duration, year = value
@@ -39,7 +39,7 @@ def process_log_file(cur, filepath):
     df = df = pd.read_json(filepath, lines=True)
 
     # filter by NextSong action
-    df = df[df['page'] == "NextSong"].astype({'ts' : 'datetime64[ns]'})
+    df = df[df['page'] == "NextSong"].astype({'ts': 'datetime64[ms]'})
 
     # convert timestamp column to datetime
     t = pd.Series(df['ts'], index=df.index)

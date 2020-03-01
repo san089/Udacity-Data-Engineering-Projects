@@ -1,0 +1,5 @@
+# Python env
+venv
+# Pycharm
+.idea
+.DS_Store

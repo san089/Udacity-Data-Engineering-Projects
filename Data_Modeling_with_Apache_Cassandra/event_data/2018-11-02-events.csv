@@ -1,0 +1,172 @@
+artist,auth,firstName,gender,itemInSession,lastName,length,level,location,method,page,registration,sessionId,song,status,ts,userId
+N.E.R.D. FEATURING MALICE,Logged In,Jayden,M,0,Fox,288.9922,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,184,Am I High (Feat. Malice),200,1.54112E+12,101
+,Logged In,Stefany,F,0,White,,free,"Lubbock, TX",GET,Home,1.54071E+12,82,,200,1.54112E+12,83
+Death Cab for Cutie,Logged In,Stefany,F,1,White,216.42404,free,"Lubbock, TX",PUT,NextSong,1.54071E+12,82,A Lack Of Color (Album Version),200,1.54112E+12,83
+Tracy Gang Pussy,Logged In,Stefany,F,2,White,221.33506,free,"Lubbock, TX",PUT,NextSong,1.54071E+12,82,I Have A Wish,200,1.54112E+12,83
+Skillet,Logged In,Kevin,M,0,Arellano,178.02404,free,"Harrisburg-Carlisle, PA",PUT,NextSong,1.54001E+12,153,Monster (Album Version),200,1.54113E+12,66
+Dance Gavin Dance,Logged In,Marina,F,0,Sutton,218.46159,free,"Salinas, CA",PUT,NextSong,1.54106E+12,47,Uneasy Hearts Weigh The Most,200,1.54113E+12,48
+,Logged In,Aiden,M,0,Hess,,free,"La Crosse-Onalaska, WI-MN",GET,Home,1.54083E+12,170,,200,1.54113E+12,86
+Dalto,Logged In,Aiden,M,1,Hess,190.40608,free,"La Crosse-Onalaska, WI-MN",PUT,NextSong,1.54083E+12,170,Falta Te Dizer,200,1.54113E+12,86
+Kanye West,Logged In,Makinley,F,0,Jones,278.88281,free,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54109E+12,118,Family Business,200,1.54114E+12,17
+Jason Mraz & Colbie Caillat,Logged In,Kevin,M,0,Arellano,189.6224,free,"Harrisburg-Carlisle, PA",PUT,NextSong,1.54001E+12,187,Lucky (Album Version),200,1.54114E+12,66
+Liz Callaway,Logged In,Lily,F,0,Koch,175.43791,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Journey To The Past  (LP Version),200,1.54115E+12,15
+The Decemberists,Logged In,Lily,F,1,Koch,242.59873,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Everything I Try to Do_ Nothing Seems to Turn Out Right,200,1.54115E+12,15
+,Logged In,Kynnedi,F,0,Sanchez,,free,"Cedar Rapids, IA",GET,Home,1.54108E+12,88,,200,1.54115E+12,89
+Christina Aguilera,Logged In,Lily,F,2,Koch,254.48444,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Impossible,200,1.54115E+12,15
+OneRepublic,Logged In,Lily,F,3,Koch,224.67873,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Secrets,200,1.54115E+12,15
+Cat Stevens,Logged In,Kynnedi,F,1,Sanchez,200.202,free,"Cedar Rapids, IA",PUT,NextSong,1.54108E+12,88,Wild World,200,1.54115E+12,89
+Brett Dennen,Logged In,Lily,F,4,Koch,179.66975,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,World Keeps Turning,200,1.54115E+12,15
+Godsmack,Logged In,Lily,F,5,Koch,208.24771,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Greed,200,1.54115E+12,15
+Anis,Logged In,Lily,F,6,Koch,246.59546,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Swing Javanaise,200,1.54115E+12,15
+Tiziano Ferro,Logged In,Lily,F,7,Koch,251.42812,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Ed Ero Contentissimo,200,1.54115E+12,15
+Kylie Auldist,Logged In,Lily,F,8,Koch,265.92608,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Ship Inside A Bottle,200,1.54115E+12,15
+Benga,Logged In,Lily,F,9,Koch,286.17098,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,The Cut,200,1.54115E+12,15
+T. Rex,Logged In,Lily,F,10,Koch,132.85832,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Ride A White Swan,200,1.54115E+12,15
+Mexican Institute of Sound,Logged In,Lily,F,11,Koch,278.04689,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Mirando a Las Muchachas,200,1.54115E+12,15
+Velour 100,Logged In,Lily,F,12,Koch,202.29179,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Clouds (Of Color Bright Album Version),200,1.54115E+12,15
+Maria de Barros,Logged In,Lily,F,13,Koch,276.29669,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Riberonzinha,200,1.54115E+12,15
+Toby Keith,Logged In,Lily,F,14,Koch,177.162,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Big Blue Note,200,1.54115E+12,15
+Marques Houston,Logged In,Lily,F,15,Koch,264.98567,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Naked,200,1.54115E+12,15
+Commit Suicide,Logged In,Lily,F,16,Koch,105.482,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,In All This Revelation,200,1.54115E+12,15
+Smile Empty Soul,Logged In,Lily,F,17,Koch,218.61832,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Bottom of a Bottle (Explicit Album Version),200,1.54115E+12,15
+Amy Winehouse,Logged In,Lily,F,18,Koch,221.1522,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Wake Up Alone,200,1.54115E+12,15
+Eyehategod,Logged In,Lily,F,19,Koch,155.66322,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Sisterfucker (part Ii),200,1.54115E+12,15
+Sunidhi Chauhan / Anu Malik / Jatin Sharma,Logged In,Lily,F,20,Koch,319.32036,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Dekh Le,200,1.54115E+12,15
+Blondie,Logged In,Lily,F,21,Koch,127.73832,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Little Girl Lies (2001 Digital Remaster),200,1.54115E+12,15
+,Logged In,Lily,F,22,Koch,,paid,"Chicago-Naperville-Elgin, IL-IN-WI",GET,Home,1.54105E+12,172,,200,1.54115E+12,15
+She & Him,Logged In,Lily,F,23,Koch,167.83628,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Got Me,200,1.54115E+12,15
+The Black Keys,Logged In,Lily,F,24,Koch,294.76526,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,The Lengths,200,1.54115E+12,15
+Survivor,Logged In,Lily,F,25,Koch,245.36771,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Eye Of The Tiger,200,1.54115E+12,15
+Conya Doss,Logged In,Lily,F,26,Koch,317.98812,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,I Miss You,200,1.54115E+12,15
+,Logged In,Lily,F,27,Koch,,paid,"Chicago-Naperville-Elgin, IL-IN-WI",GET,Downgrade,1.54105E+12,172,,200,1.54115E+12,15
+Disney Studio Chorus,Logged In,Lily,F,28,Koch,234.84036,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Little April Shower,200,1.54116E+12,15
+Dirty Projectors,Logged In,Lily,F,29,Koch,319.63383,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Stillness Is The Move,200,1.54116E+12,15
+Boom Bip,Logged In,Lily,F,30,Koch,330.16118,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,From Left To Right,200,1.54116E+12,15
+Avantasia,Logged In,Lily,F,31,Koch,368.97914,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Shelter From The Rain,200,1.54116E+12,15
+Amon Amarth,Logged In,Lily,F,32,Koch,312.29342,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,North Sea Storm (Live),200,1.54116E+12,15
+Young Money featuring Lloyd,Logged In,Lily,F,33,Koch,196.33587,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,BedRock (Radio Edit) (feat.Lloyd),200,1.54116E+12,15
+Breakbeat Era,Logged In,Lily,F,34,Koch,326.32118,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Anti-Everything,200,1.54116E+12,15
+Local Natives,Logged In,Lily,F,35,Koch,237.92281,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Airplanes,200,1.54116E+12,15
+Gabriella Cilmi,Logged In,Lily,F,36,Koch,207.38567,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Awkward Game,200,1.54116E+12,15
+,Logged In,Tegan,F,0,Levine,,free,"Portland-South Portland, ME",GET,Home,1.54079E+12,165,,200,1.54116E+12,80
+Minus The Bear,Logged In,Tegan,F,1,Levine,219.76771,free,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,165,Knights,200,1.54116E+12,80
+Calle 13 Featuring CafÃÂ© Tacuba,Logged In,Lily,F,37,Koch,293.32853,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,No Hay Nadie Como TÃÂº,200,1.54116E+12,15
+Frumpies,Logged In,Aleena,F,0,Kirby,134.47791,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,Fuck Kitty,200,1.54116E+12,44
+D-12,Logged In,Aleena,F,1,Kirby,261.40689,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,Barbershop,200,1.54116E+12,44
+Emil Gilels/Orchestre de la SociÃÂ©tÃÂ© des Concerts du Conservatoire/AndrÃÂ© Cluytens,Logged In,Tegan,F,2,Levine,375.19628,free,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,165,Piano Concerto No. 2 in G minor Op. 22 (2006 Digital Remaster): III.  Presto,200,1.54116E+12,80
+Dragonette,Logged In,Lily,F,38,Koch,246.49098,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Fixin to Thrill,200,1.54116E+12,15
+Pennywise,Logged In,Mohammad,M,0,Rodriguez,188.26404,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,87,The Western World,200,1.54116E+12,88
+Kanye West,Logged In,Aleena,F,2,Kirby,238.52363,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,Flashing Lights,200,1.54116E+12,44
+Flash And The Pan,Logged In,Lily,F,39,Koch,224.65261,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Waiting for a Train [Single Mix],200,1.54116E+12,15
+Washed Out,Logged In,Tegan,F,3,Levine,168.6722,free,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,165,New Theory,200,1.54116E+12,80
+Katy Perry,Logged In,Aleena,F,3,Kirby,179.40853,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,I Kissed A Girl,200,1.54116E+12,44
+AFI,Logged In,Lily,F,40,Koch,198.97424,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Miss Murder,200,1.54116E+12,15
+Drake / Kanye West / Lil Wayne / Eminem,Logged In,Aleena,F,4,Kirby,357.66812,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,Forever,200,1.54116E+12,44
+The Crests,Logged In,Lily,F,41,Koch,182.88281,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,16 Candles,200,1.54116E+12,15
+Nirvana,Logged In,Lily,F,42,Koch,219.08853,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Come As You Are,200,1.54116E+12,15
+Knights Of The Abyss,Logged In,Aleena,F,5,Kirby,205.66159,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,Dragon Pie,200,1.54116E+12,44
+Binary Star,Logged In,Lily,F,43,Koch,300.19873,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Honest Expression,200,1.54116E+12,15
+Nada Surf,Logged In,Aleena,F,6,Kirby,181.08036,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,Whose Authority,200,1.54116E+12,44
+Blank & Jones,Logged In,Aleena,F,7,Kirby,310.15138,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,Beyond Time (Ambient Mix),200,1.54116E+12,44
+Carnifex,Logged In,Lily,F,44,Koch,219.89832,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,By Darkness Enslaved,200,1.54116E+12,15
+Bono / Secret Machines,Logged In,Lily,F,45,Koch,285.43955,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,I Am The Walrus,200,1.54116E+12,15
+Broadcast 2000,Logged In,Aleena,F,8,Kirby,198.84363,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,The View,200,1.54116E+12,44
+Pixies,Logged In,Aleena,F,9,Kirby,229.3024,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,Where Is My Mind?,200,1.54116E+12,44
+Kings Of Leon,Logged In,Lily,F,46,Koch,242.99057,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Holy Roller Novocaine,200,1.54116E+12,15
+Arctic Monkeys,Logged In,Aleena,F,10,Kirby,221.85751,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,You Know I'm No Good,200,1.54116E+12,44
+Alliance Ethnik,Logged In,Lily,F,47,Koch,252.21179,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,ReprÃÂ©sente,200,1.54116E+12,15
+Apocalyptica,Logged In,Chloe,F,0,Cuevas,409.86077,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,179,Coma,200,1.54116E+12,49
+Big Tymers,Logged In,Aleena,F,11,Kirby,256.15628,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,Lil Mama,200,1.54116E+12,44
+Pat Green,Logged In,Lily,F,48,Koch,295.33995,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Whiskey,200,1.54116E+12,15
+Daughtry,Logged In,Aleena,F,12,Kirby,249.91302,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,No Surprise,200,1.54116E+12,44
+Air,Logged In,Chloe,F,1,Cuevas,212.21832,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,179,Playground Love,200,1.54116E+12,49
+Sam Cooke,Logged In,Lily,F,49,Koch,122.04363,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Ain't Misbehavin,200,1.54116E+12,15
+Live,Logged In,Aleena,F,13,Kirby,203.28444,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,Deep Enough,200,1.54116E+12,44
+Everclear,Logged In,Lily,F,50,Koch,222.61506,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Summerland,200,1.54116E+12,15
+Alison Krauss / Union Station,Logged In,Aleena,F,14,Kirby,129.67138,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,Down To The River To Pray,200,1.54116E+12,44
+The All-American Rejects,Logged In,Lily,F,51,Koch,239.22893,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Move Along,200,1.54116E+12,15
+Covenant,Logged In,Aleena,F,15,Kirby,300.19873,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,157,XRDS,200,1.54116E+12,44
+You Me At Six,Logged In,Aiden,M,0,Hess,191.13751,free,"La Crosse-Onalaska, WI-MN",PUT,NextSong,1.54083E+12,189,Liquid Confidence,200,1.54116E+12,86
+Motion City Soundtrack,Logged In,Lily,F,52,Koch,206.34077,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Everything Is Alright (Album Version),200,1.54116E+12,15
+FM Static,Logged In,Lily,F,53,Koch,169.84771,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Something To Believe In,200,1.54116E+12,15
+Dave Gahan,Logged In,Lily,F,54,Koch,272.92689,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Kingdom,200,1.54116E+12,15
+Metallica,Logged In,Lily,F,55,Koch,319.73832,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Mama Said,200,1.54116E+12,15
+Dr. Hook,Logged In,Lily,F,56,Koch,229.77261,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Sylvia's Mother,200,1.54116E+12,15
+Gotan Project,Logged In,Lily,F,57,Koch,321.30567,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Diferente,200,1.54116E+12,15
+Carrie Underwood,Logged In,Lily,F,58,Koch,221.3873,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Play On,200,1.54116E+12,15
+Ut,Logged In,Lily,F,59,Koch,313.86077,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,I.D.,200,1.54116E+12,15
+Lil Wayne / Eminem,Logged In,Lily,F,60,Koch,229.58975,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Drop The World,200,1.54116E+12,15
+Damage,Logged In,Lily,F,61,Koch,263.18322,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,For Your Pleasure,200,1.54116E+12,15
+Rionegro / SolimÃÂµes,Logged In,Lily,F,62,Koch,280.92036,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,De SÃÂ£o Paulo ÃÂ BelÃÂ©m,200,1.54116E+12,15
+Drive-By Truckers,Logged In,Lily,F,63,Koch,246.22975,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Outfit,200,1.54116E+12,15
+Tweet,Logged In,Lily,F,64,Koch,256.39138,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Smoking Cigarettes (LP Version),200,1.54116E+12,15
+Ben Folds Five,Logged In,Lily,F,65,Koch,207.882,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Steven's Last Night In Town,200,1.54116E+12,15
+Glen Hansard,Logged In,Lily,F,66,Koch,239.59465,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Lies,200,1.54116E+12,15
+Chevelle,Logged In,Adler,M,0,Barrera,389.85098,free,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54084E+12,174,Dos (LP Version),200,1.54116E+12,100
+Bill Withers,Logged In,Lily,F,67,Koch,383.73832,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Make Love To Your Mind,200,1.54116E+12,15
+Jorge Drexler,Logged In,Adler,M,1,Barrera,272.14322,free,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54084E+12,174,Salvapantallas,200,1.54117E+12,100
+Michael Bolton,Logged In,Lily,F,68,Koch,255.65995,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,How Am I Supposed To Live Without You,200,1.54117E+12,15
+The Mercury Program,Logged In,Adler,M,2,Barrera,449.12281,free,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54084E+12,174,Marianas,200,1.54117E+12,100
+Duran Duran,Logged In,Lily,F,69,Koch,321.88036,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,The Seventh Stranger,200,1.54117E+12,15
+Little Boots,Logged In,Lily,F,70,Koch,195.94404,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Meddle,200,1.54117E+12,15
+Johnossi,Logged In,Lily,F,71,Koch,174.2624,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Glory Days To Come,200,1.54117E+12,15
+BjÃÂ¶rk,Logged In,Lily,F,72,Koch,348.57751,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Undo,200,1.54117E+12,15
+Black Eyed Peas,Logged In,Lily,F,73,Koch,226.37669,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Hey Mama,200,1.54117E+12,15
+DecembeRadio,Logged In,Lily,F,74,Koch,249.62567,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,Find You Waiting,200,1.54117E+12,15
+Bonobo,Logged In,Lily,F,75,Koch,270.41914,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,172,1009,200,1.54117E+12,15
+,Logged In,Tegan,F,0,Levine,,free,"Portland-South Portland, ME",GET,Home,1.54079E+12,194,,200,1.54117E+12,80
+Five Iron Frenzy,Logged In,Tegan,F,1,Levine,236.09424,free,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,194,Canada,200,1.54117E+12,80
+Morcheeba,Logged In,Tegan,F,2,Levine,347.71546,free,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,194,The Sea,200,1.54117E+12,80
+The Avett Brothers,Logged In,Tegan,F,3,Levine,307.9571,free,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,194,All My Mistakes (US4BW0700133),200,1.54117E+12,80
+Dave Darell,Logged In,Aiden,M,0,Hess,217.33832,free,"La Crosse-Onalaska, WI-MN",PUT,NextSong,1.54083E+12,197,Children,200,1.54117E+12,86
+,Logged In,Ryan,M,0,Smith,,free,"San Jose-Sunnyvale-Santa Clara, CA",GET,Home,1.54102E+12,183,,200,1.54117E+12,26
+Priestess,Logged In,Ryan,M,1,Smith,190.45832,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,183,Talk To Her,200,1.54117E+12,26
+Arcade Fire,Logged In,Ryan,M,2,Smith,169.19465,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,183,I'm Sleeping In A Submarine,200,1.54117E+12,26
+Daft Punk,Logged In,Ryan,M,3,Smith,211.69587,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,183,Crescendolls,200,1.54117E+12,26
+Nickel Creek,Logged In,Ryan,M,4,Smith,255.13751,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,183,When In Rome,200,1.54117E+12,26
+Squeeze,Logged In,Ryan,M,5,Smith,229.56363,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,183,Footprints,200,1.54117E+12,26
+Creedence Clearwater Revival,Logged In,Samuel,M,0,Gonzalez,175.80363,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54049E+12,60,Sweet Hitch-Hiker,200,1.54117E+12,61
+Kierra Sheard,Logged In,Samuel,M,1,Gonzalez,299.02322,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54049E+12,60,Love Like Crazy (Extended Mix),200,1.54117E+12,61
+,Logged In,Aiden,M,0,Hess,,free,"La Crosse-Onalaska, WI-MN",GET,Home,1.54083E+12,201,,200,1.54117E+12,86
+,Logged In,Aiden,M,1,Hess,,free,"La Crosse-Onalaska, WI-MN",GET,Settings,1.54083E+12,201,,200,1.54117E+12,86
+,Logged In,Aiden,M,2,Hess,,free,"La Crosse-Onalaska, WI-MN",PUT,Save Settings,1.54083E+12,201,,307,1.54117E+12,86
+,Logged In,Aiden,M,3,Hess,,free,"La Crosse-Onalaska, WI-MN",GET,Home,1.54083E+12,201,,200,1.54117E+12,86
+,Logged In,Mohammad,M,0,Rodriguez,,free,"Sacramento--Roseville--Arden-Arcade, CA",GET,Home,1.54051E+12,193,,200,1.54117E+12,88
+Greg Laswell,Logged In,Mohammad,M,1,Rodriguez,251.08853,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,193,Comes And Goes ( In Waves ),200,1.54117E+12,88
+,Logged In,Mohammad,M,2,Rodriguez,,free,"Sacramento--Roseville--Arden-Arcade, CA",GET,Home,1.54051E+12,193,,200,1.54117E+12,88
+Pavement,Logged In,Mohammad,M,3,Rodriguez,99.16036,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,193,Mercy:The Laundromat,200,1.54118E+12,88
+Sixx A.M.,Logged In,Mohammad,M,4,Rodriguez,280.58077,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,193,Courtesy Call (Explicit),200,1.54118E+12,88
+Leonard Cohen,Logged In,Mohammad,M,5,Rodriguez,267.67628,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,193,I'm Your Man,200,1.54118E+12,88
+The Tallest Man On Earth,Logged In,Joseph,M,0,Gutierrez,203.62404,free,"Columbia, SC",PUT,NextSong,1.54081E+12,167,The Wild Hunt,200,1.54118E+12,75
+My Chemical Romance,Logged In,Joseph,M,1,Gutierrez,161.90649,free,"Columbia, SC",PUT,NextSong,1.54081E+12,167,Teenagers (Album Version),200,1.54118E+12,75
+Wendy Rene,Logged In,Joseph,M,2,Gutierrez,182.46485,free,"Columbia, SC",PUT,NextSong,1.54081E+12,167,After Laughter (Comes Tears) (LP Version),200,1.54118E+12,75
+Jack Johnson / Paula Fuga,Logged In,Joseph,M,3,Gutierrez,178.33751,free,"Columbia, SC",PUT,NextSong,1.54081E+12,167,Country Road,200,1.54118E+12,75
+Tub Ring,Logged In,Joseph,M,4,Gutierrez,233.69098,free,"Columbia, SC",PUT,NextSong,1.54081E+12,167,Invalid,200,1.54118E+12,75
+No Doubt,Logged In,Mohammad,M,0,Rodriguez,44.93016,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,205,BND,200,1.54118E+12,88
+Katy Perry,Logged In,Mohammad,M,1,Rodriguez,179.40853,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,205,I Kissed A Girl,200,1.54118E+12,88
+Neutral Milk Hotel,Logged In,Joseph,M,5,Gutierrez,248.37179,free,"Columbia, SC",PUT,NextSong,1.54081E+12,167,Ghost,200,1.54118E+12,75
+Dwight Yoakam,Logged In,Ava,F,0,Robinson,239.3073,free,"New Haven-Milford, CT",PUT,NextSong,1.54093E+12,156,You're The One,200,1.54118E+12,50
+Ella Fitzgerald,Logged In,Joseph,M,6,Gutierrez,427.15383,free,"Columbia, SC",PUT,NextSong,1.54081E+12,167,On Green Dolphin Street (Medley) (1999 Digital Remaster),200,1.54118E+12,75
+Tony Rohr,Logged In,Ava,F,1,Robinson,403.09506,free,"New Haven-Milford, CT",PUT,NextSong,1.54093E+12,156,Van Comp,200,1.54118E+12,50
+Braid,Logged In,Joseph,M,7,Gutierrez,222.74567,free,"Columbia, SC",PUT,NextSong,1.54081E+12,167,Divers,200,1.54118E+12,75
+Fourmost,Logged In,Joseph,M,8,Gutierrez,113.6322,free,"Columbia, SC",PUT,NextSong,1.54081E+12,167,Hello Little Girl,200,1.54118E+12,75
+Catupecu Machu,Logged In,Joseph,M,9,Gutierrez,212.32281,free,"Columbia, SC",PUT,NextSong,1.54081E+12,167,Hormigas,200,1.54118E+12,75
+Creed,Logged In,Joseph,M,10,Gutierrez,329.87383,free,"Columbia, SC",PUT,NextSong,1.54081E+12,167,Weathered,200,1.54118E+12,75
+Ennio Morricone,Logged In,Joseph,M,11,Gutierrez,215.01342,free,"Columbia, SC",PUT,NextSong,1.54081E+12,167,Chi Mai (El Profesional),200,1.54118E+12,75
+,Logged In,Joseph,M,12,Gutierrez,,free,"Columbia, SC",GET,Upgrade,1.54081E+12,167,,200,1.54118E+12,75
+Down To The Bone,Logged In,Sylvie,F,0,Cruz,333.76608,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,182,Keep On Keepin' On,200,1.54118E+12,10
+Three Drives,Logged In,Sylvie,F,1,Cruz,411.6371,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,182,Greece 2000,200,1.54118E+12,10
+,Logged In,Austin,M,0,Rosales,,free,"New York-Newark-Jersey City, NY-NJ-PA",GET,Home,1.54106E+12,11,,200,1.54118E+12,12
+Sebastien Tellier,Logged In,Sylvie,F,2,Cruz,377.73016,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,182,Kilometer,200,1.54118E+12,10
+Lonnie Gordon,Logged In,Sylvie,F,3,Cruz,181.21098,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,182,Catch You Baby (Steve Pitron & Max Sanna Radio Edit),200,1.54118E+12,10
+Charttraxx Karaoke,Logged In,Ava,F,0,Robinson,225.17506,free,"New Haven-Milford, CT",PUT,NextSong,1.54093E+12,207,Fireflies,200,1.54118E+12,50
+Ska-P,Logged In,Ava,F,1,Robinson,220.21179,free,"New Haven-Milford, CT",PUT,NextSong,1.54093E+12,207,NiÃÂ±o Soldado,200,1.54118E+12,50
+Dwight Yoakam,Logged In,Ava,F,2,Robinson,239.3073,free,"New Haven-Milford, CT",PUT,NextSong,1.54093E+12,207,You're The One,200,1.54118E+12,50
+Radiohead,Logged In,Ayleen,F,0,Wise,130.82077,free,"Columbia, SC",PUT,NextSong,1.54109E+12,70,Pop Is Dead,200,1.54118E+12,71
+Scouting for Girls,Logged In,Ayleen,F,1,Wise,201.1424,free,"Columbia, SC",PUT,NextSong,1.54109E+12,70,The Mountains Of Navaho,200,1.54118E+12,71
+Alliance Ethnik,Logged In,Ayleen,F,2,Wise,195.94404,free,"Columbia, SC",PUT,NextSong,1.54109E+12,70,SinceritÃÂ© Et Jalousie,200,1.54118E+12,71
+OutKast,Logged In,Ayleen,F,3,Wise,227.52608,free,"Columbia, SC",PUT,NextSong,1.54109E+12,70,Ova Da Wudz,200,1.54118E+12,71
+Bloodhound Gang,Logged In,Kaleb,M,0,Cook,260.20526,free,"Yuba City, CA",PUT,NextSong,1.54068E+12,53,Uhn Tiss Uhn Tiss Uhn Tiss,200,1.54119E+12,54
+Rammstein,Logged In,Isaac,M,0,Valdez,228.46649,free,"Saginaw, MI",PUT,NextSong,1.54108E+12,112,Adios,200,1.54119E+12,3
+Gershon Kingsley,Logged In,Isaac,M,1,Valdez,146.57261,free,"Saginaw, MI",PUT,NextSong,1.54108E+12,112,Pop Corn,200,1.54119E+12,3
+The Rakes,Logged In,Isaac,M,2,Valdez,150.59546,free,"Saginaw, MI",PUT,NextSong,1.54108E+12,112,Strasbourg,200,1.54119E+12,3

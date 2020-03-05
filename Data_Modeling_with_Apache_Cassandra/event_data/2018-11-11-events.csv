@@ -1,0 +1,96 @@
+artist,auth,firstName,gender,itemInSession,lastName,length,level,location,method,page,registration,sessionId,song,status,ts,userId
+Frumpies,Logged In,Anabelle,F,0,Simpson,134.47791,free,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PUT,NextSong,1.54104E+12,455,Hello Kitty,200,1.5419E+12,69
+Kenny G with Peabo Bryson,Logged In,Anabelle,F,1,Simpson,264.75057,free,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PUT,NextSong,1.54104E+12,455,By The Time This Night Is Over,200,1.5419E+12,69
+Biffy Clyro,Logged In,Anabelle,F,2,Simpson,189.83138,free,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PUT,NextSong,1.54104E+12,455,God & Satan,200,1.5419E+12,69
+,Logged In,Lily,F,0,Burns,,free,"New York-Newark-Jersey City, NY-NJ-PA",GET,Home,1.54062E+12,456,,200,1.54191E+12,32
+HIM,Logged In,Lily,F,1,Burns,212.06159,free,"New York-Newark-Jersey City, NY-NJ-PA",PUT,NextSong,1.54062E+12,456,Beautiful,200,1.54191E+12,32
+Matmos,Logged In,Joseph,M,0,Gutierrez,1449.11628,free,"Columbia, SC",PUT,NextSong,1.54081E+12,284,Supreme Balloon,200,1.54191E+12,75
+Gary Allan,Logged In,Ryann,F,0,Smith,259.83955,free,"Palestine, TX",PUT,NextSong,1.54069E+12,328,The One,200,1.54193E+12,92
+Miracle Fortress,Logged In,Ryann,F,1,Smith,200.9073,free,"Palestine, TX",PUT,NextSong,1.54069E+12,328,Five Roses,200,1.54193E+12,92
+Don Omar,Logged In,Ryann,F,2,Smith,261.35465,free,"Palestine, TX",PUT,NextSong,1.54069E+12,328,Cuentale,200,1.54193E+12,92
+Jay-Z,Logged In,Ryann,F,3,Smith,212.27057,free,"Palestine, TX",PUT,NextSong,1.54069E+12,328,D'Evils,200,1.54193E+12,92
+Red Hot Chili Peppers,Logged In,Ryann,F,4,Smith,231.33995,free,"Palestine, TX",PUT,NextSong,1.54069E+12,328,Easily (Album Version),200,1.54193E+12,92
+,Logged In,Chloe,F,0,Cuevas,,free,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54094E+12,437,,200,1.54193E+12,49
+Flogging Molly,Logged In,Chloe,F,1,Cuevas,361.9522,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,437,Rebels of the Sacred Heart,200,1.54193E+12,49
+Reverend Horton Heat,Logged In,Chloe,F,2,Cuevas,158.64118,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,437,Now_ Right Now,200,1.54193E+12,49
+Sea Wolf,Logged In,Chloe,F,3,Cuevas,232.61995,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,437,I Made A Resolution,200,1.54193E+12,49
+Jason Mraz & Colbie Caillat,Logged In,Chloe,F,4,Cuevas,189.6224,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,437,Lucky (Album Version),200,1.54193E+12,49
+Jamie Lidell,Logged In,Chloe,F,5,Cuevas,175.25506,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,437,Enoughs Enough,200,1.54193E+12,49
+Feist,Logged In,Chloe,F,6,Cuevas,212.79302,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,437,Mushaboom (Postal Service Mix),200,1.54193E+12,49
+,Logged In,Chloe,F,7,Cuevas,,free,"San Francisco-Oakland-Hayward, CA",PUT,Logout,1.54094E+12,437,,307,1.54193E+12,49
+,Logged Out,,,8,,,free,,GET,Home,,437,,200,1.54193E+12,
+,Logged Out,,,9,,,free,,GET,Home,,437,,200,1.54193E+12,
+,Logged Out,,,10,,,free,,PUT,Login,,437,,307,1.54193E+12,
+,Logged In,Chloe,F,11,Cuevas,,free,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54094E+12,437,,200,1.54193E+12,49
+Sex Slaves,Logged In,Chloe,F,12,Cuevas,175.51628,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,437,We're Going Out Tonight,200,1.54193E+12,49
+,Logged In,Chloe,F,0,Cuevas,,free,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54094E+12,469,,200,1.54194E+12,49
+Rise Against,Logged In,Chloe,F,1,Cuevas,169.482,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,469,To Them These Streets Belong,200,1.54194E+12,49
+,Logged In,Mohammad,M,0,Rodriguez,,free,"Sacramento--Roseville--Arden-Arcade, CA",GET,Home,1.54051E+12,441,,200,1.54194E+12,88
+BeyoncÃÂ©,Logged In,Mohammad,M,1,Rodriguez,359.54893,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,441,Get Me Bodied,200,1.54194E+12,88
+Nate Dogg,Logged In,Mohammad,M,2,Rodriguez,356.38812,free,"Sacramento--Roseville--Arden-Arcade, CA",PUT,NextSong,1.54051E+12,441,Never Leave Me Alone,200,1.54194E+12,88
+,Logged In,Cierra,F,0,Finley,,free,"Richmond, VA",GET,Home,1.54101E+12,443,,200,1.54195E+12,96
+Taylor Swift,Logged In,Cierra,F,1,Finley,233.89995,free,"Richmond, VA",PUT,NextSong,1.54101E+12,443,Love Story,200,1.54195E+12,96
+Lynyrd Skynyrd,Logged In,Ryan,M,0,Smith,216.60689,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,452,Sweet home Alabama,200,1.54195E+12,26
+Kelis,Logged In,Cierra,F,2,Finley,293.58975,free,"Richmond, VA",PUT,NextSong,1.54101E+12,443,Caught Out There (Explicit),200,1.54195E+12,96
+The Kills,Logged In,Cierra,F,3,Finley,203.38893,free,"Richmond, VA",PUT,NextSong,1.54101E+12,443,Last Day Of Magic,200,1.54195E+12,96
+,Logged In,Aleena,F,0,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Home,1.54102E+12,448,,200,1.54195E+12,44
+Collie Buddz featuring Paul Wall,Logged In,Aleena,F,1,Kirby,271.62077,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,448,What A Feeling,200,1.54195E+12,44
+Charttraxx Karaoke,Logged In,Cierra,F,4,Finley,225.17506,free,"Richmond, VA",PUT,NextSong,1.54101E+12,443,Fireflies,200,1.54195E+12,96
+Band Of Horses,Logged In,Aleena,F,2,Kirby,321.14893,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,448,The Funeral (Album Version),200,1.54195E+12,44
+Coldplay,Logged In,Aleena,F,3,Kirby,307.51302,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,448,Clocks,200,1.54195E+12,44
+Bon Jovi,Logged In,Aleena,F,4,Kirby,228.75383,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,448,Have A Nice Day,200,1.54195E+12,44
+P.O.D.,Logged In,Aleena,F,5,Kirby,203.7024,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,448,Alive (2006 Remastered Album Version),200,1.54195E+12,44
+Bloc Party,Logged In,Aleena,F,6,Kirby,222.04036,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,448,Plans (Replanned by Mogwai),200,1.54195E+12,44
+Los Prisioneros,Logged In,Aleena,F,7,Kirby,211.12118,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,448,Pa Pa Pa,200,1.54195E+12,44
+Octopus Project,Logged In,Aleena,F,8,Kirby,175.25506,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,448,Lots More Stairs,200,1.54195E+12,44
+Roudoudou,Logged In,Aleena,F,9,Kirby,18.41587,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,448,Ecoute Ce Scratch,200,1.54195E+12,44
+Africando,Logged In,Aleena,F,10,Kirby,253.54404,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,448,Tierra Tradicional,200,1.54195E+12,44
+RUN-DMC Featuring Method Man_ Kenny Cash_ Mike Ransom_ and Jamel Simmons,Logged In,Aleena,F,11,Kirby,266.52689,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,448,Simmons Incorporated,200,1.54195E+12,44
+,Logged In,Colm,M,0,Santana,,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",GET,Home,1.54086E+12,414,,200,1.54195E+12,67
+Graham Coxon,Logged In,Colm,M,1,Santana,197.14567,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",PUT,NextSong,1.54086E+12,414,I'm Goin' Away,200,1.54195E+12,67
+Queens Of The Stone Age,Logged In,Aleena,F,12,Kirby,231.02649,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,448,In The Fade,200,1.54195E+12,44
+Dance Gavin Dance,Logged In,Colm,M,2,Santana,193.30567,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",PUT,NextSong,1.54086E+12,414,Strawberry AndrÃÂ© (Album Version),200,1.54195E+12,67
+,Logged In,Colm,M,3,Santana,,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",GET,Home,1.54086E+12,414,,200,1.54195E+12,67
+Passion Pit,Logged In,Aleena,F,13,Kirby,243.69587,paid,"Waterloo-Cedar Falls, IA",PUT,NextSong,1.54102E+12,448,Eyes As Candles,200,1.54195E+12,44
+,Logged In,Aleena,F,14,Kirby,,paid,"Waterloo-Cedar Falls, IA",GET,Home,1.54102E+12,448,,200,1.54195E+12,44
+Black Eyed Peas,Logged In,Colm,M,4,Santana,229.61587,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",PUT,NextSong,1.54086E+12,414,Let's Get It Started,200,1.54195E+12,67
+Plastic Bertrand,Logged In,Colm,M,5,Santana,180.00934,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",PUT,NextSong,1.54086E+12,414,Ca plane pour moi,200,1.54195E+12,67
+Cream,Logged In,Colm,M,6,Santana,166.5824,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",PUT,NextSong,1.54086E+12,414,Strange Brew,200,1.54195E+12,67
+Coldplay,Logged In,Colm,M,7,Santana,284.39465,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",PUT,NextSong,1.54086E+12,414,A Message,200,1.54195E+12,67
+Cute Is What We Aim For,Logged In,Colm,M,8,Santana,172.22485,free,"Nashville-Davidson--Murfreesboro--Franklin, TN",PUT,NextSong,1.54086E+12,414,Sweat the Battle Before the Battle Sweats You (Album Version),200,1.54195E+12,67
+Metallica,Logged In,Connar,M,0,Moreno,256.9922,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54082E+12,218,Of Wolf And Man,200,1.54195E+12,62
+The Kills,Logged In,Connar,M,1,Moreno,217.70404,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54082E+12,218,Tape Song,200,1.54195E+12,62
+Foo Fighters,Logged In,Connar,M,2,Moreno,271.38567,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54082E+12,218,The Pretender,200,1.54195E+12,62
+Plaid,Logged In,Connar,M,3,Moreno,260.96281,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54082E+12,218,Eyen [Chosen by fans on Warp20.net],200,1.54195E+12,62
+,Logged In,Brayden,M,0,Clark,,free,"New York-Newark-Jersey City, NY-NJ-PA",GET,Home,1.54103E+12,120,,200,1.54195E+12,41
+,Logged In,Theodore,M,0,Harris,,free,"Red Bluff, CA",GET,Home,1.5411E+12,462,,200,1.54196E+12,14
+The Van Pelt,Logged In,Theodore,M,1,Harris,208.71791,free,"Red Bluff, CA",PUT,NextSong,1.5411E+12,462,It's New To Me,200,1.54196E+12,14
+,Logged In,Ryan,M,0,Smith,,free,"San Jose-Sunnyvale-Santa Clara, CA",GET,Home,1.54102E+12,472,,200,1.54196E+12,26
+44,Logged In,Ryan,M,1,Smith,224.57424,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,472,Make You Smile,200,1.54196E+12,26
+,Logged In,Rylan,M,0,George,,free,"Birmingham-Hoover, AL",GET,Home,1.54102E+12,446,,200,1.54196E+12,16
+Chris Brown,Logged In,Rylan,M,1,George,275.1473,free,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,446,I May Never Find,200,1.54196E+12,16
+KT Tunstall,Logged In,Ryan,M,2,Smith,170.47465,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,472,Black Horse And The Cherry Tree (Radio Version),200,1.54196E+12,26
+Cascada,Logged In,Rylan,M,2,George,184.39791,free,"Birmingham-Hoover, AL",PUT,NextSong,1.54102E+12,446,Kids In America,200,1.54196E+12,16
+Incubus,Logged In,Ryan,M,3,Smith,293.38077,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,472,Black Heart Inertia,200,1.54196E+12,26
+,Logged In,Ryan,M,4,Smith,,free,"San Jose-Sunnyvale-Santa Clara, CA",GET,Help,1.54102E+12,472,,200,1.54196E+12,26
+,Logged In,Ryan,M,5,Smith,,free,"San Jose-Sunnyvale-Santa Clara, CA",GET,Home,1.54102E+12,472,,200,1.54196E+12,26
+,Logged In,Tegan,F,0,Levine,,paid,"Portland-South Portland, ME",GET,Home,1.54079E+12,435,,200,1.54197E+12,80
+Miike Snow,Logged In,Tegan,F,1,Levine,220.83873,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,435,Black & Blue,200,1.54197E+12,80
+Cartola,Logged In,Tegan,F,2,Levine,208.92689,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,435,Sala De RecepÃÂ§ÃÂ£o,200,1.54197E+12,80
+Kill The Client,Logged In,Tegan,F,3,Levine,70.68689,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,435,Commander In Thief,200,1.54197E+12,80
+,Logged In,Tegan,F,4,Levine,,paid,"Portland-South Portland, ME",GET,Home,1.54079E+12,435,,200,1.54197E+12,80
+Wolfmother,Logged In,Tegan,F,5,Levine,175.82975,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,435,Woman,200,1.54197E+12,80
+Old Crow Medicine Show,Logged In,Tegan,F,6,Levine,231.73179,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,435,Wagon Wheel,200,1.54197E+12,80
+Architecture In Helsinki,Logged In,Tegan,F,7,Levine,173.73995,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,435,Debbie,200,1.54197E+12,80
+Charlie Louvin,Logged In,Tegan,F,8,Levine,170.86649,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,435,I Think I'll Live,200,1.54197E+12,80
+Miguel Morales,Logged In,Tegan,F,9,Levine,270.78485,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,435,La Derrota de Un Don Juan,200,1.54197E+12,80
+Dominique A,Logged In,Tegan,F,10,Levine,153.20771,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,435,Le Courage Des Oiseaux,200,1.54197E+12,80
+Cock Sparrer,Logged In,Tegan,F,11,Levine,203.25832,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,435,Run With The Blind,200,1.54197E+12,80
+Jimmy Wakely,Logged In,Tegan,F,12,Levine,165.74649,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,435,I Love You So Much It Hurts,200,1.54197E+12,80
+Peter Doherty,Logged In,Tegan,F,13,Levine,217.02485,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,435,A Little Death Around the Eyes,200,1.54197E+12,80
+Katy Perry,Logged In,Tegan,F,14,Levine,246.41261,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,435,Thinking Of You,200,1.54197E+12,80
+Sidewalk Prophets,Logged In,Molly,F,0,Taylor,260.62322,free,"St. Louis, MO-IL",PUT,NextSong,1.54099E+12,464,You Love Me Anyway (Album),200,1.54197E+12,35
+Rise Against,Logged In,Molly,F,1,Taylor,221.17832,free,"St. Louis, MO-IL",PUT,NextSong,1.54099E+12,464,Torches,200,1.54197E+12,35
+K'Naan,Logged In,Molly,F,2,Taylor,220.49914,free,"St. Louis, MO-IL",PUT,NextSong,1.54099E+12,464,Wavin'  Flag,200,1.54197E+12,35
+Patrick Jumpen,Logged In,Ryan,M,0,Smith,208.87465,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,480,Holiday,200,1.54198E+12,26
+Alicia Keys,Logged In,Ryan,M,1,Smith,216.47628,free,"San Jose-Sunnyvale-Santa Clara, CA",PUT,NextSong,1.54102E+12,480,Empire State Of Mind (Part II) Broken Down,200,1.54198E+12,26

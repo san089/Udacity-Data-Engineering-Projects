@@ -1,0 +1,60 @@
+artist,auth,firstName,gender,itemInSession,lastName,length,level,location,method,page,registration,sessionId,song,status,ts,userId
+matchbox twenty,Logged In,Jayden,F,0,Duffy,177.65832,free,"Seattle-Tacoma-Bellevue, WA",PUT,NextSong,1.54015E+12,846,Argue (LP Version),200,1.54311E+12,76
+The Lonely Island / T-Pain,Logged In,Jayden,F,1,Duffy,156.23791,free,"Seattle-Tacoma-Bellevue, WA",PUT,NextSong,1.54015E+12,846,I'm On A Boat,200,1.54311E+12,76
+,Logged In,Jayden,F,2,Duffy,,free,"Seattle-Tacoma-Bellevue, WA",GET,Home,1.54015E+12,846,,200,1.54311E+12,76
+,Logged In,Jayden,F,3,Duffy,,free,"Seattle-Tacoma-Bellevue, WA",GET,Settings,1.54015E+12,846,,200,1.54311E+12,76
+,Logged In,Jayden,F,4,Duffy,,free,"Seattle-Tacoma-Bellevue, WA",PUT,Save Settings,1.54015E+12,846,,307,1.54311E+12,76
+John Mayer,Logged In,Wyatt,M,0,Scott,275.27791,free,"Eureka-Arcata-Fortuna, CA",PUT,NextSong,1.54087E+12,856,All We Ever Do Is Say Goodbye,200,1.54311E+12,9
+,Logged In,Wyatt,M,1,Scott,,free,"Eureka-Arcata-Fortuna, CA",GET,Home,1.54087E+12,856,,200,1.54311E+12,9
+10_000 Maniacs,Logged In,Wyatt,M,2,Scott,251.8722,free,"Eureka-Arcata-Fortuna, CA",PUT,NextSong,1.54087E+12,856,Gun Shy (LP Version),200,1.54311E+12,9
+Leona Lewis,Logged In,Chloe,F,0,Cuevas,203.88526,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,Forgive Me,200,1.54312E+12,49
+Nine Inch Nails,Logged In,Chloe,F,1,Cuevas,277.83791,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,La Mer,200,1.54312E+12,49
+Audioslave,Logged In,Chloe,F,2,Cuevas,334.91546,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,I Am The Highway,200,1.54312E+12,49
+Kid Rock,Logged In,Chloe,F,3,Cuevas,296.95955,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,All Summer Long (Album Version),200,1.54312E+12,49
+The Jets,Logged In,Chloe,F,4,Cuevas,220.89098,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,I Do You,200,1.54312E+12,49
+The Gerbils,Logged In,Chloe,F,5,Cuevas,27.01016,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,(iii),200,1.54312E+12,49
+Damian Marley / Stephen Marley / Yami Bolo,Logged In,Chloe,F,6,Cuevas,304.69179,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,Still Searching,200,1.54312E+12,49
+,Logged In,Chloe,F,7,Cuevas,,paid,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54094E+12,916,,200,1.54312E+12,49
+The Bloody Beetroots,Logged In,Chloe,F,8,Cuevas,201.97832,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,Warp 1.9 (feat. Steve Aoki),200,1.54312E+12,49
+,Logged In,Chloe,F,9,Cuevas,,paid,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54094E+12,916,,200,1.54313E+12,49
+The Specials,Logged In,Chloe,F,10,Cuevas,188.81261,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,Rat Race,200,1.54313E+12,49
+The Lively Ones,Logged In,Chloe,F,11,Cuevas,142.52363,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,Walkin' The Board (LP Version),200,1.54313E+12,49
+Katie Melua,Logged In,Chloe,F,12,Cuevas,252.78649,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,Blues In The Night,200,1.54313E+12,49
+Jason Mraz,Logged In,Chloe,F,13,Cuevas,243.48689,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,I'm Yours (Album Version),200,1.54313E+12,49
+Fisher,Logged In,Chloe,F,14,Cuevas,133.98159,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,Rianna,200,1.54313E+12,49
+Zee Avi,Logged In,Chloe,F,15,Cuevas,160.62649,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,No Christmas For Me,200,1.54313E+12,49
+Black Eyed Peas,Logged In,Chloe,F,16,Cuevas,289.12281,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,I Gotta Feeling,200,1.54313E+12,49
+Emiliana Torrini,Logged In,Chloe,F,17,Cuevas,184.29342,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,Sunny Road,200,1.54313E+12,49
+,Logged In,Chloe,F,18,Cuevas,,paid,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54094E+12,916,,200,1.54313E+12,49
+Days Of The New,Logged In,Chloe,F,19,Cuevas,258.5073,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,The Down Town,200,1.54313E+12,49
+Julio Iglesias duet with Willie Nelson,Logged In,Chloe,F,20,Cuevas,212.16608,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,916,To All The Girls I've Loved Before (With Julio Iglesias),200,1.54313E+12,49
+,Logged In,Jacqueline,F,0,Lynch,,paid,"Atlanta-Sandy Springs-Roswell, GA",GET,Home,1.54022E+12,914,,200,1.54313E+12,29
+Jason Mraz & Colbie Caillat,Logged In,Chloe,F,0,Roth,189.6224,free,"Indianapolis-Carmel-Anderson, IN",PUT,NextSong,1.5407E+12,704,Lucky (Album Version),200,1.54314E+12,78
+,Logged In,Anabelle,F,0,Simpson,,free,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",GET,Home,1.54104E+12,901,,200,1.54315E+12,69
+R. Kelly,Logged In,Anabelle,F,1,Simpson,234.39628,free,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PUT,NextSong,1.54104E+12,901,The World's Greatest,200,1.54315E+12,69
+,Logged In,Kynnedi,F,0,Sanchez,,free,"Cedar Rapids, IA",GET,Home,1.54108E+12,804,,200,1.54315E+12,89
+Jacky Terrasson,Logged In,Marina,F,0,Sutton,342.7522,free,"Salinas, CA",PUT,NextSong,1.54106E+12,373,Le Jardin d'Hiver,200,1.54315E+12,48
+Papa Roach,Logged In,Theodore,M,0,Harris,202.1873,free,"Red Bluff, CA",PUT,NextSong,1.5411E+12,813,Alive,200,1.54316E+12,14
+Burt Bacharach,Logged In,Theodore,M,1,Harris,156.96934,free,"Red Bluff, CA",PUT,NextSong,1.5411E+12,813,Casino Royale Theme (Main Title),200,1.54316E+12,14
+,Logged In,Chloe,F,0,Cuevas,,paid,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54094E+12,923,,200,1.54316E+12,49
+Floetry,Logged In,Chloe,F,1,Cuevas,254.48444,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,923,Sunshine,200,1.54316E+12,49
+The Rakes,Logged In,Chloe,F,2,Cuevas,225.2273,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,923,Leave The City And Come Home,200,1.54316E+12,49
+Dwight Yoakam,Logged In,Chloe,F,3,Cuevas,239.3073,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,923,You're The One,200,1.54316E+12,49
+Ween,Logged In,Chloe,F,4,Cuevas,228.10077,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,923,Voodoo Lady,200,1.54316E+12,49
+CafÃÂ© Quijano,Logged In,Chloe,F,5,Cuevas,197.32853,paid,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,923,La Lola,200,1.54316E+12,49
+,Logged In,Chloe,F,0,Roth,,free,"Indianapolis-Carmel-Anderson, IN",GET,Home,1.5407E+12,925,,200,1.54317E+12,78
+Parov Stelar,Logged In,Chloe,F,1,Roth,203.65016,free,"Indianapolis-Carmel-Anderson, IN",PUT,NextSong,1.5407E+12,925,Good Bye Emily (feat. Gabriella Hanninen),200,1.54317E+12,78
+,Logged In,Chloe,F,2,Roth,,free,"Indianapolis-Carmel-Anderson, IN",GET,Home,1.5407E+12,925,,200,1.54317E+12,78
+,Logged In,Tegan,F,0,Levine,,paid,"Portland-South Portland, ME",GET,Home,1.54079E+12,915,,200,1.54317E+12,80
+Bryan Adams,Logged In,Tegan,F,1,Levine,166.29506,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,915,I Will Always Return,200,1.54317E+12,80
+KT Tunstall,Logged In,Tegan,F,2,Levine,192.31302,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,915,White Bird,200,1.54317E+12,80
+Technicolour,Logged In,Tegan,F,3,Levine,235.12771,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,915,Turn Away,200,1.54317E+12,80
+The Dears,Logged In,Tegan,F,4,Levine,289.95873,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,915,Lost In The Plot,200,1.54317E+12,80
+Go West,Logged In,Tegan,F,5,Levine,259.49995,paid,"Portland-South Portland, ME",PUT,NextSong,1.54079E+12,915,Never Let Them See You Sweat,200,1.54317E+12,80
+,Logged In,Tegan,F,6,Levine,,paid,"Portland-South Portland, ME",PUT,Logout,1.54079E+12,915,,307,1.54317E+12,80
+,Logged In,Sylvie,F,0,Cruz,,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",GET,Home,1.54027E+12,912,,200,1.54317E+12,10
+,Logged Out,,,7,,,paid,,GET,Home,,915,,200,1.54317E+12,
+Gondwana,Logged In,Jordan,F,0,Hicks,262.5824,free,"Salinas, CA",PUT,NextSong,1.54001E+12,814,Mi Princesa,200,1.54319E+12,37
+,Logged In,Kevin,M,0,Arellano,,free,"Harrisburg-Carlisle, PA",GET,Home,1.54001E+12,855,,200,1.54319E+12,66
+Ella Fitzgerald,Logged In,Jordan,F,1,Hicks,427.15383,free,"Salinas, CA",PUT,NextSong,1.54001E+12,814,On Green Dolphin Street (Medley) (1999 Digital Remaster),200,1.54319E+12,37
+Creedence Clearwater Revival,Logged In,Jordan,F,2,Hicks,184.73751,free,"Salinas, CA",PUT,NextSong,1.54001E+12,814,Run Through The Jungle,200,1.54319E+12,37

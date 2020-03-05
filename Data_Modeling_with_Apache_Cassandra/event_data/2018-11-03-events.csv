@@ -1,0 +1,112 @@
+artist,auth,firstName,gender,itemInSession,lastName,length,level,location,method,page,registration,sessionId,song,status,ts,userId
+,Logged Out,,,0,,,free,,PUT,Login,,52,,307,1.54121E+12,
+,Logged In,Celeste,F,1,Williams,,free,"Klamath Falls, OR",GET,Home,1.54108E+12,52,,200,1.54121E+12,53
+Mynt,Logged In,Celeste,F,2,Williams,166.94812,free,"Klamath Falls, OR",PUT,NextSong,1.54108E+12,52,Playa Haters,200,1.54121E+12,53
+Taylor Swift,Logged In,Celeste,F,3,Williams,230.47791,free,"Klamath Falls, OR",PUT,NextSong,1.54108E+12,52,You Belong With Me,200,1.54121E+12,53
+Amy Winehouse,Logged In,Celeste,F,4,Williams,229.85098,free,"Klamath Falls, OR",PUT,NextSong,1.54108E+12,52,Valerie,200,1.54121E+12,53
+Jimmy Eat World,Logged In,Celeste,F,5,Williams,285.83138,free,"Klamath Falls, OR",PUT,NextSong,1.54108E+12,52,Dizzy,200,1.54121E+12,53
+,Logged Out,,,0,,,free,,GET,Home,,18,,200,1.54124E+12,
+Maldita Nerea,Logged In,Anabelle,F,0,Simpson,241.162,free,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PUT,NextSong,1.54104E+12,158,Supelicula,200,1.54125E+12,69
+Fluke,Logged In,Connar,M,0,Moreno,478.92853,free,"Houston-The Woodlands-Sugar Land, TX",PUT,NextSong,1.54082E+12,168,Bermuda,200,1.54126E+12,62
+Habib KoitÃÂ©,Logged In,Jayden,M,0,Fox,285.1522,free,"New Orleans-Metairie, LA",PUT,NextSong,1.54103E+12,185,Din Din Wo,200,1.54126E+12,101
+The Kooks,Logged In,Sara,F,0,Johnson,132.25751,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Eddie's Gun,200,1.54126E+12,95
+Blues Traveler,Logged In,Sara,F,1,Johnson,290.24608,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Hook,200,1.54126E+12,95
+Coldplay,Logged In,Sara,F,2,Johnson,298.762,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Shiver,200,1.54126E+12,95
+Tom Petty And The Heartbreakers,Logged In,Sara,F,3,Johnson,183.01342,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,The Wild One_ Forever,200,1.54126E+12,95
+Girl Talk,Logged In,Sara,F,4,Johnson,173.24363,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Give and Go,200,1.54126E+12,95
+Florence + The Machine,Logged In,Sara,F,5,Johnson,258.55955,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Cosmic Love,200,1.54126E+12,95
+Three Drives,Logged In,Sara,F,6,Johnson,411.6371,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Greece 2000,200,1.54126E+12,95
+Jonas Brothers,Logged In,Sara,F,7,Johnson,192.36526,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Sorry,200,1.54126E+12,95
+Tevin Campbell,Logged In,Sara,F,8,Johnson,293.04118,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Round And Round (Soul Mix Edit),200,1.54126E+12,95
+Sting,Logged In,Sara,F,9,Johnson,257.12281,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Windmills Of Your Mind,200,1.54126E+12,95
+The Champs,Logged In,Sara,F,10,Johnson,132.0224,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Tequila,200,1.54126E+12,95
+RÃÂ¶yksopp,Logged In,Sara,F,11,Johnson,214.93506,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Poor Leno Jakatta Radio Mix,200,1.54126E+12,95
+Avenged Sevenfold,Logged In,Sara,F,12,Johnson,312.11057,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Bat Country (Album Version),200,1.54126E+12,95
+,Logged In,Sylvie,F,0,Cruz,,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",GET,Home,1.54027E+12,210,,200,1.54126E+12,10
+Sam Cooke,Logged In,Sara,F,13,Johnson,122.04363,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Ain't Misbehavin,200,1.54126E+12,95
+Apulanta,Logged In,Sara,F,14,Johnson,219.53261,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Hallaa,200,1.54126E+12,95
+Era,Logged In,Sara,F,15,Johnson,200.56771,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Cathar Rhythm,200,1.54126E+12,95
+Klaus Badelt,Logged In,Sylvie,F,1,Cruz,128.62649,free,"Washington-Arlington-Alexandria, DC-VA-MD-WV",PUT,NextSong,1.54027E+12,210,Moonlight Serenade,200,1.54126E+12,10
+Parov Stelar,Logged In,Sara,F,16,Johnson,281.5473,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,KissKiss,200,1.54126E+12,95
+Florence + The Machine,Logged In,Lily,F,0,Koch,290.48118,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Rabbit Heart (Raise It Up),200,1.54126E+12,15
+De La Soul,Logged In,Sara,F,17,Johnson,221.72689,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Me_ Myself & I,200,1.54126E+12,95
+Lil Wayne / T-Pain,Logged In,Sara,F,18,Johnson,244.58404,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Got Money,200,1.54126E+12,95
+Cher,Logged In,Lily,F,1,Koch,167.41832,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Milord,200,1.54126E+12,15
+Edge Of Dawn,Logged In,Lily,F,2,Koch,253.72689,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Losing Ground,200,1.54126E+12,15
+The Black Keys,Logged In,Sara,F,19,Johnson,223.84281,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Elevator,200,1.54126E+12,95
+Smokie Norful,Logged In,Lily,F,3,Koch,337.84118,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,I Need You Now (Build A Bridge Version),200,1.54126E+12,15
+Adam Lambert,Logged In,Sara,F,20,Johnson,227.39546,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Whataya Want From Me,200,1.54127E+12,95
+Pulp,Logged In,Sara,F,21,Johnson,208.95302,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Little Girl (With Blue Eyes),200,1.54127E+12,95
+Alliance Ethnik,Logged In,Lily,F,4,Koch,265.76934,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Creil City,200,1.54127E+12,15
+Tricky,Logged In,Sara,F,22,Johnson,212.79302,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Ponderosa,200,1.54127E+12,95
+John Butler Trio,Logged In,Lily,F,5,Koch,223.68608,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Betterman (full-length/album version),200,1.54127E+12,15
+Culture Club,Logged In,Sara,F,23,Johnson,282.48771,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Believe (Demo),200,1.54127E+12,95
+The Temper Trap,Logged In,Lily,F,6,Koch,192.67873,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Fader,200,1.54127E+12,15
+La Mosca Tse-Tse,Logged In,Sara,F,24,Johnson,195.082,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Patadas En El Corazon,200,1.54127E+12,95
+Cute Is What We Aim For,Logged In,Lily,F,7,Koch,201.22077,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Finger Twist & Split (Album Version),200,1.54127E+12,15
+Jack Johnson,Logged In,Sara,F,25,Johnson,236.72118,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Bubble Toes,200,1.54127E+12,95
+Siriusmo,Logged In,Lily,F,8,Koch,272.61342,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Simple,200,1.54127E+12,15
+Creedence Clearwater Revival,Logged In,Sara,F,26,Johnson,312.89424,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Feelin' Blue,200,1.54127E+12,95
+Alberto Plaza,Logged In,Lily,F,9,Koch,271.3073,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,No Seas Cruel (vivo),200,1.54127E+12,15
+Brand New,Logged In,Sara,F,27,Johnson,188.49914,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Not The Sun,200,1.54127E+12,95
+Sean Lennon,Logged In,Lily,F,10,Koch,202.97098,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Into The Sun,200,1.54127E+12,15
+K-OS,Logged In,Sara,F,28,Johnson,211.33016,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,EMCEE Murdah,200,1.54127E+12,95
+Nana Caymmi,Logged In,Lily,F,11,Koch,251.0624,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Acercate Mas (2000 Digital Remaster),200,1.54127E+12,15
+Casino Versus Japan,Logged In,Sara,F,29,Johnson,86.30812,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Moonlupe,200,1.54127E+12,95
+the bird and the bee,Logged In,Sara,F,30,Johnson,281.23383,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Ray Gun,200,1.54127E+12,95
+Skyforger,Logged In,Lily,F,12,Koch,38.94812,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,In the Yard of the Father's Son,200,1.54127E+12,15
+Bryan Ferry,Logged In,Lily,F,13,Koch,265.87383,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Slave To Love (1999 Digital Remaster),200,1.54127E+12,15
+The Black Keys,Logged In,Sara,F,31,Johnson,196.91057,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,All Hands Against His Own,200,1.54127E+12,95
+Foxy Shazam,Logged In,Lily,F,14,Koch,201.74322,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Wanna-be Angel (Album Version),200,1.54127E+12,15
+The Ruts,Logged In,Sara,F,32,Johnson,338.96444,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,West One (Shine On Me),200,1.54127E+12,95
+Old 97's,Logged In,Lily,F,15,Koch,231.28771,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Victoria (LP Version),200,1.54127E+12,15
+Lonnie Gordon,Logged In,Lily,F,16,Koch,181.21098,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Catch You Baby (Steve Pitron & Max Sanna Radio Edit),200,1.54127E+12,15
+Bon Iver,Logged In,Sara,F,33,Johnson,220.70812,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,For Emma,200,1.54127E+12,95
+Florence + The Machine,Logged In,Lily,F,17,Koch,219.66322,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Dog Days Are Over (Radio Edit),200,1.54127E+12,15
+Glen Washington,Logged In,Sara,F,34,Johnson,193.82812,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,One Of These Days,200,1.54127E+12,95
+Mad Cobra,Logged In,Lily,F,18,Koch,230.68689,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Flex,200,1.54127E+12,15
+Dropout Year,Logged In,Sara,F,35,Johnson,227.36934,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,This Notebook,200,1.54127E+12,95
+Flogging Molly,Logged In,Lily,F,19,Koch,260.75383,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Punch Drunk Grinning Soul,200,1.54127E+12,15
+Young Rebel Set,Logged In,Sara,F,36,Johnson,248.55465,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,If I Was,200,1.54127E+12,95
+Sneaker Pimps,Logged In,Lily,F,20,Koch,260.91057,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Spin Spin Sugar,200,1.54127E+12,15
+Righteous Brothers,Logged In,Sara,F,37,Johnson,215.90159,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Unchained Melody,200,1.54127E+12,95
+Me First And The Gimme Gimmes,Logged In,Sara,F,38,Johnson,64.39138,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Jonny's Blessing,200,1.54127E+12,95
+Texas In July,Logged In,Lily,F,21,Koch,190.69342,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Aurora,200,1.54127E+12,15
+Alice In Chains,Logged In,Sara,F,39,Johnson,230.60853,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,God Smack,200,1.54127E+12,95
+,Logged In,Sara,F,40,Johnson,,paid,"Winston-Salem, NC",GET,Downgrade,1.54081E+12,152,,200,1.54127E+12,95
+10 Years,Logged In,Lily,F,22,Koch,229.95546,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Wasteland,200,1.54127E+12,15
+Juanes,Logged In,Lily,F,23,Koch,233.40363,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,No Siento Penas,200,1.54127E+12,15
+,Logged In,Sara,F,41,Johnson,,paid,"Winston-Salem, NC",GET,Downgrade,1.54081E+12,152,,200,1.54127E+12,95
+,Logged In,Sara,F,42,Johnson,,paid,"Winston-Salem, NC",GET,Home,1.54081E+12,152,,200,1.54127E+12,95
+Cat Stevens,Logged In,Sara,F,43,Johnson,200.202,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Wild World,200,1.54127E+12,95
+Passion Pit,Logged In,Lily,F,24,Koch,174.75873,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Sleepyhead,200,1.54127E+12,15
+The Temper Trap,Logged In,Sara,F,44,Johnson,192.67873,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Fader,200,1.54127E+12,95
+OneRepublic,Logged In,Lily,F,25,Koch,224.67873,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Secrets,200,1.54127E+12,15
+Diplo,Logged In,Sara,F,45,Johnson,96.86159,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Florida,200,1.54127E+12,95
+Afro Celt Sound System,Logged In,Sara,F,46,Johnson,425.01179,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Even In My Dreams,200,1.54127E+12,95
+PeterLicht,Logged In,Lily,F,26,Koch,306.80771,paid,"Chicago-Naperville-Elgin, IL-IN-WI",PUT,NextSong,1.54105E+12,199,Heiterkeit,200,1.54127E+12,15
+,Logged In,Lily,F,27,Koch,,paid,"Chicago-Naperville-Elgin, IL-IN-WI",GET,Downgrade,1.54105E+12,199,,200,1.54127E+12,15
+M.A. Numminen,Logged In,Sara,F,47,Johnson,166.55628,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,TULENLIEKKI,200,1.54127E+12,95
+,Logged In,Sara,F,48,Johnson,,paid,"Winston-Salem, NC",GET,Home,1.54081E+12,152,,200,1.54127E+12,95
+Limp Bizkit,Logged In,Sara,F,49,Johnson,214.5171,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Rollin' (Air Raid Vehicle),200,1.54127E+12,95
+Downhere,Logged In,Sara,F,50,Johnson,230.71302,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,In America (Album Version),200,1.54127E+12,95
+Roots Manuva,Logged In,Sara,F,51,Johnson,233.92608,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,No Love,200,1.54127E+12,95
+Lykke Li,Logged In,Sara,F,52,Johnson,162.19383,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Let It Fall,200,1.54127E+12,95
+Plan B,Logged In,Sara,F,53,Johnson,222.82404,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Free,200,1.54127E+12,95
+Octopus Project,Logged In,Sara,F,54,Johnson,498.33751,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Hypnopaedia,200,1.54127E+12,95
+OneRepublic,Logged In,Sara,F,55,Johnson,224.67873,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Secrets,200,1.54127E+12,95
+Gilberto Santa Rosa,Logged In,Sara,F,56,Johnson,272.16934,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,La Sigo Amando Tanto,200,1.54127E+12,95
+Eric Clapton,Logged In,Sara,F,57,Johnson,271.80363,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Tears In Heaven,200,1.54127E+12,95
+ARRESTED DEVELOPMENT,Logged In,Sara,F,58,Johnson,200.98567,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Fountain Of Youth,200,1.54127E+12,95
+,Logged In,Sara,F,59,Johnson,,paid,"Winston-Salem, NC",GET,Home,1.54081E+12,152,,200,1.54127E+12,95
+Future Rock,Logged In,Sara,F,60,Johnson,239.90812,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Gears,200,1.54127E+12,95
+Steppenwolf,Logged In,Sara,F,61,Johnson,208.14322,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Born To Be Wild,200,1.54127E+12,95
+Jason Mraz & Colbie Caillat,Logged In,Sara,F,62,Johnson,189.6224,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,Lucky (Album Version),200,1.54127E+12,95
+Leonard Cohen,Logged In,Sara,F,63,Johnson,298.57914,paid,"Winston-Salem, NC",PUT,NextSong,1.54081E+12,152,The Stranger Song,200,1.54127E+12,95
+Bright Eyes,Logged In,Ayla,F,0,Johnson,279.09179,free,"Santa Rosa, CA",PUT,NextSong,1.54088E+12,135,Kathy with a K's Song,200,1.54128E+12,63
+,Logged In,Chloe,F,0,Cuevas,,free,"San Francisco-Oakland-Hayward, CA",GET,Home,1.54094E+12,195,,200,1.54128E+12,49
+The Smiths,Logged In,Chloe,F,1,Cuevas,196.67546,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,195,The Boy With The Thorn In His Side,200,1.54128E+12,49
+Quique Gonzalez,Logged In,Chloe,F,2,Cuevas,214.20363,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,195,Cuando Eramos Reyes,200,1.54128E+12,49
+Muse,Logged In,Chloe,F,3,Cuevas,210.46812,free,"San Francisco-Oakland-Hayward, CA",PUT,NextSong,1.54094E+12,195,Pink Ego Box,200,1.54128E+12,49
+Sugarland,Logged In,Cecilia,F,0,Owens,247.77098,free,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54103E+12,5,Just Might (Make Me Believe),200,1.54129E+12,6
+A Hope For Home,Logged In,Cecilia,F,1,Owens,388.38812,free,"Atlanta-Sandy Springs-Roswell, GA",PUT,NextSong,1.54103E+12,5,Absolution: Of Flight and Failure,200,1.54129E+12,6

@@ -26,11 +26,14 @@ class BusinessSearch:
         # Location example : 'location': { 'display_address': ['316 Avenue du Mont-Royal E', 'Montreal, QC H2T 1P7', 'Canada']}
         location = ','.join(data['location']['display_address'])
 
-        return {"id" : data['id'], "name" : data['name'], "image_url" : data['image_url'], "url" : data['url'],
+        return {"id" : data['id'], "name" : self._add_escape_character(data['name']), "image_url" : data['image_url'], "url" : data['url'],
                 "review_count" : data['review_count'], "categories" : categories, "rating" : data['rating'],
                 "latitude" : latitude, "longitude" : longitude, "price" : data['price'], "location" : location,
                 "display_phone" : data['display_phone']
                 }
+
+    def _add_escape_character(self, data):
+        return data.replace("'", "''")
 
     def get_results(self):
         return [self._parse_results(business) for business in self._business_list]
